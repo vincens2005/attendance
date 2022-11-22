@@ -11,3 +11,5 @@ def convertattendance(filepath, output): # this function makes the data pretty :
 	attendance.to_csv(output, "	", index=False, date_format="%d/%m/%Y")
 
 convertattendance("attendance.csv", "processed.csv")
+
+# TODO delta abscences https://stackoverflow.com/questions/39880627/in-pandas-how-to-delete-rows-from-a-data-frame-based-on-another-data-frame
