@@ -8,6 +8,7 @@ from tkinter import filedialog as fd
 def convertattendance(attendance):
 	attendance = attendance.sort_values(by=["Student summary"])
 	attendance = attendance.groupby("Student summary", group_keys=False).apply(lambda x: x)
+	attendance["Attendance date"] = attendance["Attendance date"].dt.strftime('%m/%d/%Y')
 	attendance = attendance[["Student summary", "Attendance date", "Course", "Reason"]]
 	return attendance
 
@@ -17,7 +18,7 @@ o = None
 root = tk.Tk()
 root.title("Magic Attendance App")
 root.resizable(True, True)
-root.geometry("700x600")
+root.geometry("400x300")
 
 
 input_buttontext = tk.StringVar()
@@ -64,7 +65,7 @@ def pick_in():
 def pick_out():
 	global o, output_file, output_buttontext, gobutton
 	if o != None:
-		o = ""
+		o = None
 		output_buttontext.set("Pick a File")
 		output_file.set("Output file:")
 		gobutton["state"] = "disabled"
@@ -76,7 +77,7 @@ def pick_out():
 	)
 
 	# show the open file dialog
-	f = fd.askopenfilename(filetypes=filetypes)
+	f = fd.asksaveasfilename(filetypes=filetypes)
 	o = f
 	output_file.set("Out: " + f)
 	output_buttontext.set("Clear")
@@ -91,7 +92,7 @@ def domagic():
 
 	attendance = convertattendance(attendance)
 	if o.endswith(".xlsx"):
-		attendance.to_excel(o, "	", index=False, date_format="%d/%m/%Y")
+		attendance.to_excel(o, index=False, sheet_name="Attendance")
 	else:
 		attendance.to_csv(o, "	", index=False, date_format="%d/%m/%Y")
 
@@ -123,7 +124,7 @@ op.grid(column=0, row=2, sticky=tk.W, padx=10, pady=10)
 should_open.set(True)
 
 gobutton = ttk.Button(root, text="Do Magic!", command=domagic)
-gobutton.grid(column=1, row=3, sticky="w", padx=100, pady=100)
+gobutton.grid(column=1, row=3, sticky="w", padx=10, pady=10)
 gobutton["state"] = "disabled"
 
 root.mainloop()
