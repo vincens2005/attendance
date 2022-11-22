@@ -6,8 +6,7 @@ from tkinter import ttk
 from tkinter import filedialog as fd
 
 def convertattendance(attendance):
-	attendance = attendance.sort_values(by=["Student summary"])
-	attendance = attendance.groupby("Student summary", group_keys=False).apply(lambda x: x)
+	attendance = attendance.sort_values(["Student summary", "Course"])
 	attendance["Attendance date"] = attendance["Attendance date"].dt.strftime('%m/%d/%Y')
 	attendance = attendance[["Student summary", "Attendance date", "Course", "Reason"]]
 	return attendance
