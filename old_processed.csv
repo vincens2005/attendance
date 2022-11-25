@@ -1,0 +1,3211 @@
+﻿Student summary,Attendance date,Course,Reason
+A,10-04-22,Chemistry,"Illness - All Day (LS, MS, US)"
+A,10-06-22,Chemistry,"Other (LS, MS, US)"
+A,11-10-22,Chemistry,"Illness - All Day (LS, MS, US)"
+A,11-15-22,Chemistry,"Other (LS, MS, US)"
+A,9-26-22,Civics: Understanding Our Rights,Absent
+A,10-04-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+A,11-10-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+A,9-07-22,English 10,Absent
+A,10-04-22,French II,"Illness - All Day (LS, MS, US)"
+A,11-10-22,French II,"Illness - All Day (LS, MS, US)"
+A,11-15-22,French II,School Trip - Full Day
+AAA,9-19-22,Astronomy,"Other (LS, MS, US)"
+AAA,9-29-22,Astronomy,"Illness - Left Early (MS, US)"
+AAA,9-19-22,Dramatic Literature,"Late Arrival (LS, MS, US)"
+AAA,9-29-22,Dramatic Literature,"Illness - Left Early (MS, US)"
+AAA,11-18-22,Dramatic Literature,"Unknown Reason (LS, MS, US)"
+AAA,9-21-22,French IV,"Other (LS, MS, US)"
+AAA,10-07-22,French IV,"Other (LS, MS, US)"
+AAA,10-28-22,French IV,Absent
+AAA,11-14-22,French IV,"Other (LS, MS, US)"
+AAA,10-25-22,How Do We See,"Other (LS, MS, US)"
+AAA,11-15-22,How Do We See,"Other (LS, MS, US)"
+AAA,9-30-22,Math Analysis,Absent
+AAAA,9-14-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+AAAA,9-30-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+AAAA,10-13-22,Advanced Algebra,"Late Arrival (LS, MS, US)"
+AAAA,9-19-22,Astronomy,"Other (LS, MS, US)"
+AAAA,9-23-22,Astronomy,"Medical Appt. - PM (MS, US)"
+AAAA,10-12-22,Astronomy,"Other (LS, MS, US)"
+AAAA,9-09-22,Computer Art,"Medical Appt. - PM (MS, US)"
+AAAA,9-19-22,Computer Art,"Other (LS, MS, US)"
+AAAA,10-12-22,Computer Art,"Other (LS, MS, US)"
+AAAA,9-19-22,The Graphic Novel,"Other (LS, MS, US)"
+AAAA,10-12-22,The Graphic Novel,"Other (LS, MS, US)"
+AAAA,9-28-22,US History,Sports Dismissal- Full Class Period
+AAAA,10-04-22,US History,"Medical Appt. - AM (MS, US)"
+AAAAA,9-09-22,Advanced Biology,Sports  Dismissal- Half Class Period
+AAAAA,9-27-22,Advanced Biology,"Other (LS, MS, US)"
+AAAAA,10-07-22,Advanced Biology,"Medical Appt. - All Day (MS, US)"
+AAAAA,10-12-22,Advanced Biology,"Other (LS, MS, US)"
+AAAAA,11-14-22,Advanced Biology,"Illness - Left Early (MS, US)"
+AAAAA,9-30-22,Ecological Literature,"Other (LS, MS, US)"
+AAAAA,10-31-22,Ecological Literature,"Medical Appt. - AM (MS, US)"
+AAAAA,9-09-22,French IV,School Trip - Full Day
+AAAAA,9-21-22,French IV,"Late Arrival (LS, MS, US)"
+AAAAA,10-12-22,French IV,"Other (LS, MS, US)"
+AAAAA,9-08-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+AAAAA,9-12-22,Math Analysis,"Illness - Left Early (MS, US)"
+AAAAA,10-04-22,Math Analysis,"Other (LS, MS, US)"
+AAAAA,10-25-22,Math Analysis,"Medical Appt. - PM (MS, US)"
+AAAAA,10-27-22,Math Analysis,"Other (LS, MS, US)"
+AAAAA,11-02-22,Math Analysis,"Medical Appt. - PM (MS, US)"
+AAAAA,10-27-22,US History,"Other (LS, MS, US)"
+AAAAA,9-09-22,Yoga,School Trip - Full Day
+AAAAA,9-15-22,Yoga,"Late Arrival (LS, MS, US)"
+AAAAA,9-27-22,Yoga,"Other (LS, MS, US)"
+AAAAA,10-05-22,Yoga,"Illness - Left Early (MS, US)"
+AAAAA,10-12-22,Yoga,"Other (LS, MS, US)"
+AAAAA,10-28-22,Yoga,"Other (LS, MS, US)"
+AAAAAA,9-16-22,English 9,"Family Trip (LS, MS, US)"
+AAAAAA,10-13-22,English 9,"Illness - All Day (LS, MS, US)"
+AAAAAA,9-16-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+AAAAAA,10-13-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+AAAAAA,9-16-22,Tykoe Yearbook,"Family Trip (LS, MS, US)"
+AAAAAA,10-13-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+AAAAAAA,9-09-22,Black and White Photography,School Trip - Full Day
+AAAAAAA,10-17-22,Black and White Photography,Sports  Dismissal- Half Class Period
+AAAAAAA,9-09-22,English 9,School Trip - Full Day
+AAAAAAA,9-09-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+AAAAAAAA,9-16-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+AAAAAAAA,11-17-22,Advanced Algebra,"Late Arrival (LS, MS, US)"
+AAAAAAAA,9-19-22,Chemistry,"Late Arrival (LS, MS, US)"
+AAAAAAAA,11-16-22,Chemistry,"Illness - All Day (LS, MS, US)"
+AAAAAAAA,11-16-22,Computer Art,"Illness - All Day (LS, MS, US)"
+AAAAAAAA,11-18-22,Computer Art,"Late Arrival (LS, MS, US)"
+AAAAAAAA,11-16-22,English 10,"Illness - All Day (LS, MS, US)"
+AAAAAAAA,9-16-22,Japanese History and Culture,"Family Trip (LS, MS, US)"
+AAAAAAAA,10-06-22,Japanese History and Culture,"Illness - Left Early (MS, US)"
+AAAAAAAA,9-16-22,Spanish II,"Family Trip (LS, MS, US)"
+AAAAAAAA,10-06-22,Spanish II,"Illness - Left Early (MS, US)"
+AAAAAAAA,11-02-22,Spanish II,"Late Arrival (LS, MS, US)"
+AAAAAAAAA,10-04-22,Biology,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-06-22,Biology,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-04-22,English 9,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-06-22,English 9,"Family Trip (LS, MS, US)"
+AAAAAAAAA,9-09-22,Geometry,School Trip - Full Day
+AAAAAAAAA,10-03-22,Geometry,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-05-22,Geometry,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-07-22,Geometry,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-04-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-06-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+AAAAAAAAA,9-09-22,Spanish II,Sports  Dismissal- Half Class Period
+AAAAAAAAA,10-03-22,Spanish II,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-05-22,Spanish II,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-07-22,Spanish II,"Family Trip (LS, MS, US)"
+AAAAAAAAA,9-09-22,Stage Makeup,School Trip - Full Day
+AAAAAAAAA,10-05-22,Stage Makeup,"Family Trip (LS, MS, US)"
+AAAAAAAAA,10-07-22,Stage Makeup,"Family Trip (LS, MS, US)"
+AAAAAAAAAA,9-22-22,Advanced Calculus,"Other (LS, MS, US)"
+AAAAAAAAAA,9-26-22,Advanced Calculus,"Other (LS, MS, US)"
+AAAAAAAAAA,11-04-22,Advanced Calculus,School Trip - Full Day
+AAAAAAAAAA,9-22-22,How Do We See,"Other (LS, MS, US)"
+AAAAAAAAAA,9-26-22,How Do We See,"Other (LS, MS, US)"
+AAAAAAAAAA,11-04-22,How Do We See,School Trip - Full Day
+AAAAAAAAAA,11-17-22,How Do We See,"Medical Appt. - AM (MS, US)"
+AAAAAAAAAA,9-22-22,Mandarin IV,"Other (LS, MS, US)"
+AAAAAAAAAA,9-26-22,Mandarin IV,"Other (LS, MS, US)"
+AAAAAAAAAA,11-04-22,Mandarin IV,School Trip - Full Day
+AAAAAAAAAA,9-21-22,Strength and Conditioning,"Other (LS, MS, US)"
+AAAAAAAAAA,9-23-22,Strength and Conditioning,"Other (LS, MS, US)"
+AAAAAAAAAA,10-05-22,Strength and Conditioning,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAA,10-17-22,Strength and Conditioning,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAA,9-21-22,The Graphic Novel,"Other (LS, MS, US)"
+AAAAAAAAAA,9-23-22,The Graphic Novel,"Other (LS, MS, US)"
+AAAAAAAAAA,10-05-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAA,10-17-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAAA,9-12-22,Advanced Biology,"Other (LS, MS, US)"
+AAAAAAAAAAA,9-20-22,Advanced Biology,College Visit-Off Campus (US)
+AAAAAAAAAAA,9-19-22,Ecological Literature,College Visit-Off Campus (US)
+AAAAAAAAAAA,9-21-22,Ecological Literature,College Visit-Off Campus (US)
+AAAAAAAAAAA,10-03-22,Ecological Literature,"Other (LS, MS, US)"
+AAAAAAAAAAA,10-05-22,Ecological Literature,"Other (LS, MS, US)"
+AAAAAAAAAAA,10-07-22,Ecological Literature,"Other (LS, MS, US)"
+AAAAAAAAAAA,9-20-22,Marxism and Its Legacy,College Visit-Off Campus (US)
+AAAAAAAAAAA,9-20-22,Multivariable Calculus,College Visit-Off Campus (US)
+AAAAAAAAAAA,10-06-22,Multivariable Calculus,"Other (LS, MS, US)"
+AAAAAAAAAAA,9-19-22,Spanish: Advanced Studies,College Visit-Off Campus (US)
+AAAAAAAAAAA,9-21-22,Spanish: Advanced Studies,College Visit-Off Campus (US)
+AAAAAAAAAAA,10-07-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+AAAAAAAAAAAA,9-20-22,Chemistry,Sports  Dismissal- Half Class Period
+AAAAAAAAAAAA,10-11-22,Chemistry,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAAAA,10-11-22,English 10,"Illness - All Day (LS, MS, US)"
+AAAAAAAAAAAA,10-05-22,Global Women's Issues,"Religious Holiday (LS, MS, US)"
+AAAAAAAAAAAA,10-05-22,Health,"Religious Holiday (LS, MS, US)"
+AAAAAAAAAAAA,11-14-22,Health,Absent
+AAAAAAAAAAAA,10-05-22,Math Analysis,"Religious Holiday (LS, MS, US)"
+AAAAAAAAAAAA,11-14-22,Math Analysis,"Other (LS, MS, US)"
+AAAAAAAAAAAA,10-11-22,Spanish III,"Illness - All Day (LS, MS, US)"
+B,9-23-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+B,10-05-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+B,9-23-22,Chemistry,"Illness - All Day (LS, MS, US)"
+B,10-05-22,Chemistry,"Illness - All Day (LS, MS, US)"
+B,10-17-22,Chemistry,"Medical Appt. - AM (MS, US)"
+B,10-04-22,English 10,"Illness - All Day (LS, MS, US)"
+B,10-04-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+B,10-06-22,Marxism and Its Legacy,"Medical Appt. - PM (MS, US)"
+B,9-23-22,Spanish III,"Illness - All Day (LS, MS, US)"
+B,10-05-22,Spanish III,"Illness - All Day (LS, MS, US)"
+B,10-04-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+BB,10-06-22,Advanced Calculus,"Other (LS, MS, US)"
+BB,10-11-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+BB,10-18-22,Advanced Calculus,"Other (LS, MS, US)"
+BB,9-09-22,Black and White Photography,Sports  Dismissal- Half Class Period
+BB,9-19-22,Black and White Photography,Sports  Dismissal- Half Class Period
+BB,10-03-22,Black and White Photography,"Other (LS, MS, US)"
+BB,10-17-22,Black and White Photography,"Other (LS, MS, US)"
+BB,10-28-22,Black and White Photography,"Other (LS, MS, US)"
+BB,10-11-22,How Do We See,"Family Trip (LS, MS, US)"
+BB,10-06-22,Physics with Calculus,Sports Dismissal- Full Class Period
+BB,10-11-22,Physics with Calculus,"Family Trip (LS, MS, US)"
+BB,9-21-22,The Graphic Novel,Sports Dismissal- Full Class Period
+BB,11-03-22,The Graphic Novel,College Meeting-On Campus (US)
+BBB,11-04-22,Advanced Algebra,School Trip - Full Day
+BBB,11-04-22,Biology,School Trip - Full Day
+BBB,9-23-22,English 9,School Trip - Full Day
+BBB,11-04-22,French II,School Trip - Full Day
+BBB,9-23-22,Historical Inquiry,School Trip - Full Day
+BBB,9-23-22,Stage Makeup,School Trip - Full Day
+BBBB,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+BBBB,10-28-22,Anatomy and Physiology,Absent
+BBBB,9-26-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+BBBB,11-04-22,Civics: Understanding Our Rights,Sports Dismissal- Full Class Period
+BBBB,11-10-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+BBBB,9-12-22,Ecological Literature,"Other (LS, MS, US)"
+BBBB,9-26-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+BBBB,11-04-22,Ecological Literature,Absent
+BBBB,11-10-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+BBBB,9-26-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+BBBB,11-04-22,Introductory Calculus,Sports Dismissal- Full Class Period
+BBBB,11-10-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+BBBB,11-15-22,Introductory Calculus,School Trip - Full Day
+BBBB,9-23-22,Spanish IV,Sports  Dismissal- Half Class Period
+BBBB,10-12-22,US History,"Other (LS, MS, US)"
+BBBB,11-03-22,US History,"Other (LS, MS, US)"
+BBBBB,10-27-22,Geometry,"Illness - Left Early (MS, US)"
+BBBBB,11-04-22,Health,"Medical Appt. - AM (MS, US)"
+BBBBB,10-27-22,Spanish III,"Illness - Left Early (MS, US)"
+BBBBBB,9-20-22,Environmental Science,Sports Dismissal- Full Class Period
+BBBBBB,9-28-22,Environmental Science,Sports Dismissal- Full Class Period
+BBBBBB,10-12-22,French IV,"Other (LS, MS, US)"
+BBBBBB,10-24-22,French IV,"Other (LS, MS, US)"
+BBBBBB,11-18-22,French IV,"Medical Appt. - All Day (MS, US)"
+BBBBBB,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+BBBBBB,10-17-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+BBBBBB,10-24-22,Introductory Calculus,"Other (LS, MS, US)"
+BBBBBB,11-18-22,Introductory Calculus,"Medical Appt. - All Day (MS, US)"
+BBBBBB,9-14-22,Literature and Disability,"Medical Appt. - PM (MS, US)"
+BBBBBB,9-28-22,Literature and Disability,"Medical Appt. - AM (MS, US)"
+BBBBBB,9-28-22,US History,"Medical Appt. - AM (MS, US)"
+BBBBBB,10-18-22,US History,"Medical Appt. - AM (MS, US)"
+BBBBBB,9-13-22,Yoga,Sports Dismissal- Full Class Period
+BBBBBB,10-12-22,Yoga,"Other (LS, MS, US)"
+BBBBBB,10-17-22,Yoga,"Illness - All Day (LS, MS, US)"
+BBBBBB,10-24-22,Yoga,"Other (LS, MS, US)"
+BBBBBB,11-03-22,Yoga,"Other (LS, MS, US)"
+BBBBBB,11-18-22,Yoga,"Medical Appt. - All Day (MS, US)"
+BBBBBBB,9-15-22,Chemistry,Sports Dismissal- Full Class Period
+BBBBBBB,9-22-22,Civics: Understanding Our Rights,Sports Dismissal- Full Class Period
+BBBBBBB,11-17-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+BBBBBBB,9-08-22,English 10,Sports Dismissal- Full Class Period
+BBBBBBB,11-17-22,English 10,"Illness - All Day (LS, MS, US)"
+BBBBBBB,9-13-22,Health,Sports Dismissal- Full Class Period
+BBBBBBB,9-29-22,Health,Sports Dismissal- Full Class Period
+BBBBBBB,11-15-22,Spanish II,"Other (LS, MS, US)"
+BBBBBBB,11-17-22,Spanish II,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,9-20-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-04-22,Acrylic Painting,"Other (LS, MS, US)"
+BBBBBBBB,10-11-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-25-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,11-17-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,9-19-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-24-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,11-14-22,Creative Writing: Essay,"Illness - Left Early (MS, US)"
+BBBBBBBB,9-19-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-24-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,11-03-22,Forensic Science,"Medical Appt. - AM (MS, US)"
+BBBBBBBB,9-20-22,How Do We See,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-11-22,How Do We See,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-25-22,How Do We See,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,11-17-22,How Do We See,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,9-19-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,10-24-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+BBBBBBBB,11-14-22,Introductory Calculus,"Illness - Left Early (MS, US)"
+BBBBBBBBB,10-04-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,10-03-22,Astronomy,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,10-17-22,Astronomy,"Medical Appt. - AM (MS, US)"
+BBBBBBBBB,11-14-22,Astronomy,"Family Trip (LS, MS, US)"
+BBBBBBBBB,9-29-22,Black and White Photography,"Other (LS, MS, US)"
+BBBBBBBBB,10-03-22,Black and White Photography,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,10-24-22,Black and White Photography,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,10-28-22,Black and White Photography,"Medical Appt. - PM (MS, US)"
+BBBBBBBBB,11-14-22,Black and White Photography,"Family Trip (LS, MS, US)"
+BBBBBBBBB,10-04-22,How Do We See,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,11-08-22,How Do We See,"Other (LS, MS, US)"
+BBBBBBBBB,10-03-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+BBBBBBBBB,11-14-22,The Graphic Novel,"Family Trip (LS, MS, US)"
+BBBBBBBBBB,11-04-22,Geometry,"Family Trip (LS, MS, US)"
+BBBBBBBBBB,11-04-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+BBBBBBBBBB,10-31-22,Spanish I,"Medical Appt. - PM (MS, US)"
+BBBBBBBBBB,11-04-22,Spanish I,"Family Trip (LS, MS, US)"
+BBBBBBBBBBB,9-19-22,Advanced Statistics,"Other (LS, MS, US)"
+BBBBBBBBBBB,10-12-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBB,9-13-22,Forensic Science,Sports Dismissal- Full Class Period
+BBBBBBBBBBB,10-12-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBB,10-26-22,Forensic Science,"Other (LS, MS, US)"
+BBBBBBBBBBB,11-01-22,Forensic Science,Sports Dismissal- Full Class Period
+BBBBBBBBBBB,10-12-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBB,9-20-22,Satire,Sports Dismissal- Full Class Period
+BBBBBBBBBBB,9-28-22,Satire,Sports Dismissal- Full Class Period
+BBBBBBBBBBB,11-02-22,Satire,"Other (LS, MS, US)"
+BBBBBBBBBBB,11-17-22,Satire,"Illness - Left Early (MS, US)"
+BBBBBBBBBBB,11-02-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+BBBBBBBBBBBB,10-11-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBBB,9-19-22,Biology,Commons Duty (US)
+BBBBBBBBBBBB,11-14-22,Biology,"Medical Appt. - PM (MS, US)"
+BBBBBBBBBBBB,10-11-22,English 9,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBBB,10-11-22,French I,"Illness - All Day (LS, MS, US)"
+BBBBBBBBBBBB,11-14-22,Historical Inquiry,"Other (LS, MS, US)"
+C,10-13-22,Biology,"Illness - All Day (LS, MS, US)"
+C,10-13-22,English 9,"Illness - All Day (LS, MS, US)"
+C,10-12-22,Historical Inquiry,"Illness - Left Early (MS, US)"
+C,10-13-22,Spanish III,"Illness - All Day (LS, MS, US)"
+C,9-19-22,Strength and Conditioning,Commons Duty (US)
+CC,11-14-22,Engineer Your World,"Illness - All Day (LS, MS, US)"
+CC,11-14-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+CC,9-12-22,Satire,Sports  Dismissal- Half Class Period
+CCC,9-16-22,Backpacking,School Trip - Full Day
+CCC,10-06-22,Backpacking,"Medical Appt. - AM (MS, US)"
+CCC,9-15-22,Chemistry,School Trip - Full Day
+CCC,9-15-22,Darwinian Revolution,School Trip - Full Day
+CCC,9-15-22,English 10,School Trip - Full Day
+CCC,9-16-22,Math Analysis,School Trip - Full Day
+CCC,9-20-22,Math Analysis,Commons Duty (US)
+CCC,9-16-22,Spanish III,School Trip - Full Day
+CCCC,11-01-22,English 9,Sports  Dismissal- Half Class Period
+CCCC,11-16-22,English 9,"Other (LS, MS, US)"
+CCCC,11-16-22,Geometry,"Other (LS, MS, US)"
+CCCC,10-06-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+CCCC,10-26-22,Spanish II,Sports  Dismissal- Half Class Period
+CCCC,11-16-22,Spanish II,"Other (LS, MS, US)"
+CCCCC,9-16-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+CCCCC,9-16-22,Biology,"Family Trip (LS, MS, US)"
+CCCCC,10-17-22,Black and White Photography,"Illness - All Day (LS, MS, US)"
+CCCCC,9-16-22,English 9,"Family Trip (LS, MS, US)"
+CCCCC,10-17-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+CCCCC,10-17-22,Spanish II,"Illness - All Day (LS, MS, US)"
+CCCCCC,9-19-22,Ecological Literature,"Other (LS, MS, US)"
+CCCCCC,10-17-22,Ecological Literature,"Other (LS, MS, US)"
+CCCCCC,9-12-22,Introductory Calculus,Sports  Dismissal- Half Class Period
+CCCCCC,9-28-22,Introductory Calculus,Sports  Dismissal- Half Class Period
+CCCCCC,10-13-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+CCCCCC,9-26-22,Understanding the Brain,"Other (LS, MS, US)"
+CCCCCC,10-04-22,Understanding the Brain,"Other (LS, MS, US)"
+CCCCCC,10-18-22,Understanding the Brain,"Other (LS, MS, US)"
+CCCCCC,11-04-22,Understanding the Brain,College Meeting-On Campus (US)
+CCCCCCC,10-05-22,Ecological Literature,"Unknown Reason (LS, MS, US)"
+CCCCCCC,10-12-22,Ecological Literature,"Other (LS, MS, US)"
+CCCCCCC,11-03-22,Ecological Literature,"Family Trip (LS, MS, US)"
+CCCCCCC,11-04-22,Environmental Science,"Family Trip (LS, MS, US)"
+CCCCCCC,11-04-22,Math Analysis,"Family Trip (LS, MS, US)"
+CCCCCCC,11-03-22,Spanish IV,Absent
+CCCCCCC,10-12-22,US History,"Other (LS, MS, US)"
+CCCCCCC,11-03-22,US History,Absent
+CCCCCCC,9-30-22,Yoga,"Illness - Left Early (MS, US)"
+CCCCCCC,10-06-22,Yoga,"Other (LS, MS, US)"
+CCCCCCC,10-11-22,Yoga,"Other (LS, MS, US)"
+CCCCCCC,11-04-22,Yoga,"Family Trip (LS, MS, US)"
+CCCCCCCC,9-26-22,Advanced Calculus,"Religious Holiday (LS, MS, US)"
+CCCCCCCC,10-06-22,Advanced Calculus,"Other (LS, MS, US)"
+CCCCCCCC,10-18-22,Advanced Calculus,"Other (LS, MS, US)"
+CCCCCCCC,9-13-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+CCCCCCCC,9-27-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+CCCCCCCC,10-05-22,Creative Writing: Poetry,"Religious Holiday (LS, MS, US)"
+CCCCCCCC,10-24-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+CCCCCCCC,10-28-22,Creative Writing: Poetry,"Illness - Left Early (MS, US)"
+CCCCCCCC,11-01-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+CCCCCCCC,9-20-22,Environmental Science,Sports Dismissal- Full Class Period
+CCCCCCCC,9-26-22,Environmental Science,"Religious Holiday (LS, MS, US)"
+CCCCCCCC,9-28-22,Environmental Science,Sports Dismissal- Full Class Period
+CCCCCCCC,11-02-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+CCCCCCCC,9-21-22,Introduction to Psychology,"Other (LS, MS, US)"
+CCCCCCCC,10-05-22,Introduction to Psychology,"Religious Holiday (LS, MS, US)"
+CCCCCCCC,10-05-22,Travel Literature,"Religious Holiday (LS, MS, US)"
+CCCCCCCC,11-07-22,Travel Literature,"Family Trip (LS, MS, US)"
+CCCCCCCCC,10-27-22,English 9,"Other (LS, MS, US)"
+CCCCCCCCC,10-27-22,Spanish I,"Other (LS, MS, US)"
+CCCCCCCCCC,11-02-22,Acrylic Painting,"Late Arrival (LS, MS, US)"
+CCCCCCCCCC,9-27-22,Engineer Your World,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-03-22,Engineer Your World,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-12-22,Engineer Your World,"Other (LS, MS, US)"
+CCCCCCCCCC,10-17-22,Engineer Your World,"Family Trip (LS, MS, US)"
+CCCCCCCCCC,9-27-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-03-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-12-22,Math Analysis,"Other (LS, MS, US)"
+CCCCCCCCCC,10-17-22,Math Analysis,"Family Trip (LS, MS, US)"
+CCCCCCCCCC,11-07-22,Math Analysis,"Illness - Left Early (MS, US)"
+CCCCCCCCCC,9-27-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-03-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+CCCCCCCCCC,10-12-22,The Graphic Novel,"Other (LS, MS, US)"
+CCCCCCCCCC,10-17-22,The Graphic Novel,"Family Trip (LS, MS, US)"
+CCCCCCCCCC,11-02-22,US History,"Late Arrival (LS, MS, US)"
+CCCCCCCCCCC,9-15-22,Advanced Biology,School Trip - Full Day
+CCCCCCCCCCC,9-27-22,Advanced Biology,College Visit-Off Campus (US)
+CCCCCCCCCCC,11-07-22,Advanced Biology,"Other (LS, MS, US)"
+CCCCCCCCCCC,9-16-22,Backpacking,School Trip - Full Day
+CCCCCCCCCCC,9-26-22,Backpacking,College Visit-Off Campus (US)
+CCCCCCCCCCC,11-04-22,Backpacking,Sports Dismissal- Full Class Period
+CCCCCCCCCCC,9-15-22,Forensic Science,School Trip - Full Day
+CCCCCCCCCCC,9-27-22,Forensic Science,"Late Arrival (LS, MS, US)"
+CCCCCCCCCCC,10-28-22,Forensic Science,"Other (LS, MS, US)"
+CCCCCCCCCCC,9-15-22,Introduction to Psychology,School Trip - Full Day
+CCCCCCCCCCC,10-07-22,Introduction to Psychology,"Other (LS, MS, US)"
+CCCCCCCCCCC,9-16-22,Introductory Calculus,School Trip - Full Day
+CCCCCCCCCCC,9-26-22,Introductory Calculus,College Visit-Off Campus (US)
+CCCCCCCCCCC,11-04-22,Introductory Calculus,Sports Dismissal- Full Class Period
+CCCCCCCCCCC,9-16-22,Literature and Disability,School Trip - Full Day
+CCCCCCCCCCC,9-26-22,Literature and Disability,College Visit-Off Campus (US)
+CCCCCCCCCCC,11-04-22,Literature and Disability,Sports Dismissal- Full Class Period
+CCCCCCCCCCCC,9-08-22,English 10,"Medical Appt. - AM (MS, US)"
+CCCCCCCCCCCC,9-28-22,French III,"Other (LS, MS, US)"
+CCCCCCCCCCCC,9-16-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+CCCCCCCCCCCC,10-13-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+CCCCCCCCCCCC,11-17-22,The American War in Vietnam,"Other (LS, MS, US)"
+D,9-21-22,Algebra I,"Medical Appt. - PM (MS, US)"
+D,10-13-22,English 9,"Medical Appt. - AM (MS, US)"
+D,9-22-22,French I,"Other (LS, MS, US)"
+D,9-22-22,Let's Play!,"Medical Appt. - AM (MS, US)"
+DD,9-19-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+DD,9-21-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+DD,10-03-22,Advanced Statistics,"Other (LS, MS, US)"
+DD,10-17-22,Advanced Statistics,"Late Arrival (LS, MS, US)"
+DD,9-19-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+DD,9-21-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+DD,10-17-22,Forensic Science,"Late Arrival (LS, MS, US)"
+DD,11-18-22,Forensic Science,"Medical Appt. - PM (MS, US)"
+DD,9-20-22,Literature and Disability,"Illness - All Day (LS, MS, US)"
+DD,9-22-22,Literature and Disability,"Illness - All Day (LS, MS, US)"
+DD,9-20-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+DD,9-22-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+DD,10-11-22,Marine Biology,"Illness - Left Early (MS, US)"
+DD,10-31-22,Marine Biology,"Illness - Left Early (MS, US)"
+DD,9-20-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+DD,9-22-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+DD,10-11-22,Queer Voices,"Illness - Left Early (MS, US)"
+DDD,9-22-22,Biology,School Trip - Full Day
+DDD,10-13-22,Biology,School Trip - Full Day
+DDD,11-10-22,Biology,School Trip - Full Day
+DDD,10-13-22,Climbing and Mindfulness,School Trip - Full Day
+DDD,11-10-22,Climbing and Mindfulness,School Trip - Full Day
+DDD,10-12-22,English 9,School Trip - Full Day
+DDD,9-22-22,Geometry,School Trip - Full Day
+DDD,10-13-22,Geometry,School Trip - Full Day
+DDD,11-10-22,Geometry,School Trip - Full Day
+DDD,10-12-22,Historical Inquiry,School Trip - Full Day
+DDD,10-12-22,Spanish II,School Trip - Full Day
+DDD,10-26-22,Spanish II,"Other (LS, MS, US)"
+DDDD,9-09-22,Chemistry,"Illness - All Day (LS, MS, US)"
+DDDD,9-21-22,Chemistry,"Illness - All Day (LS, MS, US)"
+DDDD,10-03-22,Chemistry,"Illness - Left Early (MS, US)"
+DDDD,10-05-22,Chemistry,"Illness - All Day (LS, MS, US)"
+DDDD,11-09-22,Chemistry,"Illness - All Day (LS, MS, US)"
+DDDD,11-14-22,Chemistry,"Illness - Left Early (MS, US)"
+DDDD,9-20-22,Climbing and Mindfulness,Sports Dismissal- Full Class Period
+DDDD,9-28-22,Climbing and Mindfulness,Sports Dismissal- Full Class Period
+DDDD,10-04-22,Climbing and Mindfulness,"Illness - All Day (LS, MS, US)"
+DDDD,10-06-22,Climbing and Mindfulness,"Illness - All Day (LS, MS, US)"
+DDDD,10-18-22,Climbing and Mindfulness,Absent
+DDDD,11-08-22,Climbing and Mindfulness,"Illness - Left Early (MS, US)"
+DDDD,11-10-22,Climbing and Mindfulness,"Illness - All Day (LS, MS, US)"
+DDDD,9-22-22,English 10,School Trip - Full Day
+DDDD,10-04-22,English 10,"Illness - All Day (LS, MS, US)"
+DDDD,10-06-22,English 10,"Illness - All Day (LS, MS, US)"
+DDDD,11-10-22,English 10,"Illness - All Day (LS, MS, US)"
+DDDD,9-09-22,Geometry,"Illness - All Day (LS, MS, US)"
+DDDD,9-21-22,Geometry,"Illness - All Day (LS, MS, US)"
+DDDD,10-03-22,Geometry,"Illness - Left Early (MS, US)"
+DDDD,10-05-22,Geometry,"Illness - All Day (LS, MS, US)"
+DDDD,11-09-22,Geometry,"Illness - All Day (LS, MS, US)"
+DDDD,11-14-22,Geometry,"Illness - All Day (LS, MS, US)"
+DDDD,9-22-22,Japanese History and Culture,School Trip - Full Day
+DDDD,10-04-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+DDDD,10-06-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+DDDD,11-08-22,Japanese History and Culture,"Illness - Left Early (MS, US)"
+DDDD,11-10-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+DDDD,9-09-22,Spanish II,"Illness - All Day (LS, MS, US)"
+DDDD,9-13-22,Spanish II,Sports Dismissal- Full Class Period
+DDDD,9-21-22,Spanish II,"Illness - All Day (LS, MS, US)"
+DDDD,10-05-22,Spanish II,"Illness - All Day (LS, MS, US)"
+DDDD,11-01-22,Spanish II,Sports Dismissal- Full Class Period
+DDDD,11-09-22,Spanish II,"Illness - All Day (LS, MS, US)"
+DDDDD,10-05-22,French: Advanced Studies,"Illness - All Day (LS, MS, US)"
+DDDDD,10-06-22,Japanese History and Culture,"Other (LS, MS, US)"
+DDDDD,10-05-22,Postcolonial Voices,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+DDDDDD,10-24-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-26-22,Creative Writing: Poetry,"Medical Appt. - AM (MS, US)"
+DDDDDD,11-16-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-18-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-11-22,Digital Filmmaking,"Other (LS, MS, US)"
+DDDDDD,10-25-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-02-22,Digital Filmmaking,"Medical Appt. - AM (MS, US)"
+DDDDDD,11-17-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-25-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-02-22,Mandarin IV,"Medical Appt. - AM (MS, US)"
+DDDDDD,11-17-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-12-22,Math Analysis,"Other (LS, MS, US)"
+DDDDDD,10-24-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-16-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-18-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-12-22,US History,"Other (LS, MS, US)"
+DDDDDD,10-24-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-16-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-18-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDD,10-25-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+DDDDDD,11-17-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+DDDDDDD,9-22-22,Advanced Calculus,"Illness - Left Early (MS, US)"
+DDDDDDD,10-04-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-06-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-25-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDD,11-10-22,Advanced Calculus,"Illness - Left Early (MS, US)"
+DDDDDDD,10-04-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-06-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-25-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+DDDDDDD,9-09-22,Astronomy,Sports  Dismissal- Half Class Period
+DDDDDDD,9-19-22,Astronomy,"Other (LS, MS, US)"
+DDDDDDD,10-03-22,Astronomy,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-05-22,Astronomy,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-28-22,Astronomy,"Illness - All Day (LS, MS, US)"
+DDDDDDD,11-18-22,Astronomy,"Family Trip (LS, MS, US)"
+DDDDDDD,9-09-22,Creative Writing: Poetry,School Trip - Full Day
+DDDDDDD,9-23-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+DDDDDDD,10-03-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-05-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-24-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+DDDDDDD,10-28-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+DDDDDDD,11-18-22,Creative Writing: Poetry,"Family Trip (LS, MS, US)"
+DDDDDDD,9-30-22,The American War in Vietnam,"Other (LS, MS, US)"
+DDDDDDD,10-04-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-06-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+DDDDDDD,10-25-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+DDDDDDD,11-10-22,The American War in Vietnam,"Illness - Left Early (MS, US)"
+DDDDDDDD,9-09-22,English 9,School Trip - Full Day
+DDDDDDDD,9-09-22,Historical Inquiry,School Trip - Full Day
+DDDDDDDD,9-09-22,Spanish: Advanced Studies,Sports  Dismissal- Half Class Period
+DDDDDDDD,9-29-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+DDDDDDDDD,10-12-22,Advanced Biology,"Other (LS, MS, US)"
+DDDDDDDDD,10-12-22,Computer Art,"Other (LS, MS, US)"
+DDDDDDDDD,10-12-22,The Graphic Novel,"Other (LS, MS, US)"
+DDDDDDDDDD,9-13-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,10-03-22,Introductory Calculus,Sports Dismissal- Full Class Period
+DDDDDDDDDD,9-14-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,9-28-22,Marxism and Its Legacy,Sports Dismissal- Full Class Period
+DDDDDDDDDD,10-06-22,Marxism and Its Legacy,Sports Dismissal- Full Class Period
+DDDDDDDDDD,9-13-22,Physics,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,9-14-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,11-08-22,Queer Voices,Commons Duty (US)
+DDDDDDDDDD,9-14-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,11-08-22,Spanish IV,Commons Duty (US)
+DDDDDDDDDD,9-13-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDD,9-21-22,US History,Sports Dismissal- Full Class Period
+DDDDDDDDDDD,9-20-22,Biology,"Medical Appt. - AM (MS, US)"
+DDDDDDDDDDD,10-04-22,Biology,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-06-22,Biology,"Other (LS, MS, US)"
+DDDDDDDDDDD,11-10-22,Biology,"Medical Appt. - PM (MS, US)"
+DDDDDDDDDDD,10-03-22,English 9,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-05-22,English 9,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-04-22,Geometry,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-06-22,Geometry,"Other (LS, MS, US)"
+DDDDDDDDDDD,9-13-22,Historical Inquiry,"Medical Appt. - AM (MS, US)"
+DDDDDDDDDDD,10-03-22,Historical Inquiry,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-05-22,Historical Inquiry,"Other (LS, MS, US)"
+DDDDDDDDDDD,11-01-22,Historical Inquiry,"Medical Appt. - AM (MS, US)"
+DDDDDDDDDDD,10-04-22,Spanish II,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-06-22,Spanish II,"Other (LS, MS, US)"
+DDDDDDDDDDD,11-08-22,Spanish II,"Medical Appt. - PM (MS, US)"
+DDDDDDDDDDD,10-03-22,Yoga,"Other (LS, MS, US)"
+DDDDDDDDDDD,10-05-22,Yoga,"Other (LS, MS, US)"
+DDDDDDDDDDD,11-07-22,Yoga,"Medical Appt. - AM (MS, US)"
+DDDDDDDDDDDD,10-06-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-05-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-07-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-12-22,Computer Programming in Java,"Other (LS, MS, US)"
+DDDDDDDDDDDD,10-06-22,Data Science I,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-06-22,Physics with Calculus,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-05-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-07-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-12-22,Travel Literature,"Other (LS, MS, US)"
+DDDDDDDDDDDD,10-28-22,Travel Literature,"Medical Appt. - AM (MS, US)"
+DDDDDDDDDDDD,10-05-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-07-22,US History,"Illness - All Day (LS, MS, US)"
+DDDDDDDDDDDD,10-12-22,US History,"Other (LS, MS, US)"
+E,11-04-22,Environmental Science,School Trip - Full Day
+E,11-04-22,How Do We See,School Trip - Full Day
+E,9-23-22,Introductory Calculus,School Trip - Full Day
+E,9-23-22,Travel Literature,School Trip - Full Day
+E,11-04-22,Understanding the Brain,School Trip - Full Day
+EE,10-05-22,Biology,"Medical Appt. - AM (MS, US)"
+EE,10-12-22,Biology,"Other (LS, MS, US)"
+EE,9-26-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+EE,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+EE,10-17-22,Introductory Calculus,"Medical Appt. - PM (MS, US)"
+EE,10-12-22,Postcolonial Voices,"Other (LS, MS, US)"
+EE,9-26-22,US History,"Illness - All Day (LS, MS, US)"
+EE,9-26-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+EE,10-06-22,Understanding the Brain,"Other (LS, MS, US)"
+EEE,10-12-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+EEE,10-17-22,Computer Programming in Java,"Other (LS, MS, US)"
+EEE,11-01-22,Computer Programming in Java,Sports Dismissal- Full Class Period
+EEE,10-12-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+EEE,10-17-22,Creative Writing: Essay,"Other (LS, MS, US)"
+EEE,11-01-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+EEE,10-31-22,How Do We See,"Illness - All Day (LS, MS, US)"
+EEE,11-17-22,How Do We See,Absent
+EEE,10-12-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+EEE,10-17-22,Introductory Calculus,"Other (LS, MS, US)"
+EEE,10-28-22,Introductory Calculus,"Late Arrival (LS, MS, US)"
+EEE,11-07-22,Introductory Calculus,"Other (LS, MS, US)"
+EEE,9-20-22,Satire,Sports Dismissal- Full Class Period
+EEE,9-22-22,Satire,"Other (LS, MS, US)"
+EEE,9-28-22,Satire,Sports Dismissal- Full Class Period
+EEE,10-11-22,Satire,"Illness - All Day (LS, MS, US)"
+EEE,10-25-22,Satire,"Late Arrival (LS, MS, US)"
+EEEE,11-04-22,Chemistry,School Trip - Full Day
+EEEE,9-23-22,English 10,School Trip - Full Day
+EEEE,9-23-22,Health,School Trip - Full Day
+EEEE,10-18-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+EEEE,11-04-22,Math Analysis,School Trip - Full Day
+EEEE,9-23-22,Spanish II,School Trip - Full Day
+EEEE,11-18-22,Spanish II,"Medical Appt. - AM (MS, US)"
+EEEE,10-18-22,The Middle East,"Medical Appt. - PM (MS, US)"
+EEEE,11-04-22,The Middle East,School Trip - Full Day
+EEEEE,10-13-22,Historical Inquiry,School Trip - HalfDay
+EEEEEE,11-17-22,Chemistry,"Family Trip (LS, MS, US)"
+EEEEEE,9-15-22,English 10,Sports Dismissal- Full Class Period
+EEEEEE,10-07-22,English 10,"Illness - All Day (LS, MS, US)"
+EEEEEE,11-18-22,English 10,"Family Trip (LS, MS, US)"
+EEEEEE,9-13-22,Health,Sports Dismissal- Full Class Period
+EEEEEE,9-29-22,Health,Sports Dismissal- Full Class Period
+EEEEEE,10-07-22,Health,"Illness - All Day (LS, MS, US)"
+EEEEEE,11-18-22,Health,"Family Trip (LS, MS, US)"
+EEEEEE,10-07-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+EEEEEE,11-18-22,Introductory Calculus,"Family Trip (LS, MS, US)"
+EEEEEE,9-06-22,Mandarin III,Sports Dismissal- Full Class Period
+EEEEEE,9-22-22,Mandarin III,Sports Dismissal- Full Class Period
+EEEEEE,10-06-22,Mandarin III,"Late Arrival (LS, MS, US)"
+EEEEEE,10-11-22,Mandarin III,Sports Dismissal- Full Class Period
+EEEEEE,11-17-22,Mandarin III,"Family Trip (LS, MS, US)"
+EEEEEE,10-06-22,The American War in Vietnam,"Late Arrival (LS, MS, US)"
+EEEEEE,11-17-22,The American War in Vietnam,"Family Trip (LS, MS, US)"
+EEEEEEE,9-16-22,Advanced Calculus,"Medical Appt. - AM (MS, US)"
+EEEEEEE,9-19-22,Astronomy,"Other (LS, MS, US)"
+EEEEEEE,11-09-22,Astronomy,"Illness - All Day (LS, MS, US)"
+EEEEEEE,11-18-22,Astronomy,"Medical Appt. - AM (MS, US)"
+EEEEEEE,9-23-22,Computer Programming in Java,Absent
+EEEEEEE,10-24-22,Computer Programming in Java,"Medical Appt. - PM (MS, US)"
+EEEEEEE,10-26-22,Computer Programming in Java,Absent
+EEEEEEE,11-09-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+EEEEEEE,11-09-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+EEEEEEEE,10-27-22,English 10,"Illness - Left Early (MS, US)"
+EEEEEEEE,9-09-22,Geometry,School Trip - Full Day
+EEEEEEEE,10-26-22,Geometry,Absent
+EEEEEEEE,10-28-22,Geometry,"Illness - All Day (LS, MS, US)"
+EEEEEEEE,9-09-22,Health,Sports  Dismissal- Half Class Period
+EEEEEEEE,10-28-22,Health,"Illness - All Day (LS, MS, US)"
+EEEEEEEE,10-27-22,Marxism and Its Legacy,"Illness - Left Early (MS, US)"
+EEEEEEEE,9-09-22,Spanish II,School Trip - Full Day
+EEEEEEEE,10-24-22,Spanish II,Sports  Dismissal- Half Class Period
+EEEEEEEE,10-26-22,Spanish II,"Other (LS, MS, US)"
+EEEEEEEE,10-28-22,Spanish II,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-08-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+EEEEEEEEE,9-26-22,Advanced Chemistry,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,9-07-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-09-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-27-22,Anatomy and Physiology,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,9-29-22,Anatomy and Physiology,"Medical Appt. - AM (MS, US)"
+EEEEEEEEE,10-05-22,Anatomy and Physiology,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+EEEEEEEEE,10-17-22,Anatomy and Physiology,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,9-07-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-09-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-27-22,Introductory Calculus,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,10-05-22,Introductory Calculus,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+EEEEEEEEE,10-17-22,Introductory Calculus,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,11-16-22,Introductory Calculus,"Medical Appt. - AM (MS, US)"
+EEEEEEEEE,9-08-22,Spanish II,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-12-22,Spanish II,"Other (LS, MS, US)"
+EEEEEEEEE,9-26-22,Spanish II,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,9-07-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-09-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-27-22,The Graphic Novel,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,10-05-22,The Graphic Novel,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,10-12-22,The Graphic Novel,"Other (LS, MS, US)"
+EEEEEEEEE,10-17-22,The Graphic Novel,"Religious Holiday (LS, MS, US)"
+EEEEEEEEE,9-08-22,US History,"Illness - All Day (LS, MS, US)"
+EEEEEEEEE,9-12-22,US History,"Other (LS, MS, US)"
+EEEEEEEEE,9-26-22,US History,"Religious Holiday (LS, MS, US)"
+EEEEEEEEEE,10-03-22,Chemistry,Commons Duty (US)
+EEEEEEEEEE,10-12-22,Chemistry,School Trip - Full Day
+EEEEEEEEEE,9-12-22,Climbing and Mindfulness,"Medical Appt. - PM (MS, US)"
+EEEEEEEEEE,9-26-22,Climbing and Mindfulness,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEE,10-13-22,Climbing and Mindfulness,School Trip - Full Day
+EEEEEEEEEE,11-10-22,Climbing and Mindfulness,School Trip - Full Day
+EEEEEEEEEE,10-12-22,Cultural Ethics,School Trip - Full Day
+EEEEEEEEEE,9-22-22,English 10,School Trip - Full Day
+EEEEEEEEEE,9-26-22,English 10,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEE,10-13-22,English 10,School Trip - Full Day
+EEEEEEEEEE,11-10-22,English 10,School Trip - Full Day
+EEEEEEEEEE,10-12-22,Math Analysis,School Trip - Full Day
+EEEEEEEEEE,9-20-22,Spanish III,"Medical Appt. - AM (MS, US)"
+EEEEEEEEEE,9-22-22,Spanish III,School Trip - Full Day
+EEEEEEEEEE,9-26-22,Spanish III,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEE,10-13-22,Spanish III,School Trip - Full Day
+EEEEEEEEEE,11-10-22,Spanish III,School Trip - Full Day
+EEEEEEEEEEE,9-13-22,English 9,"Medical Appt. - AM (MS, US)"
+EEEEEEEEEEE,9-19-22,English 9,"Other (LS, MS, US)"
+EEEEEEEEEEE,10-05-22,English 9,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEE,9-19-22,Fire Arts,"Other (LS, MS, US)"
+EEEEEEEEEEE,10-05-22,Fire Arts,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEE,9-19-22,Spanish II,"Other (LS, MS, US)"
+EEEEEEEEEEE,10-05-22,Spanish II,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEEE,9-06-22,Black Voices,"Family Trip (LS, MS, US)"
+EEEEEEEEEEEE,9-06-22,Marine Biology,"Family Trip (LS, MS, US)"
+EEEEEEEEEEEE,9-27-22,Math Analysis,"Other (LS, MS, US)"
+EEEEEEEEEEEE,10-07-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEEE,10-12-22,Math Analysis,"Other (LS, MS, US)"
+EEEEEEEEEEEE,11-01-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEEE,10-07-22,Spanish III,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEEE,10-12-22,Spanish III,"Other (LS, MS, US)"
+EEEEEEEEEEEE,11-01-22,Spanish III,"Illness - All Day (LS, MS, US)"
+EEEEEEEEEEEE,9-06-22,US History,"Family Trip (LS, MS, US)"
+F,10-18-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+F,10-18-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+F,10-27-22,Advanced Chemistry,"Other (LS, MS, US)"
+F,9-27-22,Anatomy and Physiology,"Other (LS, MS, US)"
+F,9-29-22,Anatomy and Physiology,"Other (LS, MS, US)"
+F,10-03-22,Anatomy and Physiology,"Other (LS, MS, US)"
+F,10-17-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+F,11-01-22,Anatomy and Physiology,"Late Arrival (LS, MS, US)"
+F,9-19-22,Global Women's Issues,"Other (LS, MS, US)"
+F,10-17-22,Global Women's Issues,"Illness - All Day (LS, MS, US)"
+F,9-19-22,Travel Literature,"Other (LS, MS, US)"
+F,10-17-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+F,10-18-22,"Vertebrates: Origins, Designs & Threats","Illness - All Day (LS, MS, US)"
+FF,9-08-22,English 10,Sports  Dismissal- Half Class Period
+FF,11-01-22,Global Women's Issues,Sports Dismissal- Full Class Period
+FF,10-12-22,Metal Design,Sports  Dismissal- Half Class Period
+FF,10-26-22,Metal Design,Sports  Dismissal- Half Class Period
+FF,9-19-22,Spanish III,Sports  Dismissal- Half Class Period
+FF,10-28-22,Spanish III,Sports  Dismissal- Half Class Period
+FFF,9-13-22,Advanced Calculus,Sports Dismissal- Full Class Period
+FFF,11-01-22,Advanced Calculus,Sports Dismissal- Full Class Period
+FFF,11-18-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+FFF,11-17-22,Data Science I,"Family Trip (LS, MS, US)"
+FFF,10-05-22,Introduction to Psychology,"Other (LS, MS, US)"
+FFF,11-18-22,Introduction to Psychology,"Family Trip (LS, MS, US)"
+FFF,9-20-22,Satire,Sports Dismissal- Full Class Period
+FFF,9-28-22,Satire,Sports Dismissal- Full Class Period
+FFF,11-17-22,Satire,"Family Trip (LS, MS, US)"
+FFF,10-06-22,Spanish IV,"Other (LS, MS, US)"
+FFF,11-17-22,Spanish IV,"Family Trip (LS, MS, US)"
+FFFF,10-07-22,Biology,"Illness - Left Early (MS, US)"
+FFFF,10-24-22,Biology,"Medical Appt. - PM (MS, US)"
+FFFFF,9-16-22,Backpacking,School Trip - Full Day
+FFFFF,9-12-22,Chemistry,Sports  Dismissal- Half Class Period
+FFFFF,9-16-22,Chemistry,School Trip - Full Day
+FFFFF,11-15-22,Chemistry,School Trip - HalfDay
+FFFFF,9-16-22,Civics: Understanding Our Rights,School Trip - Full Day
+FFFFF,9-15-22,English 10,School Trip - Full Day
+FFFFF,10-07-22,English 10,School Trip - Full Day
+FFFFF,9-15-22,Introductory Calculus,School Trip - Full Day
+FFFFF,10-07-22,Introductory Calculus,School Trip - Full Day
+FFFFF,9-15-22,Spanish III,School Trip - Full Day
+FFFFF,10-07-22,Spanish III,School Trip - Full Day
+FFFFFF,11-17-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+FFFFFF,9-09-22,Chemistry,Sports  Dismissal- Half Class Period
+FFFFFF,11-17-22,English 10,"Illness - All Day (LS, MS, US)"
+FFFFFF,9-09-22,Global Women's Issues,School Trip - Full Day
+FFFFFF,11-16-22,Global Women's Issues,"Illness - Left Early (MS, US)"
+FFFFFF,9-09-22,Spanish III,School Trip - Full Day
+FFFFFF,11-16-22,Spanish III,"Illness - Left Early (MS, US)"
+FFFFFF,11-17-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+FFFFFFF,10-25-22,Acrylic Painting,"Medical Appt. - AM (MS, US)"
+FFFFFFF,10-26-22,Advanced Algebra,"Other (LS, MS, US)"
+FFFFFFF,11-07-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+FFFFFFF,11-14-22,Advanced Algebra,"Late Arrival (LS, MS, US)"
+FFFFFFF,10-13-22,Digital Filmmaking,"Medical Appt. - PM (MS, US)"
+FFFFFFF,11-07-22,US History,"Illness - Left Early (MS, US)"
+FFFFFFF,10-12-22,Wilderness First Aid,"Illness - Left Early (MS, US)"
+FFFFFFF,11-14-22,Wilderness First Aid,"Illness - Left Early (MS, US)"
+FFFFFFFF,9-27-22,Fire Arts,"Late Arrival (LS, MS, US)"
+FFFFFFFF,9-29-22,Fire Arts,"Other (LS, MS, US)"
+FFFFFFFF,10-24-22,Fire Arts,"Family Trip (LS, MS, US)"
+FFFFFFFF,10-28-22,Fire Arts,"Illness - All Day (LS, MS, US)"
+FFFFFFFF,11-03-22,Fire Arts,Absent
+FFFFFFFF,11-14-22,Fire Arts,"Other (LS, MS, US)"
+FFFFFFFF,11-18-22,Fire Arts,"Family Trip (LS, MS, US)"
+FFFFFFFF,9-27-22,French III,"Other (LS, MS, US)"
+FFFFFFFF,10-24-22,French III,"Other (LS, MS, US)"
+FFFFFFFF,10-28-22,French III,"Illness - All Day (LS, MS, US)"
+FFFFFFFF,11-03-22,French III,"Late Arrival (LS, MS, US)"
+FFFFFFFF,11-18-22,French III,"Family Trip (LS, MS, US)"
+FFFFFFFF,9-26-22,Marine Biology,Absent
+FFFFFFFF,9-30-22,Marine Biology,"Other (LS, MS, US)"
+FFFFFFFF,11-08-22,Marine Biology,"Illness - Left Early (MS, US)"
+FFFFFFFF,9-26-22,Math Analysis,"Late Arrival (LS, MS, US)"
+FFFFFFFF,11-02-22,Math Analysis,"Illness - Left Early (MS, US)"
+FFFFFFFF,11-17-22,Math Analysis,"Illness - Left Early (MS, US)"
+FFFFFFFF,11-04-22,Queer Voices,"Illness - Left Early (MS, US)"
+FFFFFFFF,10-24-22,US History,"Family Trip (LS, MS, US)"
+FFFFFFFF,10-28-22,US History,"Illness - All Day (LS, MS, US)"
+FFFFFFFF,11-03-22,US History,Absent
+FFFFFFFF,11-18-22,US History,"Family Trip (LS, MS, US)"
+FFFFFFFFF,11-04-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-15-22,Acrylic Painting,"Other (LS, MS, US)"
+FFFFFFFFF,9-21-22,Anatomy and Physiology,"Other (LS, MS, US)"
+FFFFFFFFF,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+FFFFFFFFF,10-24-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-16-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-04-22,Black Voices,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-15-22,Black Voices,"Other (LS, MS, US)"
+FFFFFFFFF,9-19-22,Math Analysis,"Other (LS, MS, US)"
+FFFFFFFFF,10-05-22,Math Analysis,"Other (LS, MS, US)"
+FFFFFFFFF,10-12-22,Math Analysis,"Other (LS, MS, US)"
+FFFFFFFFF,10-24-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-03-22,Math Analysis,Absent
+FFFFFFFFF,11-16-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,9-20-22,US History,"Other (LS, MS, US)"
+FFFFFFFFF,10-27-22,US History,"Other (LS, MS, US)"
+FFFFFFFFF,11-04-22,US History,"Illness - All Day (LS, MS, US)"
+FFFFFFFFF,11-15-22,US History,"Other (LS, MS, US)"
+FFFFFFFFFF,9-21-22,Advanced Chemistry,"Other (LS, MS, US)"
+FFFFFFFFFF,11-03-22,Engineer Your World,"Illness - Left Early (MS, US)"
+FFFFFFFFFF,9-12-22,Satire,Sports  Dismissal- Half Class Period
+FFFFFFFFFFF,9-29-22,Advanced Chemistry,"Other (LS, MS, US)"
+FFFFFFFFFFF,10-03-22,Advanced Chemistry,College Visit-Off Campus (US)
+FFFFFFFFFFF,10-05-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,10-17-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,10-03-22,French: Advanced Studies,College Visit-Off Campus (US)
+FFFFFFFFFFF,10-05-22,French: Advanced Studies,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,10-17-22,French: Advanced Studies,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,9-20-22,Multivariable Calculus,Commons Duty (US)
+FFFFFFFFFFF,10-04-22,Multivariable Calculus,College Visit-Off Campus (US)
+FFFFFFFFFFF,10-04-22,The Middle East,College Visit-Off Campus (US)
+FFFFFFFFFFF,10-18-22,The Middle East,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,10-03-22,Travel Literature,College Visit-Off Campus (US)
+FFFFFFFFFFF,10-05-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFF,10-17-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFFF,10-12-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFFF,10-12-22,Engineer Your World,"Illness - All Day (LS, MS, US)"
+FFFFFFFFFFFF,9-21-22,French IV,"Other (LS, MS, US)"
+FFFFFFFFFFFF,10-12-22,French IV,"Illness - All Day (LS, MS, US)"
+G,10-13-22,Historical Inquiry,School Trip - HalfDay
+GG,11-14-22,Biology,"Illness - All Day (LS, MS, US)"
+GG,9-12-22,English 9,Sports  Dismissal- Half Class Period
+GG,10-13-22,English 9,School Trip - HalfDay
+GG,11-14-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+GG,11-14-22,Mandarin I,"Illness - All Day (LS, MS, US)"
+GGG,10-05-22,Chemistry,"Religious Holiday (LS, MS, US)"
+GGG,10-12-22,Chemistry,"Medical Appt. - All Day (MS, US)"
+GGG,11-01-22,Chemistry,"Medical Appt. - AM (MS, US)"
+GGG,9-22-22,English 10,"Medical Appt. - PM (MS, US)"
+GGG,9-26-22,English 10,"Religious Holiday (LS, MS, US)"
+GGG,9-16-22,French II,"Medical Appt. - AM (MS, US)"
+GGG,9-26-22,French II,"Religious Holiday (LS, MS, US)"
+GGG,10-06-22,French II,Sports Dismissal- Full Class Period
+GGG,9-26-22,Geometry,"Religious Holiday (LS, MS, US)"
+GGG,10-05-22,Health,"Religious Holiday (LS, MS, US)"
+GGG,10-12-22,Health,"Medical Appt. - All Day (MS, US)"
+GGG,10-26-22,Health,"Medical Appt. - AM (MS, US)"
+GGG,11-07-22,Health,"Other (LS, MS, US)"
+GGG,9-27-22,Metal Design,Absent
+GGG,10-03-22,Metal Design,Sports Dismissal- Full Class Period
+GGG,10-05-22,Metal Design,"Religious Holiday (LS, MS, US)"
+GGG,10-12-22,Metal Design,"Medical Appt. - All Day (MS, US)"
+GGGG,11-15-22,Let's Play!,School Trip - HalfDay
+GGGGG,9-20-22,Chemistry,Sports  Dismissal- Half Class Period
+GGGGG,10-11-22,Chemistry,"Illness - All Day (LS, MS, US)"
+GGGGG,10-13-22,Chemistry,"Illness - All Day (LS, MS, US)"
+GGGGG,10-11-22,Data Science I,"Illness - All Day (LS, MS, US)"
+GGGGG,10-13-22,Data Science I,"Illness - All Day (LS, MS, US)"
+GGGGG,10-11-22,English 10,"Illness - All Day (LS, MS, US)"
+GGGGG,10-13-22,English 10,"Illness - All Day (LS, MS, US)"
+GGGGG,10-12-22,Health,"Illness - All Day (LS, MS, US)"
+GGGGG,9-09-22,Musical Theatre Ensemble,"Family Trip (LS, MS, US)"
+GGGGG,10-12-22,Musical Theatre Ensemble,"Illness - All Day (LS, MS, US)"
+GGGGG,11-01-22,Musical Theatre Ensemble,Commons Duty (US)
+GGGGG,10-12-22,Spanish III,"Illness - All Day (LS, MS, US)"
+GGGGGG,10-12-22,Electronica,"Other (LS, MS, US)"
+GGGGGG,10-24-22,Electronica,"Other (LS, MS, US)"
+GGGGGG,10-06-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+GGGGGG,10-13-22,Marxism and Its Legacy,"Illness - Left Early (MS, US)"
+GGGGGG,10-27-22,Marxism and Its Legacy,"Illness - Left Early (MS, US)"
+GGGGGG,10-12-22,Musical Theatre Ensemble,"Other (LS, MS, US)"
+GGGGGG,10-24-22,Musical Theatre Ensemble,"Family Trip (LS, MS, US)"
+GGGGGG,9-12-22,Queer Voices,"Medical Appt. - AM (MS, US)"
+GGGGGG,10-13-22,Queer Voices,"Illness - Left Early (MS, US)"
+GGGGGG,10-27-22,Queer Voices,"Illness - Left Early (MS, US)"
+GGGGGG,9-14-22,"Vertebrates: Origins, Designs & Threats","Medical Appt. - PM (MS, US)"
+GGGGGG,10-06-22,"Vertebrates: Origins, Designs & Threats","Illness - All Day (LS, MS, US)"
+GGGGGGG,9-12-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+GGGGGGG,10-07-22,Ecological Literature,"Family Trip (LS, MS, US)"
+GGGGGGG,10-12-22,Ecological Literature,"Other (LS, MS, US)"
+GGGGGGG,9-12-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+GGGGGGG,9-20-22,Math Analysis,"Other (LS, MS, US)"
+GGGGGGG,9-13-22,Spanish III,"Other (LS, MS, US)"
+GGGGGGG,10-07-22,Spanish III,"Family Trip (LS, MS, US)"
+GGGGGGG,10-12-22,Spanish III,"Other (LS, MS, US)"
+GGGGGGG,10-17-22,Spanish III,"Medical Appt. - AM (MS, US)"
+GGGGGGG,9-12-22,US History,"Illness - All Day (LS, MS, US)"
+GGGGGGG,11-02-22,US History,"Medical Appt. - AM (MS, US)"
+GGGGGGG,10-07-22,Wilderness First Aid,"Family Trip (LS, MS, US)"
+GGGGGGGG,9-09-22,Advanced Biology,Sports  Dismissal- Half Class Period
+GGGGGGGG,9-19-22,Advanced Biology,"Other (LS, MS, US)"
+GGGGGGGG,10-13-22,Advanced Calculus,"Late Arrival (LS, MS, US)"
+GGGGGGGG,9-09-22,French IV,School Trip - Full Day
+GGGGGGGG,11-14-22,French IV,"Other (LS, MS, US)"
+GGGGGGGG,9-09-22,Global Women's Issues,School Trip - Full Day
+GGGGGGGG,11-03-22,Global Women's Issues,"Illness - All Day (LS, MS, US)"
+GGGGGGGG,9-22-22,Physics with Calculus,"Late Arrival (LS, MS, US)"
+GGGGGGGGG,9-20-22,French II,"Other (LS, MS, US)"
+GGGGGGGGGG,9-12-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+GGGGGGGGGG,10-13-22,Spanish III,Sports  Dismissal- Half Class Period
+GGGGGGGGGGG,9-22-22,Advanced Statistics,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-26-22,Advanced Statistics,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-22-22,Black Voices,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-26-22,Black Voices,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-23-22,Forensic Science,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-27-22,Forensic Science,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-23-22,Indigenous North American History,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-27-22,Indigenous North American History,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-23-22,Introduction to Psychology,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-27-22,Introduction to Psychology,"Other (LS, MS, US)"
+GGGGGGGGGGG,9-29-22,Introduction to Psychology,"Other (LS, MS, US)"
+GGGGGGGGGGGG,10-05-22,Advanced Algebra,"Religious Holiday (LS, MS, US)"
+GGGGGGGGGGGG,9-26-22,Biology,"Religious Holiday (LS, MS, US)"
+GGGGGGGGGGGG,10-13-22,Biology,"Illness - All Day (LS, MS, US)"
+GGGGGGGGGGGG,10-05-22,Computer Programming in Java,"Religious Holiday (LS, MS, US)"
+GGGGGGGGGGGG,9-26-22,English 9,"Religious Holiday (LS, MS, US)"
+GGGGGGGGGGGG,10-13-22,English 9,"Illness - All Day (LS, MS, US)"
+GGGGGGGGGGGG,9-26-22,Historical Inquiry,"Religious Holiday (LS, MS, US)"
+GGGGGGGGGGGG,10-13-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+GGGGGGGGGGGG,9-23-22,Spanish II,"Medical Appt. - PM (MS, US)"
+GGGGGGGGGGGG,10-05-22,Spanish II,"Religious Holiday (LS, MS, US)"
+H,10-12-22,Computer Programming in Java,"Other (LS, MS, US)"
+H,9-13-22,French IV,"Other (LS, MS, US)"
+H,10-12-22,French IV,"Other (LS, MS, US)"
+H,10-12-22,Travel Literature,"Other (LS, MS, US)"
+H,10-17-22,Travel Literature,"Other (LS, MS, US)"
+HH,9-09-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+HH,9-13-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,9-21-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+HH,9-27-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,11-07-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,11-09-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,11-14-22,Advanced Calculus,"Other (LS, MS, US)"
+HH,9-12-22,French III,"Other (LS, MS, US)"
+HH,11-04-22,French III,Absent
+HH,11-08-22,French III,"Other (LS, MS, US)"
+HH,11-10-22,French III,"Other (LS, MS, US)"
+HH,9-09-22,Physics,"Illness - All Day (LS, MS, US)"
+HH,9-13-22,Physics,"Other (LS, MS, US)"
+HH,10-07-22,Physics,"Other (LS, MS, US)"
+HH,10-12-22,Physics,"Other (LS, MS, US)"
+HH,11-07-22,Physics,"Other (LS, MS, US)"
+HH,11-09-22,Physics,"Other (LS, MS, US)"
+HH,11-14-22,Physics,"Other (LS, MS, US)"
+HH,9-12-22,US History,"Other (LS, MS, US)"
+HH,9-22-22,US History,"Other (LS, MS, US)"
+HH,11-08-22,US History,"Other (LS, MS, US)"
+HH,11-10-22,US History,"Other (LS, MS, US)"
+HH,9-07-22,Wilderness First Aid,"Medical Appt. - PM (MS, US)"
+HH,9-09-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+HH,9-13-22,Wilderness First Aid,"Other (LS, MS, US)"
+HH,10-12-22,Wilderness First Aid,"Other (LS, MS, US)"
+HH,11-03-22,Wilderness First Aid,"Illness - Left Early (MS, US)"
+HH,11-07-22,Wilderness First Aid,"Other (LS, MS, US)"
+HH,11-09-22,Wilderness First Aid,"Other (LS, MS, US)"
+HHH,10-24-22,Biology,"Illness - All Day (LS, MS, US)"
+HHH,10-25-22,English 9,"Medical Appt. - AM (MS, US)"
+HHH,9-22-22,French I,"Other (LS, MS, US)"
+HHH,10-24-22,Geometry,"Illness - All Day (LS, MS, US)"
+HHH,10-24-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+HHHH,10-03-22,Algebra I,"Other (LS, MS, US)"
+HHHH,10-05-22,Algebra I,Absent
+HHHH,10-12-22,Algebra I,"Illness - All Day (LS, MS, US)"
+HHHH,10-12-22,Chemistry,"Illness - All Day (LS, MS, US)"
+HHHH,11-14-22,Chemistry,"Medical Appt. - AM (MS, US)"
+HHHH,10-05-22,English 10,Absent
+HHHH,10-12-22,English 10,"Illness - All Day (LS, MS, US)"
+HHHH,9-30-22,Let's Play!,Absent
+HHHH,10-04-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+HHHH,10-06-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+HHHH,10-11-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+HHHH,10-13-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+HHHH,11-15-22,Let's Play!,"Medical Appt. - AM (MS, US)"
+HHHH,10-04-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+HHHH,10-06-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+HHHH,10-11-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+HHHH,10-13-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+HHHH,9-16-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+HHHH,9-26-22,The American War in Vietnam,"Medical Appt. - PM (MS, US)"
+HHHH,10-04-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+HHHH,10-06-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+HHHH,10-11-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+HHHH,10-13-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+HHHH,11-15-22,The American War in Vietnam,"Medical Appt. - PM (MS, US)"
+HHHHH,10-27-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+HHHHH,11-04-22,Mandarin IV,School Trip - Full Day
+HHHHH,11-17-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+HHHHH,9-23-22,Math Analysis,School Trip - Full Day
+HHHHH,9-29-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+HHHHH,10-12-22,Math Analysis,Sports Dismissal- Full Class Period
+HHHHH,10-28-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+HHHHH,9-23-22,Physics,School Trip - Full Day
+HHHHH,9-29-22,Physics,"Illness - All Day (LS, MS, US)"
+HHHHH,10-28-22,Physics,"Illness - All Day (LS, MS, US)"
+HHHHH,9-23-22,The Graphic Novel,School Trip - Full Day
+HHHHH,9-29-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+HHHHH,10-12-22,The Graphic Novel,"Other (LS, MS, US)"
+HHHHH,10-28-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+HHHHH,10-06-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHH,10-27-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHH,11-04-22,US History,School Trip - Full Day
+HHHHH,11-17-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHH,10-06-22,Yoga,"Illness - All Day (LS, MS, US)"
+HHHHH,10-27-22,Yoga,"Illness - All Day (LS, MS, US)"
+HHHHH,11-04-22,Yoga,School Trip - Full Day
+HHHHH,11-17-22,Yoga,"Illness - All Day (LS, MS, US)"
+HHHHHH,9-15-22,Astronomy,"Illness - All Day (LS, MS, US)"
+HHHHHH,10-12-22,Astronomy,"Other (LS, MS, US)"
+HHHHHH,10-26-22,Astronomy,"Illness - All Day (LS, MS, US)"
+HHHHHH,11-14-22,Astronomy,"Other (LS, MS, US)"
+HHHHHH,9-15-22,Electronica,"Illness - All Day (LS, MS, US)"
+HHHHHH,10-12-22,Electronica,"Other (LS, MS, US)"
+HHHHHH,10-26-22,Electronica,"Illness - All Day (LS, MS, US)"
+HHHHHH,9-16-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+HHHHHH,9-15-22,Physics,"Illness - All Day (LS, MS, US)"
+HHHHHH,10-05-22,Physics,"Medical Appt. - PM (MS, US)"
+HHHHHH,10-12-22,Physics,"Other (LS, MS, US)"
+HHHHHH,10-26-22,Physics,"Illness - All Day (LS, MS, US)"
+HHHHHH,11-14-22,Physics,"Other (LS, MS, US)"
+HHHHHH,9-16-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+HHHHHH,10-18-22,Queer Voices,"Medical Appt. - AM (MS, US)"
+HHHHHH,9-16-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHH,10-18-22,US History,"Medical Appt. - AM (MS, US)"
+HHHHHH,10-25-22,US History,"Medical Appt. - PM (MS, US)"
+HHHHHHH,9-28-22,Acrylic Painting,Sports Dismissal- Full Class Period
+HHHHHHH,10-06-22,Acrylic Painting,Sports Dismissal- Full Class Period
+HHHHHHH,9-21-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+HHHHHHH,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+HHHHHHH,10-03-22,Engineer Your World,Sports Dismissal- Full Class Period
+HHHHHHH,10-12-22,Engineer Your World,"Other (LS, MS, US)"
+HHHHHHH,10-12-22,US History,"Other (LS, MS, US)"
+HHHHHHHH,10-12-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,9-19-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+HHHHHHHH,9-23-22,Creative Writing: Poetry,"Medical Appt. - AM (MS, US)"
+HHHHHHHH,10-12-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,10-24-22,Creative Writing: Poetry,"Illness - Left Early (MS, US)"
+HHHHHHHH,10-11-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,10-13-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,10-11-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,10-13-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHHHH,10-12-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+HHHHHHHHH,9-23-22,Advanced Calculus,School Trip - Full Day
+HHHHHHHHH,10-05-22,Advanced Calculus,"Other (LS, MS, US)"
+HHHHHHHHH,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+HHHHHHHHH,9-28-22,Data Science I,"Illness - All Day (LS, MS, US)"
+HHHHHHHHH,11-04-22,Data Science I,School Trip - Full Day
+HHHHHHHHH,9-21-22,French IV,"Other (LS, MS, US)"
+HHHHHHHHH,9-23-22,French IV,School Trip - Full Day
+HHHHHHHHH,10-12-22,French IV,"Other (LS, MS, US)"
+HHHHHHHHH,9-28-22,Physics with Calculus,"Illness - All Day (LS, MS, US)"
+HHHHHHHHH,11-04-22,Physics with Calculus,School Trip - Full Day
+HHHHHHHHH,9-23-22,Travel Literature,School Trip - Full Day
+HHHHHHHHH,9-29-22,Travel Literature,"Other (LS, MS, US)"
+HHHHHHHHH,10-12-22,Travel Literature,"Other (LS, MS, US)"
+HHHHHHHHH,10-17-22,Travel Literature,"Other (LS, MS, US)"
+HHHHHHHHH,9-28-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHHHHH,11-04-22,US History,School Trip - Full Day
+HHHHHHHHHH,10-12-22,Astronomy,School Trip - Full Day
+HHHHHHHHHH,10-24-22,Astronomy,"Family Trip (LS, MS, US)"
+HHHHHHHHHH,11-07-22,Astronomy,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHH,11-14-22,Astronomy,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHH,10-13-22,Climbing and Mindfulness,School Trip - Full Day
+HHHHHHHHHH,10-25-22,Climbing and Mindfulness,"Late Arrival (LS, MS, US)"
+HHHHHHHHHH,11-10-22,Climbing and Mindfulness,School Trip - Full Day
+HHHHHHHHHH,10-12-22,Creative Writing: Poetry,School Trip - Full Day
+HHHHHHHHHH,10-24-22,Creative Writing: Poetry,"Family Trip (LS, MS, US)"
+HHHHHHHHHH,11-07-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHH,11-14-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHH,9-22-22,Math Analysis,School Trip - Full Day
+HHHHHHHHHH,10-13-22,Math Analysis,School Trip - Full Day
+HHHHHHHHHH,11-04-22,Math Analysis,"Other (LS, MS, US)"
+HHHHHHHHHH,11-10-22,Math Analysis,School Trip - Full Day
+HHHHHHHHHH,9-22-22,Queer Voices,School Trip - Full Day
+HHHHHHHHHH,10-13-22,Queer Voices,School Trip - Full Day
+HHHHHHHHHH,11-10-22,Queer Voices,School Trip - Full Day
+HHHHHHHHHH,10-12-22,US History,School Trip - Full Day
+HHHHHHHHHH,10-24-22,US History,"Family Trip (LS, MS, US)"
+HHHHHHHHHH,11-07-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHH,11-14-22,US History,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHHH,9-16-22,Backpacking,School Trip - Full Day
+HHHHHHHHHHH,11-15-22,Backpacking,"Medical Appt. - PM (MS, US)"
+HHHHHHHHHHH,11-17-22,Backpacking,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHHH,9-16-22,Chemistry,School Trip - Full Day
+HHHHHHHHHHH,11-15-22,Chemistry,School Trip - HalfDay
+HHHHHHHHHHH,11-17-22,Chemistry,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHHH,9-16-22,Civics: Understanding Our Rights,School Trip - Full Day
+HHHHHHHHHHH,11-17-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+HHHHHHHHHHH,9-15-22,English 10,School Trip - Full Day
+HHHHHHHHHHH,10-07-22,English 10,School Trip - Full Day
+HHHHHHHHHHH,11-03-22,English 10,"Medical Appt. - All Day (MS, US)"
+HHHHHHHHHHH,9-15-22,Introductory Calculus,School Trip - Full Day
+HHHHHHHHHHH,10-07-22,Introductory Calculus,School Trip - Full Day
+HHHHHHHHHHH,11-03-22,Introductory Calculus,"Medical Appt. - All Day (MS, US)"
+HHHHHHHHHHH,9-15-22,Mandarin II,School Trip - Full Day
+HHHHHHHHHHH,9-29-22,Mandarin II,"Medical Appt. - AM (MS, US)"
+HHHHHHHHHHH,10-07-22,Mandarin II,School Trip - Full Day
+HHHHHHHHHHH,11-03-22,Mandarin II,"Medical Appt. - All Day (MS, US)"
+HHHHHHHHHHHH,9-20-22,Advanced Biology,"Family Trip (LS, MS, US)"
+HHHHHHHHHHHH,10-06-22,Advanced Biology,"Medical Appt. - AM (MS, US)"
+HHHHHHHHHHHH,9-23-22,Black and White Photography,College Visit-Off Campus (US)
+HHHHHHHHHHHH,10-12-22,Black and White Photography,"Other (LS, MS, US)"
+HHHHHHHHHHHH,10-28-22,Black and White Photography,Sports Dismissal- Full Class Period
+HHHHHHHHHHHH,9-13-22,Math Analysis,Sports Dismissal- Full Class Period
+HHHHHHHHHHHH,9-23-22,Math Analysis,College Visit-Off Campus (US)
+HHHHHHHHHHHH,9-27-22,Math Analysis,"Other (LS, MS, US)"
+HHHHHHHHHHHH,10-12-22,Math Analysis,"Other (LS, MS, US)"
+HHHHHHHHHHHH,11-01-22,Math Analysis,Sports  Dismissal- Half Class Period
+HHHHHHHHHHHH,11-03-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+HHHHHHHHHHHH,9-19-22,Spanish IV,"Medical Appt. - AM (MS, US)"
+HHHHHHHHHHHH,9-23-22,Spanish IV,College Visit-Off Campus (US)
+HHHHHHHHHHHH,9-20-22,US History,Sports Dismissal- Full Class Period
+HHHHHHHHHHHH,9-28-22,US History,Sports Dismissal- Full Class Period
+I,9-20-22,Advanced Chemistry,"Other (LS, MS, US)"
+I,10-03-22,Anatomy and Physiology,"Other (LS, MS, US)"
+I,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+I,9-21-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+I,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+I,10-03-22,Spanish IV,Sports Dismissal- Full Class Period
+I,9-28-22,US History,Sports Dismissal- Full Class Period
+II,9-21-22,Computer Programming in Java,"Other (LS, MS, US)"
+II,10-07-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+II,11-01-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+II,11-03-22,Computer Programming in Java,"Other (LS, MS, US)"
+II,11-09-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+II,11-14-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+II,9-16-22,Multivariable Calculus,Absent
+II,10-31-22,Multivariable Calculus,"Illness - All Day (LS, MS, US)"
+II,11-10-22,Multivariable Calculus,"Illness - All Day (LS, MS, US)"
+II,10-31-22,Satire,"Illness - All Day (LS, MS, US)"
+II,11-10-22,Satire,"Illness - All Day (LS, MS, US)"
+II,9-21-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+II,10-07-22,Spanish: Advanced Studies,"Illness - All Day (LS, MS, US)"
+II,11-01-22,Spanish: Advanced Studies,"Illness - All Day (LS, MS, US)"
+II,11-09-22,Spanish: Advanced Studies,"Illness - All Day (LS, MS, US)"
+II,11-14-22,Spanish: Advanced Studies,"Illness - All Day (LS, MS, US)"
+II,9-20-22,The American War in Vietnam,"Other (LS, MS, US)"
+II,10-18-22,The American War in Vietnam,Absent
+II,10-31-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+II,11-10-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+III,10-31-22,Chemistry,"Family Trip (LS, MS, US)"
+III,9-23-22,Cultural Ethics,School Trip - Full Day
+III,10-17-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+III,11-18-22,Cultural Ethics,"Family Trip (LS, MS, US)"
+III,9-23-22,English 10,School Trip - Full Day
+III,10-17-22,English 10,"Illness - All Day (LS, MS, US)"
+III,11-18-22,English 10,"Family Trip (LS, MS, US)"
+III,10-31-22,Health,"Family Trip (LS, MS, US)"
+III,9-23-22,Math Analysis,School Trip - Full Day
+III,10-17-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+III,11-01-22,Math Analysis,"Family Trip (LS, MS, US)"
+III,11-18-22,Math Analysis,"Family Trip (LS, MS, US)"
+III,10-31-22,Spanish III,"Family Trip (LS, MS, US)"
+IIII,11-04-22,Chemistry,School Trip - Full Day
+IIII,9-23-22,Computer Art,School Trip - Full Day
+IIII,9-23-22,English 10,School Trip - Full Day
+IIII,9-23-22,French III,School Trip - Full Day
+IIII,11-04-22,Marxism and Its Legacy,School Trip - Full Day
+IIII,10-13-22,Math Analysis,Commons Duty (US)
+IIII,11-04-22,Math Analysis,School Trip - Full Day
+IIIII,9-26-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+IIIII,9-28-22,Acrylic Painting,"Other (LS, MS, US)"
+IIIII,11-08-22,Acrylic Painting,"Illness - All Day (LS, MS, US)"
+IIIII,9-27-22,Anatomy and Physiology,"Other (LS, MS, US)"
+IIIII,9-29-22,Anatomy and Physiology,"Other (LS, MS, US)"
+IIIII,10-12-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+IIIII,11-09-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+IIIII,9-27-22,Math Analysis,"Other (LS, MS, US)"
+IIIII,9-29-22,Math Analysis,"Other (LS, MS, US)"
+IIIII,10-12-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+IIIII,11-09-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+IIIII,9-26-22,Spanish III,"Illness - All Day (LS, MS, US)"
+IIIII,9-28-22,Spanish III,"Other (LS, MS, US)"
+IIIII,9-30-22,Spanish III,"Illness - Left Early (MS, US)"
+IIIII,11-08-22,Spanish III,"Illness - All Day (LS, MS, US)"
+IIIII,9-27-22,The Graphic Novel,"Other (LS, MS, US)"
+IIIII,10-12-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+IIIII,11-09-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+IIIII,9-26-22,US History,"Illness - All Day (LS, MS, US)"
+IIIII,9-28-22,US History,"Other (LS, MS, US)"
+IIIII,9-30-22,US History,"Illness - Left Early (MS, US)"
+IIIII,11-08-22,US History,"Illness - All Day (LS, MS, US)"
+IIIIII,9-20-22,Advanced Chemistry,"Other (LS, MS, US)"
+IIIIII,10-03-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+IIIIII,11-16-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+IIIIII,10-03-22,Physics,"Illness - All Day (LS, MS, US)"
+IIIIII,10-12-22,Physics,"Other (LS, MS, US)"
+IIIIII,11-16-22,Physics,"Illness - All Day (LS, MS, US)"
+IIIIII,9-19-22,US History,"Other (LS, MS, US)"
+IIIIII,10-03-22,US History,"Illness - All Day (LS, MS, US)"
+IIIIII,10-12-22,US History,"Other (LS, MS, US)"
+IIIIII,11-16-22,US History,"Illness - All Day (LS, MS, US)"
+IIIIIII,9-26-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+IIIIIII,10-13-22,Advanced Biology,"Medical Appt. - PM (MS, US)"
+IIIIIII,10-31-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+IIIIIII,9-26-22,Black Voices,"Illness - All Day (LS, MS, US)"
+IIIIIII,10-31-22,Black Voices,"Illness - All Day (LS, MS, US)"
+IIIIIII,9-09-22,French IV,"Medical Appt. - All Day (MS, US)"
+IIIIIII,9-21-22,French IV,"Medical Appt. - All Day (MS, US)"
+IIIIIII,11-01-22,French IV,"Late Arrival (LS, MS, US)"
+IIIIIII,11-14-22,French IV,"Illness - All Day (LS, MS, US)"
+IIIIIII,9-09-22,Introductory Calculus,"Medical Appt. - All Day (MS, US)"
+IIIIIII,9-21-22,Introductory Calculus,"Medical Appt. - All Day (MS, US)"
+IIIIIII,11-14-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+IIIIIII,9-09-22,Yoga,"Medical Appt. - All Day (MS, US)"
+IIIIIII,9-21-22,Yoga,"Medical Appt. - All Day (MS, US)"
+IIIIIII,10-05-22,Yoga,"Other (LS, MS, US)"
+IIIIIII,11-14-22,Yoga,"Illness - All Day (LS, MS, US)"
+IIIIIIII,9-20-22,Advanced Biology,"Other (LS, MS, US)"
+IIIIIIII,9-22-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+IIIIIIII,9-30-22,Advanced Biology,"Other (LS, MS, US)"
+IIIIIIII,10-11-22,Advanced Biology,"Other (LS, MS, US)"
+IIIIIIII,10-27-22,Advanced Biology,"Other (LS, MS, US)"
+IIIIIIII,10-31-22,Advanced Biology,"Late Arrival (LS, MS, US)"
+IIIIIIII,11-15-22,Advanced Biology,"Medical Appt. - PM (MS, US)"
+IIIIIIII,11-17-22,Advanced Biology,"Late Arrival (LS, MS, US)"
+IIIIIIII,9-09-22,Creative Writing: Essay,School Trip - Full Day
+IIIIIIII,10-03-22,Creative Writing: Essay,"Other (LS, MS, US)"
+IIIIIIII,9-09-22,Global Women's Issues,School Trip - Full Day
+IIIIIIII,9-23-22,Global Women's Issues,"Other (LS, MS, US)"
+IIIIIIII,10-05-22,Global Women's Issues,"Other (LS, MS, US)"
+IIIIIIII,9-26-22,Multivariable Calculus,"Medical Appt. - AM (MS, US)"
+IIIIIIII,9-28-22,Multivariable Calculus,"Medical Appt. - AM (MS, US)"
+IIIIIIII,10-27-22,Multivariable Calculus,"Other (LS, MS, US)"
+IIIIIIII,9-22-22,Physics with Calculus,"Other (LS, MS, US)"
+IIIIIIII,9-09-22,Spanish: Advanced Studies,Sports  Dismissal- Half Class Period
+IIIIIIII,9-23-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+IIIIIIII,10-12-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+IIIIIIII,10-17-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+IIIIIIIII,9-29-22,Darwinian Revolution,"Other (LS, MS, US)"
+IIIIIIIII,11-14-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+IIIIIIIII,10-06-22,Ecological Literature,"Other (LS, MS, US)"
+IIIIIIIII,9-13-22,Forensic Science,Sports Dismissal- Full Class Period
+IIIIIIIII,9-29-22,Forensic Science,Sports Dismissal- Full Class Period
+IIIIIIIII,11-14-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+IIIIIIIII,11-14-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+IIIIIIIIII,10-24-22,Engineer Your World,"Other (LS, MS, US)"
+IIIIIIIIII,10-26-22,Engineer Your World,"Other (LS, MS, US)"
+IIIIIIIIII,10-28-22,Engineer Your World,"Other (LS, MS, US)"
+IIIIIIIIII,10-12-22,Forensic Science,"Other (LS, MS, US)"
+IIIIIIIIII,10-24-22,Forensic Science,"Other (LS, MS, US)"
+IIIIIIIIII,10-26-22,Forensic Science,"Other (LS, MS, US)"
+IIIIIIIIII,10-28-22,Forensic Science,"Other (LS, MS, US)"
+IIIIIIIIII,10-04-22,French III,"Illness - All Day (LS, MS, US)"
+IIIIIIIIII,10-25-22,French III,"Other (LS, MS, US)"
+IIIIIIIIII,10-27-22,French III,"Other (LS, MS, US)"
+IIIIIIIIII,10-04-22,Multivariable Calculus,"Illness - All Day (LS, MS, US)"
+IIIIIIIIII,10-25-22,Multivariable Calculus,"Other (LS, MS, US)"
+IIIIIIIIII,10-27-22,Multivariable Calculus,"Other (LS, MS, US)"
+IIIIIIIIII,10-04-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+IIIIIIIIII,10-25-22,Queer Voices,"Other (LS, MS, US)"
+IIIIIIIIII,10-27-22,Queer Voices,"Other (LS, MS, US)"
+IIIIIIIIII,10-12-22,US History,"Other (LS, MS, US)"
+IIIIIIIIII,10-24-22,US History,"Other (LS, MS, US)"
+IIIIIIIIII,10-26-22,US History,"Other (LS, MS, US)"
+IIIIIIIIII,10-28-22,US History,"Other (LS, MS, US)"
+IIIIIIIIIII,9-09-22,Advanced Biology,Sports  Dismissal- Half Class Period
+IIIIIIIIIII,10-17-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-18-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-31-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-18-22,Data Science I,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-31-22,Data Science I,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-18-22,French III,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,10-31-22,French III,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIII,11-15-22,French III,School Trip - HalfDay
+IIIIIIIIIII,9-09-22,Introductory Calculus,School Trip - Full Day
+IIIIIIIIIII,9-19-22,Introductory Calculus,"Other (LS, MS, US)"
+IIIIIIIIIII,9-29-22,Introductory Calculus,"Other (LS, MS, US)"
+IIIIIIIIIII,10-17-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIIII,9-21-22,Advanced Chemistry,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-29-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIIII,10-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-29-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIIII,10-12-22,Cultural Ethics,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-19-22,Math Analysis,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-29-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+IIIIIIIIIIII,10-05-22,Math Analysis,"Other (LS, MS, US)"
+IIIIIIIIIIII,10-12-22,Math Analysis,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-20-22,Queer Voices,"Other (LS, MS, US)"
+IIIIIIIIIIII,9-30-22,Queer Voices,"Late Arrival (LS, MS, US)"
+IIIIIIIIIIII,11-17-22,Queer Voices,"Late Arrival (LS, MS, US)"
+J,10-17-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+J,9-26-22,English 10,Commons Duty (US)
+J,10-17-22,Health,"Illness - All Day (LS, MS, US)"
+J,10-17-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+JJ,9-23-22,Ecological Literature,School Trip - Full Day
+JJ,9-29-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+JJ,9-23-22,Forensic Science,School Trip - Full Day
+JJ,9-29-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+JJ,9-23-22,Introductory Calculus,School Trip - Full Day
+JJ,9-29-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+JJ,9-30-22,Satire,"Illness - All Day (LS, MS, US)"
+JJ,11-04-22,Satire,School Trip - Full Day
+JJ,9-20-22,Yoga,"Late Arrival (LS, MS, US)"
+JJ,9-30-22,Yoga,"Illness - All Day (LS, MS, US)"
+JJ,10-04-22,Yoga,"Other (LS, MS, US)"
+JJ,11-04-22,Yoga,School Trip - Full Day
+JJJ,10-05-22,Chemistry,"Medical Appt. - AM (MS, US)"
+JJJ,11-14-22,Chemistry,"Other (LS, MS, US)"
+JJJ,11-14-22,Darwinian Revolution,"Other (LS, MS, US)"
+JJJJ,9-16-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+JJJJ,11-04-22,Advanced Calculus,School Trip - Full Day
+JJJJ,9-16-22,Advanced Chemistry,"Family Trip (LS, MS, US)"
+JJJJ,11-04-22,Advanced Chemistry,School Trip - Full Day
+JJJJ,9-09-22,Creative Writing: Essay,"Medical Appt. - PM (MS, US)"
+JJJJ,9-23-22,Creative Writing: Essay,School Trip - Full Day
+JJJJ,9-23-22,French: Advanced Studies,School Trip - Full Day
+JJJJ,9-27-22,French: Advanced Studies,"Other (LS, MS, US)"
+JJJJ,10-05-22,French: Advanced Studies,"Other (LS, MS, US)"
+JJJJ,10-28-22,French: Advanced Studies,"Other (LS, MS, US)"
+JJJJ,11-03-22,French: Advanced Studies,"Medical Appt. - AM (MS, US)"
+JJJJ,9-23-22,Indigenous North American History,School Trip - Full Day
+JJJJJ,10-06-22,Chemistry,"Illness - All Day (LS, MS, US)"
+JJJJJ,9-21-22,English 10,"Unknown Reason (LS, MS, US)"
+JJJJJ,10-07-22,English 10,"Illness - All Day (LS, MS, US)"
+JJJJJ,11-14-22,English 10,"Other (LS, MS, US)"
+JJJJJ,9-22-22,French III,"Other (LS, MS, US)"
+JJJJJ,10-06-22,French III,"Illness - All Day (LS, MS, US)"
+JJJJJ,9-21-22,Health,"Illness - All Day (LS, MS, US)"
+JJJJJ,10-07-22,Health,"Illness - All Day (LS, MS, US)"
+JJJJJ,11-14-22,Health,"Other (LS, MS, US)"
+JJJJJ,10-06-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+JJJJJ,9-21-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+JJJJJ,10-07-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+JJJJJJ,10-03-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+JJJJJJ,10-03-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+JJJJJJ,9-16-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+JJJJJJ,10-13-22,The American War in Vietnam,Sports  Dismissal- Half Class Period
+JJJJJJ,10-03-22,The Graphic Novel,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,9-09-22,Biology,Sports  Dismissal- Half Class Period
+JJJJJJJ,9-27-22,Biology,"Medical Appt. - AM (MS, US)"
+JJJJJJJ,10-12-22,Biology,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-07-22,Biology,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-09-22,Biology,"Family Trip (LS, MS, US)"
+JJJJJJJ,9-09-22,Computer Art,School Trip - Full Day
+JJJJJJJ,10-12-22,Computer Art,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-07-22,Computer Art,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-09-22,Computer Art,"Family Trip (LS, MS, US)"
+JJJJJJJ,10-13-22,English 9,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-08-22,English 9,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-10-22,English 9,"Family Trip (LS, MS, US)"
+JJJJJJJ,10-13-22,Geometry,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-08-22,Geometry,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-10-22,Geometry,"Family Trip (LS, MS, US)"
+JJJJJJJ,9-09-22,Historical Inquiry,School Trip - Full Day
+JJJJJJJ,10-12-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-07-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-09-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+JJJJJJJ,10-13-22,Spanish I,"Illness - All Day (LS, MS, US)"
+JJJJJJJ,11-08-22,Spanish I,"Family Trip (LS, MS, US)"
+JJJJJJJ,11-10-22,Spanish I,"Family Trip (LS, MS, US)"
+JJJJJJJJ,10-12-22,Algebra I,"Illness - All Day (LS, MS, US)"
+JJJJJJJJ,10-13-22,Biology,"Illness - All Day (LS, MS, US)"
+JJJJJJJJ,10-12-22,English 9,"Illness - All Day (LS, MS, US)"
+JJJJJJJJ,9-12-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+JJJJJJJJ,10-13-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+JJJJJJJJ,9-15-22,Metal Design,Sports  Dismissal- Half Class Period
+JJJJJJJJ,10-12-22,Metal Design,"Illness - All Day (LS, MS, US)"
+JJJJJJJJ,10-13-22,Spanish I,"Illness - All Day (LS, MS, US)"
+JJJJJJJJJ,9-07-22,Biology,"Other (LS, MS, US)"
+JJJJJJJJJ,9-09-22,Biology,School Trip - Full Day
+JJJJJJJJJ,9-09-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+JJJJJJJJJ,10-25-22,Spanish I,Commons Duty (US)
+JJJJJJJJJ,9-09-22,Strength and Conditioning,School Trip - Full Day
+JJJJJJJJJJ,10-12-22,Dramatic Literature,"Other (LS, MS, US)"
+JJJJJJJJJJ,9-20-22,Environmental Science,Sports  Dismissal- Half Class Period
+JJJJJJJJJJ,10-13-22,Environmental Science,School Trip - HalfDay
+JJJJJJJJJJ,10-12-22,Fire Arts,"Other (LS, MS, US)"
+JJJJJJJJJJ,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+JJJJJJJJJJ,9-22-22,US History,"Other (LS, MS, US)"
+JJJJJJJJJJJ,9-26-22,Advanced Algebra,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,9-19-22,Chemistry,"Illness - All Day (LS, MS, US)"
+JJJJJJJJJJJ,10-05-22,Chemistry,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,9-26-22,English 10,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,9-19-22,Health,"Illness - All Day (LS, MS, US)"
+JJJJJJJJJJJ,10-05-22,Health,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,11-01-22,Health,"Illness - Left Early (MS, US)"
+JJJJJJJJJJJ,11-14-22,Health,Commons Duty (US)
+JJJJJJJJJJJ,11-18-22,Health,Absent
+JJJJJJJJJJJ,9-19-22,Spanish III,"Illness - All Day (LS, MS, US)"
+JJJJJJJJJJJ,10-05-22,Spanish III,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,10-28-22,Spanish III,Sports  Dismissal- Half Class Period
+JJJJJJJJJJJ,9-26-22,The Middle East,"Religious Holiday (LS, MS, US)"
+JJJJJJJJJJJ,9-30-22,The Middle East,"Medical Appt. - AM (MS, US)"
+JJJJJJJJJJJJ,9-20-22,Advanced Chemistry,"Other (LS, MS, US)"
+JJJJJJJJJJJJ,9-26-22,Advanced Chemistry,"Medical Appt. - PM (MS, US)"
+JJJJJJJJJJJJ,11-17-22,Advanced Chemistry,Commons Duty (US)
+JJJJJJJJJJJJ,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+JJJJJJJJJJJJ,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+JJJJJJJJJJJJ,11-17-22,US History,"Other (LS, MS, US)"
+K,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+K,10-24-22,Advanced Calculus,"Medical Appt. - All Day (MS, US)"
+K,9-30-22,Advanced Chemistry,"Other (LS, MS, US)"
+K,10-25-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+K,10-12-22,Ecological Literature,"Other (LS, MS, US)"
+K,10-24-22,Ecological Literature,"Medical Appt. - All Day (MS, US)"
+K,10-25-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+K,10-25-22,US History,"Illness - All Day (LS, MS, US)"
+K,10-12-22,Wilderness First Aid,"Other (LS, MS, US)"
+K,10-24-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+KK,9-09-22,Advanced Algebra,School Trip - Full Day
+KK,10-05-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+KK,10-07-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+KK,10-17-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+KK,10-06-22,Biology,"Family Trip (LS, MS, US)"
+KK,10-06-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+KK,11-04-22,Digital Filmmaking,"Medical Appt. - PM (MS, US)"
+KK,10-06-22,English 9,"Family Trip (LS, MS, US)"
+KK,9-09-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+KK,10-05-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+KK,10-07-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+KK,11-01-22,Historical Inquiry,"Medical Appt. - AM (MS, US)"
+KK,9-09-22,Spanish II,School Trip - Full Day
+KK,10-05-22,Spanish II,"Family Trip (LS, MS, US)"
+KK,10-07-22,Spanish II,"Family Trip (LS, MS, US)"
+KK,10-24-22,Spanish II,Sports  Dismissal- Half Class Period
+KKK,11-03-22,Chemistry,"Other (LS, MS, US)"
+KKK,11-03-22,English 10,"Other (LS, MS, US)"
+KKK,11-14-22,English 10,"Other (LS, MS, US)"
+KKK,11-03-22,Health,"Other (LS, MS, US)"
+KKK,9-16-22,Math Analysis,"Family Trip (LS, MS, US)"
+KKK,9-16-22,Spanish III,"Family Trip (LS, MS, US)"
+KKK,9-16-22,The American War in Vietnam,"Family Trip (LS, MS, US)"
+KKK,11-08-22,The American War in Vietnam,"Medical Appt. - AM (MS, US)"
+KKKK,10-24-22,Advanced Biology,"Other (LS, MS, US)"
+KKKK,11-18-22,Advanced Biology,"Family Trip (LS, MS, US)"
+KKKK,9-13-22,Chemistry,Sports Dismissal- Full Class Period
+KKKK,10-05-22,Chemistry,"Late Arrival (LS, MS, US)"
+KKKK,10-12-22,Chemistry,"Other (LS, MS, US)"
+KKKK,11-01-22,Chemistry,Sports  Dismissal- Half Class Period
+KKKK,11-18-22,Chemistry,"Family Trip (LS, MS, US)"
+KKKK,10-12-22,Ecological Literature,"Other (LS, MS, US)"
+KKKK,10-24-22,Ecological Literature,Commons Duty (US)
+KKKK,11-18-22,Ecological Literature,"Family Trip (LS, MS, US)"
+KKKK,9-20-22,Introductory Calculus,Sports Dismissal- Full Class Period
+KKKK,9-28-22,Introductory Calculus,Sports  Dismissal- Half Class Period
+KKKK,11-17-22,Introductory Calculus,"Family Trip (LS, MS, US)"
+KKKK,11-17-22,Spanish IV,"Family Trip (LS, MS, US)"
+KKKK,9-20-22,US History,"Other (LS, MS, US)"
+KKKK,9-30-22,US History,"Other (LS, MS, US)"
+KKKK,11-17-22,US History,"Family Trip (LS, MS, US)"
+KKKKK,9-12-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+KKKKK,10-06-22,Advanced Calculus,"Other (LS, MS, US)"
+KKKKK,9-12-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+KKKKK,10-27-22,Queer Voices,"Other (LS, MS, US)"
+KKKKK,11-07-22,Stage Makeup,"Other (LS, MS, US)"
+KKKKK,9-12-22,Yoga,"Illness - All Day (LS, MS, US)"
+KKKKK,10-25-22,Yoga,"Medical Appt. - PM (MS, US)"
+KKKKKK,11-04-22,Advanced Algebra,Absent
+KKKKKK,11-04-22,Biology,Sports Dismissal- Full Class Period
+KKKKKK,11-17-22,Biology,"Medical Appt. - AM (MS, US)"
+KKKKKK,10-28-22,English 9,Sports Dismissal- Full Class Period
+KKKKKK,10-26-22,Historical Inquiry,Early Dismissal-Sports
+KKKKKK,9-28-22,Spanish I,"Medical Appt. - PM (MS, US)"
+KKKKKKK,9-29-22,Anatomy and Physiology,"Other (LS, MS, US)"
+KKKKKKK,9-21-22,Astronomy,"Other (LS, MS, US)"
+KKKKKKK,10-18-22,Introductory Calculus,"Other (LS, MS, US)"
+KKKKKKK,11-10-22,Introductory Calculus,College Visit-Off Campus (US)
+KKKKKKK,9-26-22,Understanding the Brain,Commons Duty (US)
+KKKKKKK,9-30-22,Understanding the Brain,"Other (LS, MS, US)"
+KKKKKKK,10-04-22,Understanding the Brain,"Other (LS, MS, US)"
+KKKKKKK,11-10-22,Understanding the Brain,College Visit-Off Campus (US)
+KKKKKKKK,10-18-22,Advanced Calculus,College Visit-Off Campus (US)
+KKKKKKKK,10-28-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+KKKKKKKK,10-18-22,How Do We See,College Visit-Off Campus (US)
+KKKKKKKK,10-18-22,Understanding the Brain,College Visit-Off Campus (US)
+KKKKKKKK,11-04-22,Understanding the Brain,"Late Arrival (LS, MS, US)"
+KKKKKKKKK,9-06-22,Biology,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-08-22,Biology,"Family Trip (LS, MS, US)"
+KKKKKKKKK,11-15-22,Biology,"Illness - All Day (LS, MS, US)"
+KKKKKKKKK,9-06-22,English 9,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-08-22,English 9,"Family Trip (LS, MS, US)"
+KKKKKKKKK,11-15-22,English 9,"Illness - All Day (LS, MS, US)"
+KKKKKKKKK,9-06-22,Geometry,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-08-22,Geometry,"Family Trip (LS, MS, US)"
+KKKKKKKKK,11-15-22,Geometry,"Illness - All Day (LS, MS, US)"
+KKKKKKKKK,9-07-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-09-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-07-22,Spanish II,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-09-22,Spanish II,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-07-22,Wilderness First Aid,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-09-22,Wilderness First Aid,"Family Trip (LS, MS, US)"
+KKKKKKKKK,9-19-22,Wilderness First Aid,Absent
+KKKKKKKKKK,9-20-22,Acrylic Painting,Sports Dismissal- Full Class Period
+KKKKKKKKKK,9-28-22,Acrylic Painting,Sports Dismissal- Full Class Period
+KKKKKKKKKK,10-06-22,Acrylic Painting,Sports  Dismissal- Half Class Period
+KKKKKKKKKK,10-11-22,Acrylic Painting,"Other (LS, MS, US)"
+KKKKKKKKKK,9-30-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+KKKKKKKKKK,9-13-22,English 9,Sports Dismissal- Full Class Period
+KKKKKKKKKK,11-01-22,English 9,Sports  Dismissal- Half Class Period
+KKKKKKKKKK,10-24-22,Historical Inquiry,"Religious Holiday (LS, MS, US)"
+KKKKKKKKKK,10-28-22,Historical Inquiry,Sports Dismissal- Full Class Period
+KKKKKKKKKKK,9-19-22,Forensic Science,"Other (LS, MS, US)"
+KKKKKKKKKKK,11-07-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+KKKKKKKKKKK,9-19-22,Introduction to Psychology,"Other (LS, MS, US)"
+KKKKKKKKKKK,9-21-22,Introduction to Psychology,"Other (LS, MS, US)"
+KKKKKKKKKKK,11-07-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+KKKKKKKKKKK,10-05-22,Postcolonial Voices,"Other (LS, MS, US)"
+KKKKKKKKKKK,11-07-22,Postcolonial Voices,"Illness - All Day (LS, MS, US)"
+KKKKKKKKKKK,10-06-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+KKKKKKKKKKKK,9-20-22,Advanced Chemistry,"Other (LS, MS, US)"
+KKKKKKKKKKKK,11-15-22,Advanced Chemistry,"Medical Appt. - PM (MS, US)"
+KKKKKKKKKKKK,9-19-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+KKKKKKKKKKKK,9-27-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+KKKKKKKKKKKK,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+KKKKKKKKKKKK,10-28-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+KKKKKKKKKKKK,9-15-22,Introductory Calculus,"Other (LS, MS, US)"
+KKKKKKKKKKKK,9-29-22,Introductory Calculus,"Other (LS, MS, US)"
+KKKKKKKKKKKK,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+KKKKKKKKKKKK,10-17-22,Introductory Calculus,"Other (LS, MS, US)"
+KKKKKKKKKKKK,9-21-22,US History,"Other (LS, MS, US)"
+KKKKKKKKKKKK,10-12-22,US History,"Other (LS, MS, US)"
+L,10-05-22,Advanced Statistics,"Medical Appt. - AM (MS, US)"
+L,11-15-22,Physics with Calculus,School Trip - HalfDay
+LL,9-23-22,Chemistry,School Trip - Full Day
+LL,9-23-22,Computer Art,School Trip - Full Day
+LL,9-23-22,English 10,School Trip - Full Day
+LL,11-04-22,Math Analysis,School Trip - Full Day
+LL,11-04-22,Spanish III,School Trip - Full Day
+LL,11-04-22,The American War in Vietnam,School Trip - Full Day
+LLL,9-20-22,Advanced Biology,"Other (LS, MS, US)"
+LLL,9-30-22,Advanced Biology,College Visit-Off Campus (US)
+LLL,10-11-22,Advanced Biology,College Visit-Off Campus (US)
+LLL,9-30-22,Advanced Calculus,College Visit-Off Campus (US)
+LLL,10-11-22,Advanced Calculus,College Visit-Off Campus (US)
+LLL,9-30-22,Black Voices,College Visit-Off Campus (US)
+LLL,10-11-22,Black Voices,College Visit-Off Campus (US)
+LLL,9-29-22,Darwinian Revolution,College Visit-Off Campus (US)
+LLL,10-17-22,Darwinian Revolution,"Medical Appt. - PM (MS, US)"
+LLL,9-29-22,Spanish: Advanced Studies,College Visit-Off Campus (US)
+LLLL,10-27-22,Biology,"Other (LS, MS, US)"
+LLLL,10-28-22,Computer Art,"Other (LS, MS, US)"
+LLLL,11-09-22,Computer Art,"Illness - All Day (LS, MS, US)"
+LLLL,11-09-22,English 9,"Illness - All Day (LS, MS, US)"
+LLLL,11-09-22,Geometry,"Illness - All Day (LS, MS, US)"
+LLLLL,9-09-22,Advanced Calculus,School Trip - Full Day
+LLLLL,9-27-22,Advanced Calculus,"Other (LS, MS, US)"
+LLLLL,10-05-22,Advanced Calculus,"Other (LS, MS, US)"
+LLLLL,10-17-22,Advanced Calculus,College Visit-Off Campus (US)
+LLLLL,9-09-22,Advanced Statistics,Sports  Dismissal- Half Class Period
+LLLLL,10-17-22,Advanced Statistics,College Visit-Off Campus (US)
+LLLLL,9-09-22,Introduction to Psychology,School Trip - Full Day
+LLLLL,9-19-22,Introduction to Psychology,"Other (LS, MS, US)"
+LLLLL,10-17-22,Introduction to Psychology,College Visit-Off Campus (US)
+LLLLL,9-20-22,Satire,"Other (LS, MS, US)"
+LLLLL,10-18-22,Satire,College Visit-Off Campus (US)
+LLLLL,11-02-22,Satire,"Illness - All Day (LS, MS, US)"
+LLLLL,10-18-22,Understanding the Brain,College Visit-Off Campus (US)
+LLLLL,11-02-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+LLLLL,11-15-22,Understanding the Brain,"Medical Appt. - AM (MS, US)"
+LLLLLL,9-27-22,Advanced Calculus,"Other (LS, MS, US)"
+LLLLLL,10-05-22,Advanced Calculus,"Other (LS, MS, US)"
+LLLLLL,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+LLLLLL,10-25-22,Black Voices,Absent
+LLLLLL,10-12-22,Darwinian Revolution,"Other (LS, MS, US)"
+LLLLLL,10-12-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+LLLLLL,9-20-22,US History,"Other (LS, MS, US)"
+LLLLLLL,10-11-22,Chemistry,"Illness - All Day (LS, MS, US)"
+LLLLLLL,10-11-22,English 10,"Illness - All Day (LS, MS, US)"
+LLLLLLL,11-16-22,Health,"Illness - All Day (LS, MS, US)"
+LLLLLLL,11-16-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+LLLLLLL,10-11-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+LLLLLLL,10-28-22,Spanish III,"Other (LS, MS, US)"
+LLLLLLL,11-07-22,Spanish III,"Other (LS, MS, US)"
+LLLLLLL,11-16-22,Spanish III,"Illness - All Day (LS, MS, US)"
+LLLLLLLL,9-23-22,Advanced Chemistry,School Trip - Full Day
+LLLLLLLL,10-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+LLLLLLLL,9-30-22,Ecological Literature,"Other (LS, MS, US)"
+LLLLLLLL,9-23-22,Math Analysis,School Trip - Full Day
+LLLLLLLL,11-07-22,Math Analysis,Commons Duty (US)
+LLLLLLLL,9-23-22,US History,School Trip - Full Day
+LLLLLLLL,10-12-22,US History,"Other (LS, MS, US)"
+LLLLLLLL,11-18-22,US History,"Medical Appt. - PM (MS, US)"
+LLLLLLLLL,9-28-22,Biology,Sports Dismissal- Full Class Period
+LLLLLLLLL,10-04-22,Biology,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-02-22,Biology,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-04-22,Biology,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,9-13-22,English 9,Sports Dismissal- Full Class Period
+LLLLLLLLL,11-01-22,English 9,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-03-22,English 9,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,9-16-22,French I,"Other (LS, MS, US)"
+LLLLLLLLL,10-04-22,French I,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-02-22,French I,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-04-22,French I,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-01-22,Geometry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-03-22,Geometry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,9-27-22,Historical Inquiry,Commons Duty (US)
+LLLLLLLLL,11-01-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-03-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,10-04-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-02-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+LLLLLLLLL,11-04-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLL,11-14-22,Health,Absent
+LLLLLLLLLL,11-14-22,Math Analysis,Absent
+LLLLLLLLLLL,9-23-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,10-03-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,10-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+LLLLLLLLLLL,11-18-22,Advanced Chemistry,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-30-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-23-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-27-22,Introductory Calculus,"Medical Appt. - AM (MS, US)"
+LLLLLLLLLLL,9-29-22,Introductory Calculus,"Illness - Left Early (MS, US)"
+LLLLLLLLLLL,10-03-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+LLLLLLLLLLL,11-18-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-30-22,Mandarin III,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-30-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-19-22,US History,"Other (LS, MS, US)"
+LLLLLLLLLLL,9-23-22,US History,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,9-29-22,US History,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,10-03-22,US History,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLL,10-12-22,US History,"Other (LS, MS, US)"
+LLLLLLLLLLL,11-18-22,US History,"Illness - All Day (LS, MS, US)"
+LLLLLLLLLLLL,10-31-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-02-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-28-22,Chemistry,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-01-22,Chemistry,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-07-22,Computer Programming in Java,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-28-22,Computer Programming in Java,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-01-22,Computer Programming in Java,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-27-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-31-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-02-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-28-22,English 10,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-01-22,English 10,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-27-22,Spanish II,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,10-31-22,Spanish II,"Family Trip (LS, MS, US)"
+LLLLLLLLLLLL,11-02-22,Spanish II,"Family Trip (LS, MS, US)"
+M,9-22-22,Advanced Calculus,Commons Duty (US)
+M,10-11-22,Advanced Calculus,"Other (LS, MS, US)"
+M,10-13-22,Advanced Calculus,"Other (LS, MS, US)"
+M,10-27-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+M,11-04-22,Advanced Calculus,School Trip - Full Day
+M,10-11-22,Black Voices,"Other (LS, MS, US)"
+M,10-13-22,Black Voices,"Other (LS, MS, US)"
+M,10-27-22,Black Voices,"Illness - All Day (LS, MS, US)"
+M,11-04-22,Black Voices,School Trip - Full Day
+M,9-23-22,Creative Writing: Essay,School Trip - Full Day
+M,10-12-22,Creative Writing: Essay,"Other (LS, MS, US)"
+M,10-28-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+M,9-23-22,Forensic Science,School Trip - Full Day
+M,10-12-22,Forensic Science,"Other (LS, MS, US)"
+M,10-28-22,Forensic Science,"Illness - All Day (LS, MS, US)"
+M,10-11-22,How Do We See,"Other (LS, MS, US)"
+M,10-13-22,How Do We See,"Other (LS, MS, US)"
+M,10-27-22,How Do We See,"Illness - All Day (LS, MS, US)"
+M,11-04-22,How Do We See,School Trip - Full Day
+MM,10-03-22,Anatomy and Physiology,"Other (LS, MS, US)"
+MM,11-09-22,Anatomy and Physiology,Sports Dismissal- Full Class Period
+MM,11-14-22,Anatomy and Physiology,College Meeting-On Campus (US)
+MM,11-09-22,Spanish: Advanced Studies,Sports Dismissal- Full Class Period
+MMM,10-04-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+MMM,10-06-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+MMM,9-21-22,Introductory Calculus,"Other (LS, MS, US)"
+MMM,10-05-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+MMM,10-07-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+MMM,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+MMM,10-04-22,Mandarin III,"Illness - All Day (LS, MS, US)"
+MMM,10-06-22,Mandarin III,"Illness - All Day (LS, MS, US)"
+MMM,10-11-22,Mandarin III,Sports Dismissal- Full Class Period
+MMM,10-13-22,Mandarin III,"Medical Appt. - AM (MS, US)"
+MMM,9-20-22,Silkscreen,Sports Dismissal- Full Class Period
+MMM,9-28-22,Silkscreen,Sports  Dismissal- Half Class Period
+MMM,10-04-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+MMM,10-06-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+MMM,10-05-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+MMM,10-07-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+MMM,10-12-22,Travel Literature,"Other (LS, MS, US)"
+MMM,9-13-22,US History,Sports Dismissal- Full Class Period
+MMM,9-19-22,US History,"Other (LS, MS, US)"
+MMM,10-05-22,US History,"Illness - All Day (LS, MS, US)"
+MMM,10-07-22,US History,"Illness - All Day (LS, MS, US)"
+MMM,10-12-22,US History,"Other (LS, MS, US)"
+MMM,11-01-22,US History,Sports Dismissal- Full Class Period
+MMMM,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+MMMM,10-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+MMMM,9-15-22,Fire Arts,"Other (LS, MS, US)"
+MMMM,10-12-22,Fire Arts,"Other (LS, MS, US)"
+MMMM,10-11-22,Mandarin IV,"Late Arrival (LS, MS, US)"
+MMMMM,9-09-22,Advanced Algebra,School Trip - Full Day
+MMMMM,10-17-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+MMMMM,11-18-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+MMMMM,9-09-22,Historical Inquiry,School Trip - Full Day
+MMMMM,11-18-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+MMMMM,9-09-22,Wilderness First Aid,Sports  Dismissal- Half Class Period
+MMMMM,11-18-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+MMMMMM,9-19-22,Anatomy and Physiology,"Other (LS, MS, US)"
+MMMMMM,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+MMMMMM,10-28-22,Anatomy and Physiology,"Illness - All Day (LS, MS, US)"
+MMMMMM,9-30-22,Ecological Literature,"Other (LS, MS, US)"
+MMMMMM,9-15-22,Fire Arts,"Other (LS, MS, US)"
+MMMMMM,9-19-22,Fire Arts,"Other (LS, MS, US)"
+MMMMMM,10-12-22,Fire Arts,"Other (LS, MS, US)"
+MMMMMM,10-28-22,Fire Arts,"Illness - All Day (LS, MS, US)"
+MMMMMM,11-01-22,Fire Arts,College Meeting-On Campus (US)
+MMMMMM,9-19-22,US History,"Other (LS, MS, US)"
+MMMMMM,10-12-22,US History,"Other (LS, MS, US)"
+MMMMMM,10-28-22,US History,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-16-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-20-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-16-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-20-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-15-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-19-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-21-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-15-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-19-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-21-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+MMMMMMM,11-01-22,Introduction to Psychology,Commons Duty (US)
+MMMMMMM,9-16-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-20-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-15-22,Spanish: Advanced Studies,"Illness - All Day (LS, MS, US)"
+MMMMMMM,9-19-22,Spanish: Advanced Studies,"Illness - Left Early (MS, US)"
+MMMMMMM,9-21-22,Spanish: Advanced Studies,"Illness - Left Early (MS, US)"
+MMMMMMMM,10-07-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+MMMMMMMM,10-28-22,Advanced Statistics,"Other (LS, MS, US)"
+MMMMMMMM,10-07-22,Computer Art,"Illness - All Day (LS, MS, US)"
+MMMMMMMM,10-28-22,Computer Art,"Other (LS, MS, US)"
+MMMMMMMM,10-07-22,Computer Programming in Java,"Illness - All Day (LS, MS, US)"
+MMMMMMMM,10-28-22,Computer Programming in Java,"Other (LS, MS, US)"
+MMMMMMMM,11-18-22,Computer Programming in Java,"Illness - Left Early (MS, US)"
+MMMMMMMM,10-06-22,Physics with Calculus,"Other (LS, MS, US)"
+MMMMMMMM,9-22-22,Understanding the Brain,"Illness - Left Early (MS, US)"
+MMMMMMMM,10-25-22,Understanding the Brain,"Other (LS, MS, US)"
+MMMMMMMM,11-02-22,Understanding the Brain,"Illness - Left Early (MS, US)"
+MMMMMMMMM,9-21-22,Creative Writing: Essay,"Other (LS, MS, US)"
+MMMMMMMMM,10-03-22,Creative Writing: Essay,"Other (LS, MS, US)"
+MMMMMMMMM,9-12-22,Physics with Calculus,Sports  Dismissal- Half Class Period
+MMMMMMMMMM,9-13-22,Additive Multimedia Sculpture,Sports Dismissal- Full Class Period
+MMMMMMMMMM,9-29-22,Additive Multimedia Sculpture,Sports Dismissal- Full Class Period
+MMMMMMMMMM,10-05-22,Additive Multimedia Sculpture,"Other (LS, MS, US)"
+MMMMMMMMMMM,10-13-22,How Do We See,"Other (LS, MS, US)"
+MMMMMMMMMMMM,11-09-22,Advanced Calculus,"Illness - Left Early (MS, US)"
+MMMMMMMMMMMM,10-17-22,Physics,"Illness - Left Early (MS, US)"
+MMMMMMMMMMMM,10-18-22,The Middle East,"Illness - Left Early (MS, US)"
+MMMMMMMMMMMM,10-06-22,Understanding the Brain,"Other (LS, MS, US)"
+MMMMMMMMMMMM,10-18-22,Understanding the Brain,"Illness - Left Early (MS, US)"
+N,11-10-22,Biology,"Medical Appt. - All Day (MS, US)"
+N,10-24-22,Black and White Photography,"Late Arrival (LS, MS, US)"
+N,11-10-22,English 9,"Medical Appt. - All Day (MS, US)"
+N,11-10-22,Historical Inquiry,"Medical Appt. - All Day (MS, US)"
+N,10-24-22,Spanish II,Absent
+NN,9-13-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+NN,9-15-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+NN,9-13-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+NN,9-15-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+NN,9-29-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+NN,9-12-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+NN,9-14-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+NN,9-13-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+NN,9-15-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+NN,9-12-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+NN,9-14-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+NN,9-28-22,Spanish IV,"Medical Appt. - AM (MS, US)"
+NN,10-11-22,Spanish IV,Sports Dismissal- Full Class Period
+NN,9-12-22,US History,"Illness - All Day (LS, MS, US)"
+NN,9-14-22,US History,"Illness - All Day (LS, MS, US)"
+NNN,10-03-22,Cultural Ethics,"Medical Appt. - PM (MS, US)"
+NNN,11-07-22,Cultural Ethics,Commons Duty (US)
+NNN,9-26-22,English 10,"Illness - All Day (LS, MS, US)"
+NNN,10-27-22,English 10,"Illness - All Day (LS, MS, US)"
+NNN,9-26-22,French III,"Illness - All Day (LS, MS, US)"
+NNN,10-27-22,French III,"Illness - All Day (LS, MS, US)"
+NNN,9-26-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+NNN,10-27-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+NNN,11-03-22,Yoga,"Late Arrival (LS, MS, US)"
+NNN,11-07-22,Yoga,Commons Duty (US)
+NNNN,9-26-22,Advanced Algebra,"Religious Holiday (LS, MS, US)"
+NNNN,11-10-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+NNNN,9-26-22,Chemistry,"Religious Holiday (LS, MS, US)"
+NNNN,11-10-22,Chemistry,"Family Trip (LS, MS, US)"
+NNNN,10-05-22,Cultural Ethics,"Religious Holiday (LS, MS, US)"
+NNNN,10-07-22,Cultural Ethics,"Family Trip (LS, MS, US)"
+NNNN,9-29-22,English 10,Commons Duty (US)
+NNNN,10-05-22,English 10,"Religious Holiday (LS, MS, US)"
+NNNN,9-26-22,Spanish III,"Religious Holiday (LS, MS, US)"
+NNNN,11-10-22,Spanish III,"Family Trip (LS, MS, US)"
+NNNN,10-05-22,Yoga,"Religious Holiday (LS, MS, US)"
+NNNN,10-07-22,Yoga,"Family Trip (LS, MS, US)"
+NNNNN,9-14-22,Advanced Calculus,"Unknown Reason (LS, MS, US)"
+NNNNN,9-19-22,Anatomy and Physiology,"Other (LS, MS, US)"
+NNNNN,11-10-22,Marine Biology,"Medical Appt. - AM (MS, US)"
+NNNNN,9-23-22,Travel Literature,"Medical Appt. - PM (MS, US)"
+NNNNNN,10-04-22,Chemistry,"Other (LS, MS, US)"
+NNNNNN,10-11-22,Chemistry,"Illness - All Day (LS, MS, US)"
+NNNNNN,10-31-22,Chemistry,"Illness - All Day (LS, MS, US)"
+NNNNNN,10-11-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+NNNNNN,10-31-22,Civics: Understanding Our Rights,"Illness - All Day (LS, MS, US)"
+NNNNNN,11-14-22,English 10,"Other (LS, MS, US)"
+NNNNNN,10-11-22,Ensemble I,"Illness - All Day (LS, MS, US)"
+NNNNNN,10-31-22,Ensemble I,"Illness - All Day (LS, MS, US)"
+NNNNNN,11-15-22,Ensemble I,School Trip - HalfDay
+NNNNNN,11-14-22,Math Analysis,"Other (LS, MS, US)"
+NNNNNN,10-03-22,Spanish III,Commons Duty (US)
+NNNNNNN,9-19-22,Advanced Statistics,"Other (LS, MS, US)"
+NNNNNNN,10-03-22,Advanced Statistics,"Other (LS, MS, US)"
+NNNNNNN,9-21-22,Anatomy and Physiology,"Other (LS, MS, US)"
+NNNNNNN,10-28-22,Anatomy and Physiology,"Other (LS, MS, US)"
+NNNNNNNN,9-13-22,Creative Writing: Essay,"Other (LS, MS, US)"
+NNNNNNNN,9-15-22,Creative Writing: Essay,"Other (LS, MS, US)"
+NNNNNNNN,9-21-22,Creative Writing: Essay,"Other (LS, MS, US)"
+NNNNNNNN,9-29-22,Creative Writing: Essay,Commons Duty (US)
+NNNNNNNN,10-12-22,Creative Writing: Essay,"Other (LS, MS, US)"
+NNNNNNNN,11-09-22,Creative Writing: Essay,"Late Arrival (LS, MS, US)"
+NNNNNNNN,11-14-22,Creative Writing: Essay,"Other (LS, MS, US)"
+NNNNNNNN,9-14-22,Marxism and Its Legacy,"Other (LS, MS, US)"
+NNNNNNNN,9-16-22,Marxism and Its Legacy,"Other (LS, MS, US)"
+NNNNNNNN,9-13-22,Math Analysis,"Other (LS, MS, US)"
+NNNNNNNN,9-15-22,Math Analysis,"Other (LS, MS, US)"
+NNNNNNNN,10-05-22,Math Analysis,"Other (LS, MS, US)"
+NNNNNNNN,10-12-22,Math Analysis,"Other (LS, MS, US)"
+NNNNNNNN,9-07-22,Spanish IV,"Medical Appt. - PM (MS, US)"
+NNNNNNNN,9-13-22,Spanish IV,"Other (LS, MS, US)"
+NNNNNNNN,9-15-22,Spanish IV,"Other (LS, MS, US)"
+NNNNNNNN,9-29-22,Spanish IV,Commons Duty (US)
+NNNNNNNN,10-05-22,Spanish IV,"Other (LS, MS, US)"
+NNNNNNNN,11-14-22,Spanish IV,"Medical Appt. - PM (MS, US)"
+NNNNNNNN,9-14-22,US History,"Other (LS, MS, US)"
+NNNNNNNN,9-16-22,US History,"Other (LS, MS, US)"
+NNNNNNNN,10-11-22,US History,"Other (LS, MS, US)"
+NNNNNNNN,9-14-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+NNNNNNNN,9-16-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+NNNNNNNNN,9-09-22,Advanced Algebra,School Trip - Full Day
+NNNNNNNNN,10-11-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+NNNNNNNNN,10-27-22,Advanced Biology,"Other (LS, MS, US)"
+NNNNNNNNN,9-15-22,Engineer Your World,"Other (LS, MS, US)"
+NNNNNNNNN,11-09-22,Engineer Your World,"Medical Appt. - All Day (MS, US)"
+NNNNNNNNN,10-03-22,Introduction to Psychology,"Other (LS, MS, US)"
+NNNNNNNNN,11-09-22,Introduction to Psychology,"Medical Appt. - All Day (MS, US)"
+NNNNNNNNN,9-28-22,Multivariable Calculus,"Other (LS, MS, US)"
+NNNNNNNNN,10-11-22,Multivariable Calculus,"Illness - All Day (LS, MS, US)"
+NNNNNNNNN,10-11-22,Satire,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,9-23-22,Introductory Calculus,School Trip - Full Day
+NNNNNNNNNN,9-29-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+NNNNNNNNNN,11-18-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,9-23-22,Physics,School Trip - Full Day
+NNNNNNNNNN,9-29-22,Physics,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,10-12-22,Physics,"Other (LS, MS, US)"
+NNNNNNNNNN,11-18-22,Physics,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,9-15-22,Spanish III,"Other (LS, MS, US)"
+NNNNNNNNNN,9-23-22,Spanish III,School Trip - Full Day
+NNNNNNNNNN,9-29-22,Spanish III,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,10-12-22,Spanish III,"Other (LS, MS, US)"
+NNNNNNNNNN,11-18-22,Spanish III,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,9-30-22,The Middle East,"Other (LS, MS, US)"
+NNNNNNNNNN,10-27-22,The Middle East,Absent
+NNNNNNNNNN,11-04-22,The Middle East,School Trip - Full Day
+NNNNNNNNNN,11-17-22,The Middle East,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,10-06-22,Tykoe Yearbook,"Other (LS, MS, US)"
+NNNNNNNNNN,10-13-22,Tykoe Yearbook,"Late Arrival (LS, MS, US)"
+NNNNNNNNNN,10-25-22,Tykoe Yearbook,Sports Dismissal- Full Class Period
+NNNNNNNNNN,11-02-22,Tykoe Yearbook,"Medical Appt. - PM (MS, US)"
+NNNNNNNNNN,11-04-22,Tykoe Yearbook,School Trip - Full Day
+NNNNNNNNNN,11-17-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNN,9-22-22,US History,"Other (LS, MS, US)"
+NNNNNNNNNN,11-04-22,US History,School Trip - Full Day
+NNNNNNNNNN,11-17-22,US History,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,10-04-22,Black Voices,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-15-22,Black Voices,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-17-22,Black Voices,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,10-04-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-15-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-17-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-16-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-18-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-01-22,Spanish III,Absent
+NNNNNNNNNNN,11-16-22,Spanish III,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-18-22,Spanish III,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,10-04-22,US History,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,10-27-22,US History,"Other (LS, MS, US)"
+NNNNNNNNNNN,11-15-22,US History,"Illness - All Day (LS, MS, US)"
+NNNNNNNNNNN,11-17-22,US History,"Illness - All Day (LS, MS, US)"
+O,10-17-22,Biology,"Illness - All Day (LS, MS, US)"
+O,11-10-22,English 9,"Medical Appt. - AM (MS, US)"
+O,10-17-22,Geometry,"Illness - All Day (LS, MS, US)"
+O,11-10-22,Historical Inquiry,"Medical Appt. - PM (MS, US)"
+O,11-17-22,Spanish I,"Medical Appt. - PM (MS, US)"
+O,10-17-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+OO,10-05-22,Astronomy,"Religious Holiday (LS, MS, US)"
+OO,10-12-22,Astronomy,"Other (LS, MS, US)"
+OO,10-17-22,Astronomy,"Religious Holiday (LS, MS, US)"
+OO,10-28-22,Astronomy,"Other (LS, MS, US)"
+OO,9-27-22,Creative Writing: Essay,"Religious Holiday (LS, MS, US)"
+OO,10-05-22,Creative Writing: Essay,"Religious Holiday (LS, MS, US)"
+OO,10-12-22,Creative Writing: Essay,"Other (LS, MS, US)"
+OO,10-17-22,Creative Writing: Essay,"Religious Holiday (LS, MS, US)"
+OO,11-18-22,Creative Writing: Essay,"Family Trip (LS, MS, US)"
+OO,9-27-22,French III,"Other (LS, MS, US)"
+OO,10-05-22,French III,"Other (LS, MS, US)"
+OO,10-12-22,French III,"Other (LS, MS, US)"
+OO,10-17-22,French III,"Religious Holiday (LS, MS, US)"
+OO,11-18-22,French III,"Family Trip (LS, MS, US)"
+OO,9-26-22,Math Analysis,"Religious Holiday (LS, MS, US)"
+OO,10-11-22,Math Analysis,"Religious Holiday (LS, MS, US)"
+OO,10-18-22,Math Analysis,"Religious Holiday (LS, MS, US)"
+OO,11-04-22,Math Analysis,"Family Trip (LS, MS, US)"
+OO,9-26-22,Tykoe Yearbook,"Religious Holiday (LS, MS, US)"
+OO,10-11-22,Tykoe Yearbook,"Religious Holiday (LS, MS, US)"
+OO,10-18-22,Tykoe Yearbook,"Religious Holiday (LS, MS, US)"
+OO,11-04-22,Tykoe Yearbook,"Family Trip (LS, MS, US)"
+OO,11-17-22,Tykoe Yearbook,Absent
+OO,9-26-22,US History,"Religious Holiday (LS, MS, US)"
+OO,10-11-22,US History,"Religious Holiday (LS, MS, US)"
+OO,10-18-22,US History,"Religious Holiday (LS, MS, US)"
+OO,11-04-22,US History,"Family Trip (LS, MS, US)"
+OO,11-17-22,US History,"Family Trip (LS, MS, US)"
+OOO,10-03-22,Advanced Algebra,"Medical Appt. - AM (MS, US)"
+OOO,11-03-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+OOO,11-07-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+OOO,11-09-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+OOO,11-03-22,Biology,"Illness - All Day (LS, MS, US)"
+OOO,11-07-22,Biology,"Illness - All Day (LS, MS, US)"
+OOO,11-09-22,Biology,"Illness - All Day (LS, MS, US)"
+OOO,9-30-22,English 9,"Family Trip (LS, MS, US)"
+OOO,11-04-22,English 9,"Family Trip (LS, MS, US)"
+OOO,11-08-22,English 9,"Illness - All Day (LS, MS, US)"
+OOO,11-10-22,English 9,"Illness - All Day (LS, MS, US)"
+OOO,9-30-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+OOO,11-04-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+OOO,11-08-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+OOO,11-10-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+OOO,9-30-22,Silkscreen,"Family Trip (LS, MS, US)"
+OOO,11-04-22,Silkscreen,"Family Trip (LS, MS, US)"
+OOO,11-08-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+OOO,11-10-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+OOO,11-03-22,Spanish II,"Illness - All Day (LS, MS, US)"
+OOO,11-07-22,Spanish II,"Illness - All Day (LS, MS, US)"
+OOO,11-09-22,Spanish II,"Illness - All Day (LS, MS, US)"
+OOOO,11-17-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+OOOO,11-17-22,Chemistry,"Illness - All Day (LS, MS, US)"
+OOOO,11-16-22,English 10,"Illness - All Day (LS, MS, US)"
+OOOO,11-15-22,Health,"Late Arrival (LS, MS, US)"
+OOOO,11-17-22,Health,"Illness - All Day (LS, MS, US)"
+OOOO,11-16-22,Indigenous North American History,"Illness - All Day (LS, MS, US)"
+OOOO,11-01-22,Spanish III,Sports Dismissal- Full Class Period
+OOOO,11-16-22,Spanish III,"Illness - All Day (LS, MS, US)"
+OOOOO,9-09-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+OOOOO,9-15-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+OOOOO,9-27-22,Advanced Biology,"Religious Holiday (LS, MS, US)"
+OOOOO,10-05-22,Advanced Biology,"Religious Holiday (LS, MS, US)"
+OOOOO,11-01-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+OOOOO,11-07-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+OOOOO,11-09-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+OOOOO,9-09-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,9-15-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,9-27-22,Advanced Calculus,"Religious Holiday (LS, MS, US)"
+OOOOO,10-03-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,10-05-22,Advanced Calculus,"Religious Holiday (LS, MS, US)"
+OOOOO,11-01-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,11-07-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,11-09-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOO,9-26-22,Advanced Statistics,"Religious Holiday (LS, MS, US)"
+OOOOO,9-30-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+OOOOO,10-18-22,Advanced Statistics,"Illness - Left Early (MS, US)"
+OOOOO,10-31-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-02-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-08-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-10-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-15-22,Advanced Statistics,School Trip - HalfDay
+OOOOO,9-20-22,Queer Voices,"Late Arrival (LS, MS, US)"
+OOOOO,9-26-22,Queer Voices,"Religious Holiday (LS, MS, US)"
+OOOOO,9-30-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+OOOOO,10-31-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+OOOOO,11-02-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+OOOOO,11-08-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+OOOOO,11-10-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+OOOOO,9-26-22,TA: Civics,"Religious Holiday (LS, MS, US)"
+OOOOO,9-30-22,TA: Civics,"Illness - All Day (LS, MS, US)"
+OOOOO,10-27-22,TA: Civics,"Other (LS, MS, US)"
+OOOOO,10-31-22,TA: Civics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-02-22,TA: Civics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-08-22,TA: Civics,"Illness - All Day (LS, MS, US)"
+OOOOO,11-10-22,TA: Civics,"Illness - All Day (LS, MS, US)"
+OOOOOO,10-12-22,Advanced Calculus,"Other (LS, MS, US)"
+OOOOOO,10-28-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+OOOOOO,9-16-22,Mandarin III,Absent
+OOOOOO,10-12-22,Travel Literature,"Other (LS, MS, US)"
+OOOOOO,10-28-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+OOOOOO,10-12-22,US History,"Other (LS, MS, US)"
+OOOOOO,10-28-22,US History,"Illness - All Day (LS, MS, US)"
+OOOOOOO,9-26-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+OOOOOOO,11-04-22,Advanced Algebra,School Trip - Full Day
+OOOOOOO,9-26-22,Chemistry,"Illness - All Day (LS, MS, US)"
+OOOOOOO,11-04-22,Chemistry,School Trip - Full Day
+OOOOOOO,9-23-22,English 10,School Trip - Full Day
+OOOOOOO,9-16-22,Ensemble I,"Medical Appt. - AM (MS, US)"
+OOOOOOO,9-26-22,Ensemble I,"Illness - All Day (LS, MS, US)"
+OOOOOOO,11-04-22,Ensemble I,School Trip - Full Day
+OOOOOOO,9-23-22,Indigenous North American History,School Trip - Full Day
+OOOOOOO,9-23-22,Spanish III,School Trip - Full Day
+OOOOOOOO,9-29-22,Biology,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-07-22,Biology,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-16-22,English 9,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-22-22,English 9,"Other (LS, MS, US)"
+OOOOOOOO,10-06-22,English 9,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-18-22,English 9,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-29-22,Geometry,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-07-22,Geometry,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-29-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-07-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-16-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-22-22,Let's Play!,"Other (LS, MS, US)"
+OOOOOOOO,9-30-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-06-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-18-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-16-22,Spanish I,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,9-22-22,Spanish I,"Other (LS, MS, US)"
+OOOOOOOO,10-06-22,Spanish I,"Illness - All Day (LS, MS, US)"
+OOOOOOOO,10-18-22,Spanish I,"Illness - All Day (LS, MS, US)"
+OOOOOOOOO,9-28-22,Chemistry,"Family Trip (LS, MS, US)"
+OOOOOOOOO,9-30-22,Chemistry,"Family Trip (LS, MS, US)"
+OOOOOOOOO,9-14-22,Digital Filmmaking,"Medical Appt. - AM (MS, US)"
+OOOOOOOOO,9-28-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+OOOOOOOOO,9-30-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+OOOOOOOOO,9-09-22,English 10,Sports  Dismissal- Half Class Period
+OOOOOOOOO,9-09-22,Global Women's Issues,School Trip - Full Day
+OOOOOOOOO,9-19-22,Global Women's Issues,"Medical Appt. - AM (MS, US)"
+OOOOOOOOO,11-01-22,Global Women's Issues,"Other (LS, MS, US)"
+OOOOOOOOO,9-14-22,Spanish II,"Medical Appt. - AM (MS, US)"
+OOOOOOOOO,9-30-22,Spanish II,"Family Trip (LS, MS, US)"
+OOOOOOOOOO,9-20-22,Chemistry,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-22-22,Chemistry,"Other (LS, MS, US)"
+OOOOOOOOOO,9-21-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-23-22,Cultural Ethics,"Other (LS, MS, US)"
+OOOOOOOOOO,10-03-22,Cultural Ethics,Sports Dismissal- Full Class Period
+OOOOOOOOOO,9-21-22,English 10,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-23-22,English 10,"Other (LS, MS, US)"
+OOOOOOOOOO,9-20-22,Health,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-22-22,Health,"Other (LS, MS, US)"
+OOOOOOOOOO,9-20-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-22-22,Mandarin IV,"Other (LS, MS, US)"
+OOOOOOOOOO,9-28-22,Mandarin IV,Sports Dismissal- Full Class Period
+OOOOOOOOOO,10-06-22,Mandarin IV,Sports Dismissal- Full Class Period
+OOOOOOOOOO,11-02-22,Mandarin IV,"Medical Appt. - AM (MS, US)"
+OOOOOOOOOO,9-21-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+OOOOOOOOOO,9-23-22,Math Analysis,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-13-22,Advanced Biology,"Other (LS, MS, US)"
+OOOOOOOOOOO,10-12-22,Advanced Biology,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-12-22,Digital Filmmaking,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-20-22,Digital Filmmaking,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-30-22,Digital Filmmaking,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-13-22,French IV,"Other (LS, MS, US)"
+OOOOOOOOOOO,10-12-22,French IV,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-12-22,Introductory Calculus,"Other (LS, MS, US)"
+OOOOOOOOOOO,10-11-22,Introductory Calculus,Commons Duty (US)
+OOOOOOOOOOO,9-12-22,Literature and Disability,"Other (LS, MS, US)"
+OOOOOOOOOOO,9-13-22,US History,"Other (LS, MS, US)"
+OOOOOOOOOOO,10-12-22,US History,"Other (LS, MS, US)"
+P,10-18-22,English 9,"Illness - All Day (LS, MS, US)"
+P,10-18-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+P,10-18-22,Spanish I,"Illness - All Day (LS, MS, US)"
+PP,9-23-22,Chemistry,School Trip - Full Day
+PP,9-23-22,English 10,School Trip - Full Day
+PP,10-03-22,English 10,"Medical Appt. - PM (MS, US)"
+PP,11-04-22,Health,School Trip - Full Day
+PP,11-04-22,Marxism and Its Legacy,School Trip - Full Day
+PP,9-23-22,Math Analysis,School Trip - Full Day
+PP,11-04-22,Spanish III,School Trip - Full Day
+PPP,10-11-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+PPP,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+PPP,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+PPP,9-30-22,US History,"Other (LS, MS, US)"
+PPP,10-11-22,US History,"Illness - All Day (LS, MS, US)"
+PPP,9-20-22,Understanding the Brain,"Other (LS, MS, US)"
+PPP,10-11-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+PPP,11-02-22,Understanding the Brain,"Illness - Left Early (MS, US)"
+PPPP,9-09-22,Algebra I,"Illness - All Day (LS, MS, US)"
+PPPP,9-13-22,Algebra I,Sports Dismissal- Full Class Period
+PPPP,11-08-22,Biology,"Illness - All Day (LS, MS, US)"
+PPPP,9-20-22,English 9,Sports Dismissal- Full Class Period
+PPPP,11-08-22,English 9,"Illness - All Day (LS, MS, US)"
+PPPP,9-09-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+PPPP,10-28-22,Historical Inquiry,Sports Dismissal- Full Class Period
+PPPP,11-04-22,Spanish I,"Illness - Left Early (MS, US)"
+PPPP,11-08-22,Spanish I,"Illness - All Day (LS, MS, US)"
+PPPP,9-09-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+PPPPP,9-09-22,Spanish III,School Trip - Full Day
+PPPPP,10-07-22,Spanish III,"Illness - All Day (LS, MS, US)"
+PPPPP,10-17-22,Spanish III,Sports  Dismissal- Half Class Period
+PPPPP,9-09-22,US History,School Trip - Full Day
+PPPPP,10-07-22,US History,"Illness - All Day (LS, MS, US)"
+PPPPPP,9-14-22,Mandarin III,"Illness - Left Early (MS, US)"
+PPPPPPP,9-06-22,Chemistry,"Illness - All Day (LS, MS, US)"
+PPPPPPP,10-11-22,Chemistry,"Illness - All Day (LS, MS, US)"
+PPPPPPP,9-06-22,Health,"Illness - All Day (LS, MS, US)"
+PPPPPPP,10-11-22,Health,"Illness - All Day (LS, MS, US)"
+PPPPPPP,9-13-22,Spanish III,"Other (LS, MS, US)"
+PPPPPPP,11-14-22,Spanish III,"Other (LS, MS, US)"
+PPPPPPP,9-06-22,The Middle East,"Illness - All Day (LS, MS, US)"
+PPPPPPP,10-11-22,The Middle East,"Illness - All Day (LS, MS, US)"
+PPPPPPPP,10-03-22,Advanced Statistics,"Other (LS, MS, US)"
+PPPPPPPP,9-21-22,Anatomy and Physiology,"Other (LS, MS, US)"
+PPPPPPPP,10-28-22,Anatomy and Physiology,"Other (LS, MS, US)"
+PPPPPPPP,11-01-22,French: Advanced Studies,Absent
+PPPPPPPPP,9-26-22,Climbing and Mindfulness,"Other (LS, MS, US)"
+PPPPPPPPP,10-06-22,Climbing and Mindfulness,"Medical Appt. - PM (MS, US)"
+PPPPPPPPP,10-13-22,Climbing and Mindfulness,School Trip - Full Day
+PPPPPPPPP,11-10-22,Climbing and Mindfulness,School Trip - Full Day
+PPPPPPPPP,9-23-22,Ecological Literature,"Other (LS, MS, US)"
+PPPPPPPPP,10-12-22,Ecological Literature,School Trip - Full Day
+PPPPPPPPP,11-14-22,Ecological Literature,"Other (LS, MS, US)"
+PPPPPPPPP,9-19-22,Indigenous North American History,"Other (LS, MS, US)"
+PPPPPPPPP,9-23-22,Indigenous North American History,"Other (LS, MS, US)"
+PPPPPPPPP,10-12-22,Indigenous North American History,School Trip - Full Day
+PPPPPPPPP,11-18-22,Indigenous North American History,"Other (LS, MS, US)"
+PPPPPPPPP,9-22-22,Queer Voices,School Trip - Full Day
+PPPPPPPPP,9-26-22,Queer Voices,"Other (LS, MS, US)"
+PPPPPPPPP,10-13-22,Queer Voices,School Trip - Full Day
+PPPPPPPPP,11-10-22,Queer Voices,School Trip - Full Day
+PPPPPPPPP,9-12-22,"Vertebrates: Origins, Designs & Threats","Medical Appt. - AM (MS, US)"
+PPPPPPPPP,9-22-22,"Vertebrates: Origins, Designs & Threats",School Trip - Full Day
+PPPPPPPPP,9-26-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+PPPPPPPPP,10-13-22,"Vertebrates: Origins, Designs & Threats",School Trip - Full Day
+PPPPPPPPP,11-10-22,"Vertebrates: Origins, Designs & Threats",School Trip - Full Day
+PPPPPPPPPP,9-15-22,Advanced Algebra,School Trip - Full Day
+PPPPPPPPPP,10-07-22,Advanced Algebra,School Trip - Full Day
+PPPPPPPPPP,9-16-22,Backpacking,School Trip - Full Day
+PPPPPPPPPP,9-16-22,Chemistry,School Trip - Full Day
+PPPPPPPPPP,9-15-22,Cultural Ethics,School Trip - Full Day
+PPPPPPPPPP,10-07-22,Cultural Ethics,School Trip - Full Day
+PPPPPPPPPP,10-26-22,Cultural Ethics,Sports Dismissal- Full Class Period
+PPPPPPPPPP,9-16-22,English 10,School Trip - Full Day
+PPPPPPPPPP,9-15-22,Spanish III,School Trip - Full Day
+PPPPPPPPPP,10-07-22,Spanish III,School Trip - Full Day
+PPPPPPPPPP,10-28-22,Spanish III,Sports  Dismissal- Half Class Period
+PPPPPPPPPPP,10-12-22,Advanced Biology,"Other (LS, MS, US)"
+PPPPPPPPPPP,9-21-22,French IV,"Other (LS, MS, US)"
+PPPPPPPPPPP,10-12-22,French IV,"Other (LS, MS, US)"
+PPPPPPPPPPP,10-12-22,Math Analysis,"Other (LS, MS, US)"
+PPPPPPPPPPP,11-01-22,Math Analysis,"Illness - Left Early (MS, US)"
+Q,9-19-22,Algebra I,"Illness - All Day (LS, MS, US)"
+Q,11-18-22,Algebra I,"Other (LS, MS, US)"
+Q,9-20-22,Biology,"Illness - All Day (LS, MS, US)"
+Q,11-08-22,Biology,"Illness - All Day (LS, MS, US)"
+Q,9-20-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+Q,11-08-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+Q,9-19-22,English 9,"Illness - All Day (LS, MS, US)"
+Q,9-19-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+Q,9-14-22,Spanish I,"Illness - Left Early (MS, US)"
+Q,9-20-22,Spanish I,"Illness - All Day (LS, MS, US)"
+Q,11-08-22,Spanish I,"Illness - All Day (LS, MS, US)"
+QQ,10-03-22,Advanced Biology,Sports Dismissal- Full Class Period
+QQ,10-17-22,Advanced Biology,Sports Dismissal- Full Class Period
+QQ,11-18-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+QQ,10-12-22,Computer Art,"Other (LS, MS, US)"
+QQ,11-18-22,Computer Art,"Illness - All Day (LS, MS, US)"
+QQ,9-21-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+QQ,10-12-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+QQ,10-17-22,Creative Writing: Poetry,Sports Dismissal- Full Class Period
+QQ,11-18-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+QQ,9-28-22,Introductory Calculus,Sports Dismissal- Full Class Period
+QQ,10-06-22,Introductory Calculus,Sports Dismissal- Full Class Period
+QQ,11-17-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+QQ,11-17-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+QQ,10-27-22,US History,"Other (LS, MS, US)"
+QQ,11-17-22,US History,"Illness - All Day (LS, MS, US)"
+QQQ,9-08-22,Let's Play!,"Medical Appt. - AM (MS, US)"
+QQQQ,9-12-22,Biology,Sports  Dismissal- Half Class Period
+QQQQ,11-08-22,Biology,"Medical Appt. - PM (MS, US)"
+QQQQ,9-26-22,English 9,"Medical Appt. - PM (MS, US)"
+QQQQ,9-19-22,Mandarin I,Sports  Dismissal- Half Class Period
+QQQQ,10-17-22,Mandarin I,Sports  Dismissal- Half Class Period
+QQQQQ,10-04-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-06-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-04-22,Chemistry,"Late Arrival (LS, MS, US)"
+QQQQQ,11-08-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-10-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQ,9-09-22,Darwinian Revolution,"Medical Appt. - PM (MS, US)"
+QQQQQ,10-03-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-05-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-07-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-03-22,Darwinian Revolution,Absent
+QQQQQ,11-07-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-09-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-18-22,Darwinian Revolution,"Late Arrival (LS, MS, US)"
+QQQQQ,10-03-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-05-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-07-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-03-22,English 10,"Medical Appt. - AM (MS, US)"
+QQQQQ,11-07-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-09-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-03-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-05-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-07-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-03-22,Mandarin II,Absent
+QQQQQ,11-07-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-09-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-04-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-06-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-08-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-10-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-04-22,Spanish III,"Illness - All Day (LS, MS, US)"
+QQQQQ,10-06-22,Spanish III,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-08-22,Spanish III,"Illness - All Day (LS, MS, US)"
+QQQQQ,11-10-22,Spanish III,"Illness - All Day (LS, MS, US)"
+QQQQQQ,10-12-22,Advanced Statistics,College Visit-Off Campus (US)
+QQQQQQ,10-13-22,Ecological Literature,College Visit-Off Campus (US)
+QQQQQQ,10-13-22,Environmental Science,College Visit-Off Campus (US)
+QQQQQQ,10-13-22,Understanding the Brain,College Visit-Off Campus (US)
+QQQQQQ,10-18-22,Understanding the Brain,"Other (LS, MS, US)"
+QQQQQQ,10-25-22,Understanding the Brain,Absent
+QQQQQQ,11-04-22,Understanding the Brain,"Other (LS, MS, US)"
+QQQQQQQ,10-13-22,Biology,School Trip - HalfDay
+QQQQQQQQ,9-26-22,Advanced Chemistry,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,9-26-22,Black Voices,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,9-19-22,Fire Arts,"Other (LS, MS, US)"
+QQQQQQQQ,10-05-22,Fire Arts,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,9-26-22,Marine Biology,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,10-05-22,Math Analysis,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,10-17-22,Math Analysis,"Illness - Left Early (MS, US)"
+QQQQQQQQ,10-05-22,US History,"Religious Holiday (LS, MS, US)"
+QQQQQQQQ,10-12-22,US History,"Late Arrival (LS, MS, US)"
+QQQQQQQQQ,10-31-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-15-22,Chemistry,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-14-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-16-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-18-22,English 10,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,10-31-22,Ensemble I,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-15-22,Ensemble I,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,10-31-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-15-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,10-17-22,Math Analysis,"Other (LS, MS, US)"
+QQQQQQQQQ,10-24-22,Math Analysis,"Family Trip (LS, MS, US)"
+QQQQQQQQQ,11-14-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-16-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-18-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,10-24-22,Spanish II,"Family Trip (LS, MS, US)"
+QQQQQQQQQ,11-14-22,Spanish II,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-16-22,Spanish II,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQ,11-18-22,Spanish II,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,9-23-22,Advanced Calculus,School Trip - Full Day
+QQQQQQQQQQ,9-29-22,Advanced Calculus,"Medical Appt. - PM (MS, US)"
+QQQQQQQQQQ,10-17-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,10-28-22,Advanced Calculus,"Other (LS, MS, US)"
+QQQQQQQQQQ,9-12-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,10-11-22,Ecological Literature,"Medical Appt. - AM (MS, US)"
+QQQQQQQQQQ,10-18-22,Ecological Literature,"Late Arrival (LS, MS, US)"
+QQQQQQQQQQ,11-04-22,Ecological Literature,School Trip - Full Day
+QQQQQQQQQQ,9-21-22,Introduction to Psychology,"Other (LS, MS, US)"
+QQQQQQQQQQ,9-23-22,Introduction to Psychology,School Trip - Full Day
+QQQQQQQQQQ,10-17-22,Introduction to Psychology,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,9-12-22,Physics with Calculus,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,11-04-22,Physics with Calculus,School Trip - Full Day
+QQQQQQQQQQ,9-12-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+QQQQQQQQQQ,11-04-22,Understanding the Brain,School Trip - Full Day
+QQQQQQQQQQQ,9-30-22,Advanced Chemistry,"Other (LS, MS, US)"
+QQQQQQQQQQQ,10-06-22,Advanced Chemistry,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-06-22,Black Voices,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-18-22,Black Voices,"Other (LS, MS, US)"
+QQQQQQQQQQQ,9-21-22,French IV,"Other (LS, MS, US)"
+QQQQQQQQQQQ,10-05-22,French IV,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-07-22,French IV,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-12-22,French IV,"Other (LS, MS, US)"
+QQQQQQQQQQQ,9-13-22,Math Analysis,Sports Dismissal- Full Class Period
+QQQQQQQQQQQ,9-19-22,Math Analysis,"Other (LS, MS, US)"
+QQQQQQQQQQQ,10-05-22,Math Analysis,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-07-22,Math Analysis,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-12-22,Math Analysis,"Other (LS, MS, US)"
+QQQQQQQQQQQ,10-28-22,Math Analysis,"Other (LS, MS, US)"
+QQQQQQQQQQQ,11-01-22,Math Analysis,Sports  Dismissal- Half Class Period
+QQQQQQQQQQQ,9-29-22,Metal Design,"Other (LS, MS, US)"
+QQQQQQQQQQQ,10-05-22,Metal Design,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-07-22,Metal Design,"Family Trip (LS, MS, US)"
+QQQQQQQQQQQ,10-12-22,Metal Design,"Other (LS, MS, US)"
+QQQQQQQQQQQ,9-20-22,US History,Sports Dismissal- Full Class Period
+QQQQQQQQQQQ,9-28-22,US History,Sports Dismissal- Full Class Period
+QQQQQQQQQQQ,10-06-22,US History,"Family Trip (LS, MS, US)"
+R,9-12-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+R,10-27-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+R,9-12-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+R,10-27-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+R,10-24-22,Physics,"Late Arrival (LS, MS, US)"
+R,9-29-22,Spanish IV,"Other (LS, MS, US)"
+R,9-12-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+R,10-27-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+R,9-27-22,US History,"Other (LS, MS, US)"
+RR,11-03-22,Advanced Algebra,Commons Duty (US)
+RR,9-12-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+RR,10-06-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+RR,9-19-22,Mandarin I,Sports  Dismissal- Half Class Period
+RR,10-17-22,Mandarin I,Sports  Dismissal- Half Class Period
+RR,9-15-22,Metal Design,Sports  Dismissal- Half Class Period
+RRR,10-26-22,Advanced Biology,"Family Trip (LS, MS, US)"
+RRR,10-28-22,Advanced Biology,"Family Trip (LS, MS, US)"
+RRR,10-27-22,Digital Filmmaking,"Family Trip (LS, MS, US)"
+RRR,10-12-22,Ecological Literature,"Other (LS, MS, US)"
+RRR,10-26-22,Ecological Literature,"Family Trip (LS, MS, US)"
+RRR,10-28-22,Ecological Literature,"Family Trip (LS, MS, US)"
+RRR,10-12-22,French III,"Other (LS, MS, US)"
+RRR,10-26-22,French III,"Family Trip (LS, MS, US)"
+RRR,10-28-22,French III,"Family Trip (LS, MS, US)"
+RRR,10-27-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRR,10-27-22,US History,"Family Trip (LS, MS, US)"
+RRRR,10-17-22,Algebra I,"Illness - All Day (LS, MS, US)"
+RRRR,10-24-22,Algebra I,"Medical Appt. - PM (MS, US)"
+RRRR,11-01-22,Algebra I,"Illness - All Day (LS, MS, US)"
+RRRR,9-28-22,Biology,"Medical Appt. - AM (MS, US)"
+RRRR,10-18-22,Biology,"Illness - All Day (LS, MS, US)"
+RRRR,11-02-22,Biology,"Illness - All Day (LS, MS, US)"
+RRRR,11-04-22,Biology,"Illness - All Day (LS, MS, US)"
+RRRR,10-17-22,Black and White Photography,"Illness - All Day (LS, MS, US)"
+RRRR,11-01-22,Black and White Photography,"Illness - All Day (LS, MS, US)"
+RRRR,9-28-22,English 9,"Medical Appt. - AM (MS, US)"
+RRRR,10-18-22,English 9,"Illness - All Day (LS, MS, US)"
+RRRR,10-25-22,English 9,"Illness - All Day (LS, MS, US)"
+RRRR,11-02-22,English 9,"Illness - All Day (LS, MS, US)"
+RRRR,11-04-22,English 9,"Illness - All Day (LS, MS, US)"
+RRRR,9-28-22,Historical Inquiry,"Medical Appt. - PM (MS, US)"
+RRRR,10-18-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+RRRR,10-25-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+RRRR,11-02-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+RRRR,11-04-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+RRRR,10-07-22,Spanish IV,"Other (LS, MS, US)"
+RRRR,10-17-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+RRRR,11-01-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+RRRRR,9-22-22,Advanced Biology,Absent
+RRRRR,9-30-22,Advanced Biology,College Visit-Off Campus (US)
+RRRRR,9-22-22,Advanced Calculus,"Other (LS, MS, US)"
+RRRRR,9-30-22,Advanced Calculus,College Visit-Off Campus (US)
+RRRRR,9-23-22,Ecological Literature,College Visit-Off Campus (US)
+RRRRR,10-24-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+RRRRR,9-19-22,Global Women's Issues,"Other (LS, MS, US)"
+RRRRR,9-23-22,Global Women's Issues,College Visit-Off Campus (US)
+RRRRR,10-24-22,Global Women's Issues,"Illness - All Day (LS, MS, US)"
+RRRRR,9-22-22,Mandarin V,Absent
+RRRRR,9-19-22,TA: Mandarin,"Other (LS, MS, US)"
+RRRRR,9-23-22,TA: Mandarin,College Visit-Off Campus (US)
+RRRRR,10-03-22,TA: Mandarin,"Other (LS, MS, US)"
+RRRRR,10-24-22,TA: Mandarin,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-17-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-16-22,Chemistry,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-18-22,Chemistry,"Illness - All Day (LS, MS, US)"
+RRRRRR,10-28-22,English 10,"Medical Appt. - PM (MS, US)"
+RRRRRR,11-16-22,English 10,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-18-22,English 10,"Illness - All Day (LS, MS, US)"
+RRRRRR,9-13-22,Global Women's Issues,Sports Dismissal- Full Class Period
+RRRRRR,11-01-22,Global Women's Issues,Sports Dismissal- Full Class Period
+RRRRRR,11-16-22,Global Women's Issues,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-18-22,Global Women's Issues,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-17-22,Spanish III,"Illness - All Day (LS, MS, US)"
+RRRRRR,11-17-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+RRRRRRR,9-20-22,Chemistry,Sports  Dismissal- Half Class Period
+RRRRRRR,9-26-22,Chemistry,"Family Trip (LS, MS, US)"
+RRRRRRR,9-28-22,Chemistry,"Family Trip (LS, MS, US)"
+RRRRRRR,9-30-22,Chemistry,"Family Trip (LS, MS, US)"
+RRRRRRR,10-11-22,Chemistry,"Family Trip (LS, MS, US)"
+RRRRRRR,10-13-22,Chemistry,"Family Trip (LS, MS, US)"
+RRRRRRR,10-27-22,Chemistry,"Medical Appt. - AM (MS, US)"
+RRRRRRR,9-27-22,Darwinian Revolution,"Family Trip (LS, MS, US)"
+RRRRRRR,9-29-22,Darwinian Revolution,"Family Trip (LS, MS, US)"
+RRRRRRR,10-12-22,Darwinian Revolution,"Family Trip (LS, MS, US)"
+RRRRRRR,10-26-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+RRRRRRR,11-09-22,Darwinian Revolution,"Medical Appt. - AM (MS, US)"
+RRRRRRR,9-27-22,English 10,"Family Trip (LS, MS, US)"
+RRRRRRR,9-29-22,English 10,"Family Trip (LS, MS, US)"
+RRRRRRR,10-12-22,English 10,"Family Trip (LS, MS, US)"
+RRRRRRR,10-26-22,English 10,"Illness - All Day (LS, MS, US)"
+RRRRRRR,9-28-22,Health,"Family Trip (LS, MS, US)"
+RRRRRRR,9-30-22,Health,"Family Trip (LS, MS, US)"
+RRRRRRR,10-11-22,Health,"Family Trip (LS, MS, US)"
+RRRRRRR,10-13-22,Health,"Family Trip (LS, MS, US)"
+RRRRRRR,9-26-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRRRRRR,9-28-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRRRRRR,9-30-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRRRRRR,10-11-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRRRRRR,10-13-22,Math Analysis,"Family Trip (LS, MS, US)"
+RRRRRRR,9-27-22,Spanish III,"Family Trip (LS, MS, US)"
+RRRRRRR,9-29-22,Spanish III,"Family Trip (LS, MS, US)"
+RRRRRRR,10-12-22,Spanish III,"Family Trip (LS, MS, US)"
+RRRRRRR,10-26-22,Spanish III,"Illness - All Day (LS, MS, US)"
+RRRRRRRR,9-30-22,English 9,"Other (LS, MS, US)"
+RRRRRRRR,11-15-22,English 9,Commons Duty (US)
+RRRRRRRR,10-18-22,Let's Play!,"Medical Appt. - PM (MS, US)"
+RRRRRRRR,11-15-22,Let's Play!,Commons Duty (US)
+RRRRRRRR,11-17-22,Let's Play!,"Medical Appt. - PM (MS, US)"
+RRRRRRRR,10-24-22,Mandarin I,Absent
+RRRRRRRRR,9-09-22,English 9,School Trip - Full Day
+RRRRRRRRR,9-27-22,English 9,"Medical Appt. - PM (MS, US)"
+RRRRRRRRR,9-09-22,Geometry,Sports  Dismissal- Half Class Period
+RRRRRRRRR,9-09-22,Historical Inquiry,School Trip - Full Day
+RRRRRRRRR,10-13-22,Spanish I,School Trip - HalfDay
+RRRRRRRRRR,9-21-22,Creative Writing: Essay,"Other (LS, MS, US)"
+RRRRRRRRRR,10-24-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+RRRRRRRRRR,11-18-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+RRRRRRRRRR,9-27-22,Spanish: Advanced Studies,"Other (LS, MS, US)"
+RRRRRRRRRRR,10-03-22,Cultural Ethics,Sports Dismissal- Full Class Period
+RRRRRRRRRRR,9-21-22,English 10,Sports Dismissal- Full Class Period
+RRRRRRRRRRR,9-28-22,French III,"Other (LS, MS, US)"
+S,9-13-22,Dramatic Literature,Sports Dismissal- Full Class Period
+S,10-12-22,Dramatic Literature,"Other (LS, MS, US)"
+S,11-01-22,Dramatic Literature,"Illness - All Day (LS, MS, US)"
+S,11-03-22,Dramatic Literature,"Illness - All Day (LS, MS, US)"
+S,11-14-22,Dramatic Literature,Commons Duty (US)
+S,9-20-22,Marine Biology,Sports Dismissal- Full Class Period
+S,9-28-22,Marine Biology,Sports  Dismissal- Half Class Period
+S,10-13-22,Marine Biology,School Trip - HalfDay
+S,10-31-22,Marine Biology,"Other (LS, MS, US)"
+S,11-02-22,Marine Biology,"Illness - All Day (LS, MS, US)"
+S,10-12-22,Math Analysis,"Other (LS, MS, US)"
+S,11-01-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+S,11-03-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+S,9-22-22,Spanish III,Absent
+S,10-13-22,Spanish III,Sports  Dismissal- Half Class Period
+S,11-02-22,Spanish III,"Illness - All Day (LS, MS, US)"
+S,9-21-22,US History,"Other (LS, MS, US)"
+S,10-12-22,US History,"Other (LS, MS, US)"
+S,11-01-22,US History,"Illness - All Day (LS, MS, US)"
+S,11-03-22,US History,"Illness - All Day (LS, MS, US)"
+S,11-14-22,US History,Commons Duty (US)
+S,10-13-22,Yoga,Absent
+S,11-02-22,Yoga,"Illness - All Day (LS, MS, US)"
+S,11-04-22,Yoga,"Late Arrival (LS, MS, US)"
+SS,10-05-22,Chemistry,"Illness - All Day (LS, MS, US)"
+SS,10-24-22,Chemistry,"Illness - All Day (LS, MS, US)"
+SS,10-28-22,Chemistry,"Illness - All Day (LS, MS, US)"
+SS,10-27-22,English 10,"Illness - All Day (LS, MS, US)"
+SS,10-27-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+SS,10-27-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+SS,10-05-22,Musical Theatre Ensemble,"Illness - All Day (LS, MS, US)"
+SS,10-24-22,Musical Theatre Ensemble,"Illness - All Day (LS, MS, US)"
+SS,10-28-22,Musical Theatre Ensemble,"Illness - All Day (LS, MS, US)"
+SS,10-05-22,Spanish III,"Illness - All Day (LS, MS, US)"
+SS,10-24-22,Spanish III,"Illness - All Day (LS, MS, US)"
+SS,10-28-22,Spanish III,"Illness - All Day (LS, MS, US)"
+SSS,9-13-22,Chemistry,"Medical Appt. - PM (MS, US)"
+SSS,9-15-22,Chemistry,"Family Trip (LS, MS, US)"
+SSS,11-14-22,Chemistry,"Late Arrival (LS, MS, US)"
+SSS,9-16-22,English 10,"Family Trip (LS, MS, US)"
+SSS,9-15-22,Introductory Calculus,"Family Trip (LS, MS, US)"
+SSS,11-18-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+SSS,9-16-22,Japanese History and Culture,"Family Trip (LS, MS, US)"
+SSS,9-15-22,Musical Theatre Ensemble,"Family Trip (LS, MS, US)"
+SSS,11-18-22,Musical Theatre Ensemble,"Illness - All Day (LS, MS, US)"
+SSS,9-16-22,Spanish III,"Family Trip (LS, MS, US)"
+SSSS,10-18-22,Data Science I,"Illness - All Day (LS, MS, US)"
+SSSS,11-04-22,Data Science I,School Trip - Full Day
+SSSS,9-23-22,Ecological Literature,School Trip - Full Day
+SSSS,10-17-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+SSSS,9-23-22,Indigenous North American History,School Trip - Full Day
+SSSS,10-17-22,Indigenous North American History,"Illness - All Day (LS, MS, US)"
+SSSS,10-18-22,The Middle East,"Illness - All Day (LS, MS, US)"
+SSSS,11-04-22,The Middle East,School Trip - Full Day
+SSSS,9-20-22,Understanding the Brain,"Other (LS, MS, US)"
+SSSS,10-04-22,Understanding the Brain,"Other (LS, MS, US)"
+SSSS,10-18-22,Understanding the Brain,"Illness - All Day (LS, MS, US)"
+SSSS,11-04-22,Understanding the Brain,School Trip - Full Day
+SSSSS,9-22-22,Advanced Algebra,School Trip - Full Day
+SSSSS,10-06-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+SSSSS,10-13-22,Advanced Algebra,School Trip - Full Day
+SSSSS,11-10-22,Advanced Algebra,School Trip - Full Day
+SSSSS,10-12-22,Chemistry,School Trip - Full Day
+SSSSS,10-06-22,Climbing and Mindfulness,"Illness - All Day (LS, MS, US)"
+SSSSS,10-13-22,Climbing and Mindfulness,School Trip - Full Day
+SSSSS,11-10-22,Climbing and Mindfulness,School Trip - Full Day
+SSSSS,10-12-22,Cultural Ethics,School Trip - Full Day
+SSSSS,10-17-22,Cultural Ethics,Commons Duty (US)
+SSSSS,9-22-22,English 10,School Trip - Full Day
+SSSSS,10-06-22,English 10,"Illness - All Day (LS, MS, US)"
+SSSSS,10-13-22,English 10,School Trip - Full Day
+SSSSS,11-10-22,English 10,School Trip - Full Day
+SSSSS,10-12-22,French III,School Trip - Full Day
+SSSSSS,9-09-22,Darwinian Revolution,College Visit-Off Campus (US)
+SSSSSS,10-05-22,Darwinian Revolution,"Other (LS, MS, US)"
+SSSSSS,10-17-22,Darwinian Revolution,Sports  Dismissal- Half Class Period
+SSSSSS,9-06-22,Ecological Literature,"Illness - All Day (LS, MS, US)"
+SSSSSS,9-08-22,Ecological Literature,College Visit-Off Campus (US)
+SSSSSS,9-06-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+SSSSSS,9-08-22,Environmental Science,College Visit-Off Campus (US)
+SSSSSS,9-09-22,French: Advanced Studies,College Visit-Off Campus (US)
+SSSSSS,10-03-22,French: Advanced Studies,"Other (LS, MS, US)"
+SSSSSS,9-09-22,Introductory Calculus,College Visit-Off Campus (US)
+SSSSSSS,10-03-22,Advanced Biology,Absent
+SSSSSSS,11-08-22,Civics: Understanding Our Rights,Commons Duty (US)
+SSSSSSS,9-21-22,French IV,"Other (LS, MS, US)"
+SSSSSSS,10-03-22,French IV,"Other (LS, MS, US)"
+SSSSSSS,11-15-22,Satire,"Other (LS, MS, US)"
+SSSSSSSS,11-03-22,Computer Programming in Java,"Other (LS, MS, US)"
+SSSSSSSS,10-13-22,Data Science I,"Medical Appt. - PM (MS, US)"
+SSSSSSSS,11-02-22,Data Science I,"Medical Appt. - All Day (MS, US)"
+SSSSSSSS,11-04-22,Data Science I,"Other (LS, MS, US)"
+SSSSSSSS,11-03-22,Ecological Literature,"Other (LS, MS, US)"
+SSSSSSSS,11-07-22,Ecological Literature,"Medical Appt. - PM (MS, US)"
+SSSSSSSS,9-12-22,Marine Biology,Sports  Dismissal- Half Class Period
+SSSSSSSS,11-02-22,Marine Biology,"Medical Appt. - All Day (MS, US)"
+SSSSSSSS,11-04-22,Marine Biology,"Other (LS, MS, US)"
+SSSSSSSS,9-15-22,Metal Design,Sports  Dismissal- Half Class Period
+SSSSSSSS,11-03-22,Metal Design,"Other (LS, MS, US)"
+SSSSSSSSS,10-12-22,Additive Multimedia Sculpture,"Medical Appt. - AM (MS, US)"
+SSSSSSSSS,9-20-22,Chemistry,Sports  Dismissal- Half Class Period
+SSSSSSSSS,11-15-22,Chemistry,"Medical Appt. - AM (MS, US)"
+SSSSSSSSS,9-09-22,Mandarin II,"Medical Appt. - AM (MS, US)"
+SSSSSSSSS,9-19-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+SSSSSSSSS,11-15-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+SSSSSSSSSS,9-13-22,Biology,Sports Dismissal- Full Class Period
+SSSSSSSSSS,9-29-22,Biology,Sports Dismissal- Full Class Period
+SSSSSSSSSS,9-22-22,English 9,Sports Dismissal- Full Class Period
+SSSSSSSSSS,10-11-22,English 9,Sports Dismissal- Full Class Period
+SSSSSSSSSS,9-15-22,Metal Design,Sports Dismissal- Full Class Period
+SSSSSSSSSS,9-08-22,Spanish I,Sports Dismissal- Full Class Period
+SSSSSSSSSS,11-04-22,Spanish I,"Medical Appt. - PM (MS, US)"
+SSSSSSSSSSS,10-18-22,Ecological Literature,"Late Arrival (LS, MS, US)"
+SSSSSSSSSSS,11-17-22,Ecological Literature,"Family Trip (LS, MS, US)"
+SSSSSSSSSSS,11-17-22,Environmental Science,"Family Trip (LS, MS, US)"
+SSSSSSSSSSS,9-29-22,French IV,"Other (LS, MS, US)"
+SSSSSSSSSSS,10-12-22,French IV,"Other (LS, MS, US)"
+SSSSSSSSSSS,11-18-22,French IV,"Family Trip (LS, MS, US)"
+SSSSSSSSSSS,9-29-22,Math Analysis,"Other (LS, MS, US)"
+SSSSSSSSSSS,10-17-22,Math Analysis,"Other (LS, MS, US)"
+SSSSSSSSSSS,11-18-22,Math Analysis,"Family Trip (LS, MS, US)"
+SSSSSSSSSSS,9-19-22,US History,"Other (LS, MS, US)"
+SSSSSSSSSSS,10-12-22,US History,"Other (LS, MS, US)"
+SSSSSSSSSSS,11-18-22,US History,"Family Trip (LS, MS, US)"
+SSSSSSSSSSS,11-17-22,Understanding the Brain,"Family Trip (LS, MS, US)"
+T,10-18-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+T,9-09-22,Advanced Statistics,Sports  Dismissal- Half Class Period
+T,9-09-22,Ecological Literature,School Trip - Full Day
+T,9-15-22,Ecological Literature,"Medical Appt. - AM (MS, US)"
+T,9-21-22,Ecological Literature,"Other (LS, MS, US)"
+T,11-01-22,Ecological Literature,"Other (LS, MS, US)"
+T,11-14-22,Ecological Literature,"Late Arrival (LS, MS, US)"
+T,10-18-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+T,9-09-22,Global Women's Issues,School Trip - Full Day
+T,9-19-22,Global Women's Issues,"Other (LS, MS, US)"
+T,10-26-22,Global Women's Issues,"Medical Appt. - AM (MS, US)"
+T,11-14-22,Global Women's Issues,"Late Arrival (LS, MS, US)"
+TT,10-12-22,Advanced Biology,"Other (LS, MS, US)"
+TT,10-17-22,Advanced Biology,"Family Trip (LS, MS, US)"
+TT,10-18-22,Advanced Statistics,"Family Trip (LS, MS, US)"
+TT,10-12-22,Computer Art,"Other (LS, MS, US)"
+TT,10-17-22,Computer Art,"Family Trip (LS, MS, US)"
+TT,10-12-22,Forensic Science,"Other (LS, MS, US)"
+TT,10-17-22,Forensic Science,"Family Trip (LS, MS, US)"
+TT,10-18-22,Literature and Disability,"Family Trip (LS, MS, US)"
+TT,10-18-22,US History,"Family Trip (LS, MS, US)"
+TTT,9-12-22,Biology,Sports  Dismissal- Half Class Period
+TTT,10-26-22,Historical Inquiry,"Other (LS, MS, US)"
+TTTT,9-14-22,Chemistry,"Other (LS, MS, US)"
+TTTT,9-16-22,Chemistry,"Illness - All Day (LS, MS, US)"
+TTTT,9-15-22,Darwinian Revolution,"Other (LS, MS, US)"
+TTTT,9-19-22,Darwinian Revolution,"Other (LS, MS, US)"
+TTTT,9-27-22,Darwinian Revolution,"Medical Appt. - PM (MS, US)"
+TTTT,10-17-22,Darwinian Revolution,"Illness - All Day (LS, MS, US)"
+TTTT,9-15-22,English 10,"Other (LS, MS, US)"
+TTTT,9-19-22,English 10,"Other (LS, MS, US)"
+TTTT,10-17-22,English 10,"Illness - All Day (LS, MS, US)"
+TTTT,9-15-22,Math Analysis,"Other (LS, MS, US)"
+TTTT,9-19-22,Math Analysis,"Other (LS, MS, US)"
+TTTT,10-17-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+TTTT,9-14-22,Spanish III,"Other (LS, MS, US)"
+TTTT,9-16-22,Spanish III,"Illness - All Day (LS, MS, US)"
+TTTT,9-14-22,Tykoe Yearbook,"Other (LS, MS, US)"
+TTTT,9-16-22,Tykoe Yearbook,"Other (LS, MS, US)"
+TTTTT,9-12-22,English 10,"Medical Appt. - AM (MS, US)"
+TTTTT,9-20-22,English 10,"Medical Appt. - AM (MS, US)"
+TTTTT,9-08-22,Health,"Medical Appt. - AM (MS, US)"
+TTTTTT,9-16-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+TTTTTT,11-15-22,Advanced Calculus,College Visit-Off Campus (US)
+TTTTTT,9-21-22,Anatomy and Physiology,"Other (LS, MS, US)"
+TTTTTT,11-14-22,Anatomy and Physiology,College Visit-Off Campus (US)
+TTTTTT,9-16-22,How Do We See,"Family Trip (LS, MS, US)"
+TTTTTT,11-15-22,How Do We See,College Visit-Off Campus (US)
+TTTTTT,11-14-22,The Graphic Novel,College Visit-Off Campus (US)
+TTTTTT,9-16-22,"Vertebrates: Origins, Designs & Threats","Family Trip (LS, MS, US)"
+TTTTTT,11-15-22,"Vertebrates: Origins, Designs & Threats",College Visit-Off Campus (US)
+TTTTTTT,9-15-22,Advanced Algebra,School Trip - Full Day
+TTTTTTT,9-29-22,Advanced Algebra,"Medical Appt. - PM (MS, US)"
+TTTTTTT,10-07-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+TTTTTTT,10-17-22,Advanced Algebra,"Other (LS, MS, US)"
+TTTTTTT,9-15-22,Advanced Biology,School Trip - Full Day
+TTTTTTT,10-07-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+TTTTTTT,9-16-22,Backpacking,School Trip - Full Day
+TTTTTTT,10-31-22,Backpacking,Commons Duty (US)
+TTTTTTT,9-16-22,Black Voices,School Trip - Full Day
+TTTTTTT,10-18-22,Black Voices,"Other (LS, MS, US)"
+TTTTTTT,9-16-22,French III,School Trip - Full Day
+TTTTTTT,9-15-22,US History,School Trip - Full Day
+TTTTTTT,9-29-22,US History,"Other (LS, MS, US)"
+TTTTTTT,10-07-22,US History,"Illness - All Day (LS, MS, US)"
+TTTTTTT,11-14-22,US History,"Other (LS, MS, US)"
+TTTTTTTT,9-21-22,Anatomy and Physiology,"Other (LS, MS, US)"
+TTTTTTTT,10-12-22,Anatomy and Physiology,"Other (LS, MS, US)"
+TTTTTTTT,10-12-22,French III,"Other (LS, MS, US)"
+TTTTTTTT,9-30-22,Math Analysis,"Other (LS, MS, US)"
+TTTTTTTT,9-15-22,Travel Literature,Sports Dismissal- Full Class Period
+TTTTTTTT,10-12-22,Travel Literature,"Other (LS, MS, US)"
+TTTTTTTTT,9-30-22,Advanced Biology,"Other (LS, MS, US)"
+TTTTTTTTT,9-12-22,Advanced Statistics,Sports  Dismissal- Half Class Period
+TTTTTTTTT,9-19-22,Astronomy,"Other (LS, MS, US)"
+TTTTTTTTT,10-05-22,The Graphic Novel,"Other (LS, MS, US)"
+TTTTTTTTTT,9-09-22,Advanced Algebra,School Trip - Full Day
+TTTTTTTTTT,10-17-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+TTTTTTTTTT,9-09-22,English 9,School Trip - Full Day
+TTTTTTTTTT,9-09-22,Fire Arts,Sports  Dismissal- Half Class Period
+TTTTTTTTTTT,9-30-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+TTTTTTTTTTT,10-24-22,Black and White Photography,"Medical Appt. - AM (MS, US)"
+TTTTTTTTTTT,10-28-22,Black and White Photography,Sports  Dismissal- Half Class Period
+TTTTTTTTTTT,9-13-22,English 9,Sports Dismissal- Full Class Period
+TTTTTTTTTTT,11-01-22,English 9,Sports  Dismissal- Half Class Period
+TTTTTTTTTTT,9-20-22,Historical Inquiry,Sports Dismissal- Full Class Period
+TTTTTTTTTTT,9-28-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+U,10-27-22,Advanced Biology,"Other (LS, MS, US)"
+UU,9-12-22,English 9,Sports  Dismissal- Half Class Period
+UU,10-13-22,English 9,School Trip - HalfDay
+UUU,9-15-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUU,11-01-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUU,9-14-22,Chemistry,"Illness - All Day (LS, MS, US)"
+UUU,10-25-22,Chemistry,"Medical Appt. - PM (MS, US)"
+UUU,11-10-22,Chemistry,"Medical Appt. - PM (MS, US)"
+UUU,9-14-22,English 10,"Illness - All Day (LS, MS, US)"
+UUU,10-27-22,English 10,"Medical Appt. - PM (MS, US)"
+UUU,11-15-22,English 10,"Medical Appt. - PM (MS, US)"
+UUU,9-07-22,Indigenous North American History,"Medical Appt. - PM (MS, US)"
+UUU,9-15-22,Indigenous North American History,"Illness - All Day (LS, MS, US)"
+UUU,11-01-22,Indigenous North American History,"Illness - All Day (LS, MS, US)"
+UUU,9-12-22,Let's Play!,"Medical Appt. - PM (MS, US)"
+UUU,9-14-22,Let's Play!,"Illness - All Day (LS, MS, US)"
+UUU,9-22-22,Let's Play!,"Medical Appt. - AM (MS, US)"
+UUU,9-15-22,Spanish III,"Illness - All Day (LS, MS, US)"
+UUU,11-01-22,Spanish III,"Illness - All Day (LS, MS, US)"
+UUUU,9-12-22,Advanced Calculus,Sports  Dismissal- Half Class Period
+UUUU,11-14-22,Advanced Chemistry,"Other (LS, MS, US)"
+UUUU,11-14-22,Advanced Statistics,Absent
+UUUU,10-05-22,The Graphic Novel,"Other (LS, MS, US)"
+UUUUU,9-21-22,Additive Multimedia Sculpture,Sports Dismissal- Full Class Period
+UUUUU,10-12-22,Additive Multimedia Sculpture,"Other (LS, MS, US)"
+UUUUU,10-12-22,Creative Writing: Essay,"Other (LS, MS, US)"
+UUUUU,10-03-22,Engineer Your World,Sports Dismissal- Full Class Period
+UUUUU,10-12-22,Engineer Your World,"Other (LS, MS, US)"
+UUUUU,9-28-22,Ensemble I,Sports Dismissal- Full Class Period
+UUUUU,10-06-22,Ensemble I,Sports Dismissal- Full Class Period
+UUUUUU,11-04-22,Advanced Calculus,School Trip - Full Day
+UUUUUU,9-21-22,Advanced Chemistry,"Other (LS, MS, US)"
+UUUUUU,9-23-22,Advanced Chemistry,School Trip - Full Day
+UUUUUU,10-03-22,Advanced Chemistry,"Other (LS, MS, US)"
+UUUUUU,9-23-22,Engineer Your World,School Trip - Full Day
+UUUUUU,10-07-22,Engineer Your World,"Illness - Left Early (MS, US)"
+UUUUUU,9-23-22,The Graphic Novel,School Trip - Full Day
+UUUUUU,10-07-22,The Graphic Novel,"Illness - Left Early (MS, US)"
+UUUUUU,11-04-22,The Middle East,School Trip - Full Day
+UUUUUUU,9-29-22,English 10,"Medical Appt. - AM (MS, US)"
+UUUUUUUU,9-15-22,Advanced Algebra,School Trip - Full Day
+UUUUUUUU,9-19-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,10-03-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-05-22,Advanced Algebra,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-17-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,11-07-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,9-16-22,Backpacking,School Trip - Full Day
+UUUUUUUU,10-04-22,Backpacking,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-06-22,Backpacking,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-18-22,Backpacking,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,9-15-22,Biology,School Trip - Full Day
+UUUUUUUU,9-19-22,Biology,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,10-03-22,Biology,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-05-22,Biology,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-07-22,Biology,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-17-22,Biology,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,11-07-22,Biology,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,9-15-22,English 9,School Trip - Full Day
+UUUUUUUU,9-19-22,English 9,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,10-03-22,English 9,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-05-22,English 9,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-17-22,English 9,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,11-07-22,English 9,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,9-16-22,Historical Inquiry,School Trip - Full Day
+UUUUUUUU,10-04-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-06-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-18-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+UUUUUUUU,9-16-22,Spanish I,School Trip - Full Day
+UUUUUUUU,10-04-22,Spanish I,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-06-22,Spanish I,"Family Trip (LS, MS, US)"
+UUUUUUUU,10-13-22,Spanish I,"Illness - Left Early (MS, US)"
+UUUUUUUU,10-18-22,Spanish I,"Illness - All Day (LS, MS, US)"
+UUUUUUUUU,9-13-22,Advanced Chemistry,College Visit-Off Campus (US)
+UUUUUUUUU,9-15-22,Advanced Chemistry,"Other (LS, MS, US)"
+UUUUUUUUU,9-19-22,Advanced Chemistry,"Other (LS, MS, US)"
+UUUUUUUUU,9-12-22,Advanced Statistics,College Visit-Off Campus (US)
+UUUUUUUUU,9-14-22,Advanced Statistics,"Other (LS, MS, US)"
+UUUUUUUUU,9-16-22,Advanced Statistics,"Other (LS, MS, US)"
+UUUUUUUUU,9-13-22,Engineer Your World,College Visit-Off Campus (US)
+UUUUUUUUU,9-15-22,Engineer Your World,"Other (LS, MS, US)"
+UUUUUUUUU,9-19-22,Engineer Your World,"Other (LS, MS, US)"
+UUUUUUUUU,10-17-22,Engineer Your World,"Other (LS, MS, US)"
+UUUUUUUUU,9-12-22,Multivariable Calculus,College Visit-Off Campus (US)
+UUUUUUUUU,9-14-22,Multivariable Calculus,"Other (LS, MS, US)"
+UUUUUUUUU,9-16-22,Multivariable Calculus,"Other (LS, MS, US)"
+UUUUUUUUU,9-12-22,The American War in Vietnam,College Visit-Off Campus (US)
+UUUUUUUUU,9-14-22,The American War in Vietnam,"Other (LS, MS, US)"
+UUUUUUUUU,9-16-22,The American War in Vietnam,"Other (LS, MS, US)"
+UUUUUUUUU,10-27-22,The American War in Vietnam,"Other (LS, MS, US)"
+UUUUUUUUUU,9-09-22,English 10,"Medical Appt. - AM (MS, US)"
+UUUUUUUUUU,9-13-22,English 10,Sports Dismissal- Full Class Period
+UUUUUUUUUU,9-22-22,Japanese History and Culture,Sports Dismissal- Full Class Period
+UUUUUUUUUU,9-15-22,Metal Design,Early Dismissal-Sports
+UUUUUUUUUU,9-08-22,Spanish III,Sports Dismissal- Full Class Period
+UUUUUUUUUUU,9-28-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,9-30-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+UUUUUUUUUUU,11-10-22,Advanced Algebra,"Medical Appt. - PM (MS, US)"
+UUUUUUUUUUU,9-27-22,Astronomy,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,9-29-22,Astronomy,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,10-12-22,Astronomy,"Other (LS, MS, US)"
+UUUUUUUUUUU,9-27-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,9-29-22,Creative Writing: Essay,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,10-12-22,Creative Writing: Essay,"Other (LS, MS, US)"
+UUUUUUUUUUU,9-27-22,Electronica,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,9-29-22,Electronica,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,10-12-22,Electronica,"Other (LS, MS, US)"
+UUUUUUUUUUU,11-09-22,English 10,"Medical Appt. - AM (MS, US)"
+UUUUUUUUUUU,9-28-22,Spanish III,"Illness - All Day (LS, MS, US)"
+UUUUUUUUUUU,9-30-22,Spanish III,"Illness - Left Early (MS, US)"
+UUUUUUUUUUU,9-28-22,US History,"Illness - All Day (LS, MS, US)"
+V,11-17-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+V,9-09-22,Darwinian Revolution,School Trip - Full Day
+V,9-15-22,Darwinian Revolution,Absent
+V,11-17-22,English 10,"Illness - Left Early (MS, US)"
+V,9-09-22,French III,School Trip - Full Day
+V,9-09-22,Health,Sports  Dismissal- Half Class Period
+V,10-03-22,Health,"Illness - Left Early (MS, US)"
+V,10-05-22,Health,"Late Arrival (LS, MS, US)"
+V,10-03-22,Introduction to Psychology,"Illness - Left Early (MS, US)"
+V,10-05-22,Introduction to Psychology,"Illness - Left Early (MS, US)"
+V,10-07-22,Introduction to Psychology,"Other (LS, MS, US)"
+VV,9-16-22,Advanced Chemistry,"Family Trip (LS, MS, US)"
+VV,11-04-22,Advanced Chemistry,"Family Trip (LS, MS, US)"
+VV,10-12-22,Fire Arts,"Other (LS, MS, US)"
+VV,10-12-22,Forensic Science,"Other (LS, MS, US)"
+VV,9-21-22,Introductory Calculus,"Other (LS, MS, US)"
+VV,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+VV,9-16-22,Satire,"Family Trip (LS, MS, US)"
+VV,11-04-22,Satire,"Family Trip (LS, MS, US)"
+VV,11-04-22,US History,"Family Trip (LS, MS, US)"
+VVV,9-13-22,Advanced Algebra,Sports Dismissal- Full Class Period
+VVV,11-14-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+VVV,11-14-22,Computer Art,"Illness - All Day (LS, MS, US)"
+VVV,9-08-22,English 10,Sports  Dismissal- Half Class Period
+VVV,9-15-22,Indigenous North American History,"Illness - Left Early (MS, US)"
+VVV,11-14-22,Indigenous North American History,"Illness - All Day (LS, MS, US)"
+VVV,10-06-22,Spanish III,Sports  Dismissal- Half Class Period
+VVVV,10-27-22,Advanced Chemistry,"Other (LS, MS, US)"
+VVVV,9-21-22,French IV,"Other (LS, MS, US)"
+VVVV,9-12-22,Satire,Sports  Dismissal- Half Class Period
+VVVVV,9-13-22,Advanced Calculus,Sports Dismissal- Full Class Period
+VVVVV,9-21-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+VVVVV,9-23-22,Advanced Calculus,"Family Trip (LS, MS, US)"
+VVVVV,9-29-22,Advanced Calculus,Sports Dismissal- Full Class Period
+VVVVV,10-24-22,Advanced Calculus,College Visit-Off Campus (US)
+VVVVV,11-03-22,Advanced Calculus,College Visit-Off Campus (US)
+VVVVV,9-20-22,Advanced Statistics,"Family Trip (LS, MS, US)"
+VVVVV,9-22-22,Advanced Statistics,"Family Trip (LS, MS, US)"
+VVVVV,9-26-22,Advanced Statistics,"Late Arrival (LS, MS, US)"
+VVVVV,10-18-22,Advanced Statistics,"Other (LS, MS, US)"
+VVVVV,11-04-22,Advanced Statistics,College Visit-Off Campus (US)
+VVVVV,9-15-22,Engineer Your World,Sports Dismissal- Full Class Period
+VVVVV,9-21-22,Engineer Your World,"Family Trip (LS, MS, US)"
+VVVVV,9-23-22,Engineer Your World,"Family Trip (LS, MS, US)"
+VVVVV,11-03-22,Engineer Your World,College Visit-Off Campus (US)
+VVVVV,9-20-22,Literature and Disability,"Family Trip (LS, MS, US)"
+VVVVV,9-22-22,Literature and Disability,"Family Trip (LS, MS, US)"
+VVVVV,9-26-22,Literature and Disability,"Family Trip (LS, MS, US)"
+VVVVV,10-11-22,Literature and Disability,Sports Dismissal- Full Class Period
+VVVVV,10-18-22,Literature and Disability,"Other (LS, MS, US)"
+VVVVV,11-04-22,Literature and Disability,College Visit-Off Campus (US)
+VVVVV,9-20-22,The American War in Vietnam,"Family Trip (LS, MS, US)"
+VVVVV,9-22-22,The American War in Vietnam,"Family Trip (LS, MS, US)"
+VVVVV,10-18-22,The American War in Vietnam,"Other (LS, MS, US)"
+VVVVV,11-04-22,The American War in Vietnam,College Visit-Off Campus (US)
+VVVVVV,9-27-22,Advanced Statistics,"Other (LS, MS, US)"
+VVVVVV,9-29-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+VVVVVV,10-07-22,Advanced Statistics,School Trip - Full Day
+VVVVVV,10-12-22,Advanced Statistics,"Medical Appt. - PM (MS, US)"
+VVVVVV,11-08-22,Backpacking,"Medical Appt. - AM (MS, US)"
+VVVVVV,9-29-22,Creative Writing: Poetry,"Illness - All Day (LS, MS, US)"
+VVVVVV,10-07-22,Creative Writing: Poetry,School Trip - Full Day
+VVVVVV,9-29-22,French IV,"Illness - All Day (LS, MS, US)"
+VVVVVV,10-07-22,French IV,School Trip - Full Day
+VVVVVV,11-14-22,French IV,"Other (LS, MS, US)"
+VVVVVVV,10-11-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+VVVVVVV,11-15-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+VVVVVVV,11-16-22,Chemistry,"Illness - All Day (LS, MS, US)"
+VVVVVVV,11-16-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+VVVVVVV,10-11-22,English 10,"Illness - All Day (LS, MS, US)"
+VVVVVVV,11-15-22,English 10,"Illness - All Day (LS, MS, US)"
+VVVVVVV,11-16-22,Health,"Illness - All Day (LS, MS, US)"
+VVVVVVV,10-11-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+VVVVVVV,11-15-22,Spanish IV,"Illness - All Day (LS, MS, US)"
+VVVVVVVV,9-08-22,French II,"Late Arrival (LS, MS, US)"
+VVVVVVVV,10-11-22,French II,"Illness - All Day (LS, MS, US)"
+VVVVVVVV,10-11-22,Geometry,"Illness - All Day (LS, MS, US)"
+VVVVVVVV,10-11-22,Health,"Illness - All Day (LS, MS, US)"
+VVVVVVVVV,9-12-22,Let's Play!,Sports  Dismissal- Half Class Period
+VVVVVVVVVV,9-16-22,Biology,"Family Trip (LS, MS, US)"
+VVVVVVVVVV,9-16-22,French I,"Family Trip (LS, MS, US)"
+VVVVVVVVVV,9-16-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+VVVVVVVVVV,10-03-22,Wilderness First Aid,Sports Dismissal- Full Class Period
+VVVVVVVVVVV,9-21-22,Creative Writing: Essay,"Other (LS, MS, US)"
+VVVVVVVVVVV,9-13-22,Cultural Ethics,"Other (LS, MS, US)"
+W,9-27-22,Advanced Calculus,"Other (LS, MS, US)"
+W,10-05-22,Advanced Calculus,"Other (LS, MS, US)"
+W,10-17-22,Advanced Calculus,"Other (LS, MS, US)"
+W,10-11-22,Ecological Literature,"Other (LS, MS, US)"
+W,10-06-22,"Vertebrates: Origins, Designs & Threats","Other (LS, MS, US)"
+WW,10-05-22,Advanced Chemistry,"Illness - Left Early (MS, US)"
+WW,10-12-22,Advanced Chemistry,"Other (LS, MS, US)"
+WW,10-17-22,Advanced Chemistry,School Trip - Full Day
+WW,9-28-22,Introductory Calculus,Sports Dismissal- Full Class Period
+WW,10-06-22,Introductory Calculus,Sports Dismissal- Full Class Period
+WW,10-11-22,Introductory Calculus,Commons Duty (US)
+WW,10-03-22,Spanish IV,Sports Dismissal- Full Class Period
+WW,10-17-22,Spanish IV,School Trip - Full Day
+WW,11-04-22,Tykoe Yearbook,"Other (LS, MS, US)"
+WW,9-21-22,US History,Sports Dismissal- Full Class Period
+WW,10-12-22,US History,"Other (LS, MS, US)"
+WW,10-17-22,US History,School Trip - Full Day
+WWW,9-20-22,Environmental Science,Sports  Dismissal- Half Class Period
+WWW,10-12-22,Mandarin I,"Other (LS, MS, US)"
+WWW,9-23-22,Travel Literature,"Medical Appt. - PM (MS, US)"
+WWW,10-12-22,Travel Literature,"Other (LS, MS, US)"
+WWW,10-17-22,Travel Literature,"Late Arrival (LS, MS, US)"
+WWW,10-12-22,US History,"Other (LS, MS, US)"
+WWWW,9-09-22,English 9,School Trip - Full Day
+WWWW,9-09-22,Spanish II,School Trip - Full Day
+WWWW,9-09-22,Wilderness First Aid,Sports  Dismissal- Half Class Period
+WWWWW,10-25-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+WWWWW,10-27-22,Advanced Biology,"Other (LS, MS, US)"
+WWWWW,9-21-22,Introduction to Psychology,"Other (LS, MS, US)"
+WWWWW,10-18-22,Literature and Disability,"Other (LS, MS, US)"
+WWWWW,10-25-22,Literature and Disability,"Illness - All Day (LS, MS, US)"
+WWWWW,10-25-22,The Middle East,"Illness - All Day (LS, MS, US)"
+WWWWWW,9-21-22,Introductory Calculus,"Other (LS, MS, US)"
+WWWWWW,10-12-22,Introductory Calculus,"Other (LS, MS, US)"
+WWWWWW,10-17-22,Introductory Calculus,Absent
+WWWWWW,11-03-22,Introductory Calculus,College Meeting-On Campus (US)
+WWWWWW,11-07-22,Introductory Calculus,College Meeting-On Campus (US)
+WWWWWW,10-12-22,Mandarin II,"Other (LS, MS, US)"
+WWWWWW,11-01-22,Mandarin II,College Meeting-On Campus (US)
+WWWWWW,9-30-22,Queer Voices,"Late Arrival (LS, MS, US)"
+WWWWWW,10-18-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+WWWWWW,11-15-22,Queer Voices,"Other (LS, MS, US)"
+WWWWWW,10-18-22,Silkscreen,"Illness - All Day (LS, MS, US)"
+WWWWWW,11-15-22,Silkscreen,Commons Duty (US)
+WWWWWW,9-19-22,Stage Makeup,"Other (LS, MS, US)"
+WWWWWW,10-12-22,Stage Makeup,"Other (LS, MS, US)"
+WWWWWW,9-06-22,Yoga,Absent
+WWWWWW,10-18-22,Yoga,"Illness - All Day (LS, MS, US)"
+WWWWWW,11-15-22,Yoga,Commons Duty (US)
+WWWWWWW,9-26-22,Advanced Biology,"Religious Holiday (LS, MS, US)"
+WWWWWWW,10-25-22,Advanced Biology,"Other (LS, MS, US)"
+WWWWWWW,9-13-22,French: Advanced Studies,"Medical Appt. - PM (MS, US)"
+WWWWWWW,9-23-22,French: Advanced Studies,Absent
+WWWWWWW,9-27-22,French: Advanced Studies,"Other (LS, MS, US)"
+WWWWWWW,10-05-22,French: Advanced Studies,"Religious Holiday (LS, MS, US)"
+WWWWWWW,10-17-22,French: Advanced Studies,"Other (LS, MS, US)"
+WWWWWWW,10-24-22,French: Advanced Studies,"Family Trip (LS, MS, US)"
+WWWWWWW,11-14-22,French: Advanced Studies,"Illness - All Day (LS, MS, US)"
+WWWWWWW,10-05-22,Introductory Calculus,"Religious Holiday (LS, MS, US)"
+WWWWWWW,10-24-22,Introductory Calculus,"Family Trip (LS, MS, US)"
+WWWWWWW,11-07-22,Introductory Calculus,College Meeting-On Campus (US)
+WWWWWWW,11-14-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+WWWWWWW,9-08-22,Japanese History and Culture,Absent
+WWWWWWW,9-26-22,Japanese History and Culture,"Religious Holiday (LS, MS, US)"
+WWWWWWW,10-25-22,Japanese History and Culture,"Other (LS, MS, US)"
+WWWWWWW,10-27-22,Japanese History and Culture,Commons Duty (US)
+WWWWWWW,11-15-22,Japanese History and Culture,"Illness - Left Early (MS, US)"
+WWWWWWW,9-15-22,Travel Literature,"Other (LS, MS, US)"
+WWWWWWW,9-19-22,Travel Literature,"Other (LS, MS, US)"
+WWWWWWW,10-05-22,Travel Literature,"Religious Holiday (LS, MS, US)"
+WWWWWWW,10-24-22,Travel Literature,"Family Trip (LS, MS, US)"
+WWWWWWW,11-07-22,Travel Literature,Absent
+WWWWWWW,11-14-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+WWWWWWWW,10-18-22,Biology,"Family Trip (LS, MS, US)"
+WWWWWWWW,10-17-22,English 9,"Family Trip (LS, MS, US)"
+WWWWWWWW,11-01-22,English 9,Sports Dismissal- Full Class Period
+WWWWWWWW,10-17-22,Fire Arts,"Family Trip (LS, MS, US)"
+WWWWWWWW,10-17-22,French IV,"Family Trip (LS, MS, US)"
+WWWWWWWW,10-18-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+WWWWWWWW,10-18-22,Math Analysis,"Family Trip (LS, MS, US)"
+WWWWWWWWW,9-29-22,Introduction to Psychology,"Other (LS, MS, US)"
+WWWWWWWWW,10-18-22,Literature and Disability,"Other (LS, MS, US)"
+WWWWWWWWWW,9-09-22,Computer Art,School Trip - Full Day
+WWWWWWWWWW,10-24-22,Computer Art,Absent
+WWWWWWWWWW,9-09-22,English 9,School Trip - Full Day
+WWWWWWWWWW,10-24-22,English 9,"Illness - All Day (LS, MS, US)"
+WWWWWWWWWW,9-09-22,Math Analysis,Sports  Dismissal- Half Class Period
+WWWWWWWWWW,10-24-22,Math Analysis,Absent
+WWWWWWWWWWW,11-17-22,Chemistry,"Illness - Left Early (MS, US)"
+WWWWWWWWWWW,11-18-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+WWWWWWWWWWW,10-06-22,English 10,"Illness - Left Early (MS, US)"
+WWWWWWWWWWW,11-17-22,English 10,"Illness - Left Early (MS, US)"
+WWWWWWWWWWW,11-18-22,Health,"Illness - All Day (LS, MS, US)"
+WWWWWWWWWWW,9-19-22,Spanish III,Sports  Dismissal- Half Class Period
+WWWWWWWWWWW,10-28-22,Spanish III,Sports  Dismissal- Half Class Period
+WWWWWWWWWWW,11-18-22,Spanish III,"Illness - All Day (LS, MS, US)"
+X,10-04-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+X,9-20-22,Biology,"Medical Appt. - PM (MS, US)"
+X,10-04-22,Biology,"Illness - All Day (LS, MS, US)"
+X,9-08-22,English 9,"Medical Appt. - PM (MS, US)"
+X,10-04-22,English 9,"Illness - All Day (LS, MS, US)"
+X,10-28-22,Historical Inquiry,Sports Dismissal- Full Class Period
+X,10-26-22,Wilderness First Aid,Early Dismissal-Sports
+XX,9-06-22,Advanced Algebra,"Other (LS, MS, US)"
+XX,9-30-22,Advanced Algebra,Absent
+XX,10-06-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+XX,11-07-22,Chemistry,"Other (LS, MS, US)"
+XX,9-20-22,Japanese History and Culture,"Medical Appt. - AM (MS, US)"
+XX,9-28-22,Japanese History and Culture,"Medical Appt. - AM (MS, US)"
+XX,10-06-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+XX,10-11-22,Japanese History and Culture,"Other (LS, MS, US)"
+XX,9-20-22,Spanish III,"Medical Appt. - PM (MS, US)"
+XX,10-06-22,Spanish III,"Illness - All Day (LS, MS, US)"
+XXX,10-12-22,Algebra I,Absent
+XXX,10-12-22,Historical Inquiry,Absent
+XXX,10-12-22,Metal Design,Absent
+XXXX,10-31-22,Chemistry,"Illness - All Day (LS, MS, US)"
+XXXX,11-08-22,Chemistry,"Illness - Left Early (MS, US)"
+XXXX,10-03-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+XXXX,11-01-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+XXXX,9-27-22,English 10,"Other (LS, MS, US)"
+XXXX,10-03-22,English 10,"Illness - All Day (LS, MS, US)"
+XXXX,11-01-22,English 10,"Illness - All Day (LS, MS, US)"
+XXXX,10-31-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+XXXX,9-27-22,Spanish III,"Other (LS, MS, US)"
+XXXX,10-03-22,Spanish III,"Illness - All Day (LS, MS, US)"
+XXXX,11-01-22,Spanish III,"Illness - All Day (LS, MS, US)"
+XXXX,11-14-22,Spanish III,"Other (LS, MS, US)"
+XXXX,10-31-22,Yoga,"Illness - All Day (LS, MS, US)"
+XXXX,11-08-22,Yoga,"Illness - Left Early (MS, US)"
+XXXXX,10-17-22,Algebra I,"Illness - All Day (LS, MS, US)"
+XXXXX,10-03-22,Biology,Sports Dismissal- Full Class Period
+XXXXX,10-17-22,Biology,"Illness - All Day (LS, MS, US)"
+XXXXX,9-26-22,English 9,"Illness - All Day (LS, MS, US)"
+XXXXX,9-30-22,English 9,"Family Trip (LS, MS, US)"
+XXXXX,9-26-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+XXXXX,9-30-22,Historical Inquiry,"Family Trip (LS, MS, US)"
+XXXXX,9-26-22,Spanish I,"Illness - All Day (LS, MS, US)"
+XXXXX,9-30-22,Spanish I,"Family Trip (LS, MS, US)"
+XXXXX,10-25-22,Spanish I,Commons Duty (US)
+XXXXX,10-17-22,Strength and Conditioning,"Illness - All Day (LS, MS, US)"
+XXXXXX,10-04-22,Advanced Algebra,"Other (LS, MS, US)"
+XXXXXX,10-18-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-17-22,Advanced Algebra,"Illness - All Day (LS, MS, US)"
+XXXXXX,10-04-22,Biology,"Other (LS, MS, US)"
+XXXXXX,10-18-22,Biology,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-17-22,Biology,"Illness - All Day (LS, MS, US)"
+XXXXXX,10-04-22,English 9,"Other (LS, MS, US)"
+XXXXXX,10-18-22,English 9,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-17-22,English 9,"Illness - All Day (LS, MS, US)"
+XXXXXX,10-17-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-18-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+XXXXXX,10-17-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-18-22,Mandarin II,"Illness - All Day (LS, MS, US)"
+XXXXXX,9-15-22,Stage Makeup,"Medical Appt. - AM (MS, US)"
+XXXXXX,10-17-22,Stage Makeup,"Illness - All Day (LS, MS, US)"
+XXXXXX,11-18-22,Stage Makeup,"Illness - All Day (LS, MS, US)"
+XXXXXXX,9-28-22,Advanced Calculus,"Other (LS, MS, US)"
+XXXXXXX,10-04-22,Advanced Calculus,Commons Duty (US)
+XXXXXXX,10-18-22,Advanced Calculus,"Illness - All Day (LS, MS, US)"
+XXXXXXX,11-04-22,Advanced Calculus,College Visit-Off Campus (US)
+XXXXXXX,11-03-22,Astronomy,College Visit-Off Campus (US)
+XXXXXXX,10-18-22,Physics with Calculus,"Illness - All Day (LS, MS, US)"
+XXXXXXX,11-04-22,Physics with Calculus,College Visit-Off Campus (US)
+XXXXXXX,10-18-22,Queer Voices,"Illness - All Day (LS, MS, US)"
+XXXXXXX,11-04-22,Queer Voices,College Visit-Off Campus (US)
+XXXXXXXX,10-13-22,Acrylic Painting,School Trip - HalfDay
+XXXXXXXX,9-19-22,Dramatic Literature,"Late Arrival (LS, MS, US)"
+XXXXXXXX,9-27-22,Dramatic Literature,"Late Arrival (LS, MS, US)"
+XXXXXXXX,10-12-22,Dramatic Literature,"Other (LS, MS, US)"
+XXXXXXXX,11-03-22,Dramatic Literature,"Other (LS, MS, US)"
+XXXXXXXX,11-07-22,Dramatic Literature,"Other (LS, MS, US)"
+XXXXXXXX,10-12-22,Math Analysis,"Other (LS, MS, US)"
+XXXXXXXX,10-12-22,Physics,"Other (LS, MS, US)"
+XXXXXXXX,11-07-22,Physics,"Medical Appt. - PM (MS, US)"
+XXXXXXXX,9-20-22,US History,"Other (LS, MS, US)"
+XXXXXXXX,9-26-22,US History,"Medical Appt. - PM (MS, US)"
+XXXXXXXXX,9-06-22,Black Voices,"Illness - Left Early (MS, US)"
+XXXXXXXXX,10-06-22,Black Voices,"Other (LS, MS, US)"
+XXXXXXXXX,11-04-22,Black Voices,School Trip - Full Day
+XXXXXXXXX,10-17-22,Darwinian Revolution,"Family Trip (LS, MS, US)"
+XXXXXXXXX,10-18-22,Data Science I,"Family Trip (LS, MS, US)"
+XXXXXXXXX,10-06-22,Environmental Science,"Medical Appt. - PM (MS, US)"
+XXXXXXXXX,10-25-22,Environmental Science,"Medical Appt. - AM (MS, US)"
+XXXXXXXXX,11-04-22,Environmental Science,School Trip - Full Day
+XXXXXXXXX,10-06-22,How Do We See,Absent
+XXXXXXXXX,11-04-22,How Do We See,School Trip - Full Day
+XXXXXXXXX,9-23-22,Introductory Calculus,School Trip - Full Day
+XXXXXXXXX,10-24-22,Introductory Calculus,Absent
+XXXXXXXXX,11-01-22,Introductory Calculus,Absent
+XXXXXXXXX,11-09-22,Introductory Calculus,"Late Arrival (LS, MS, US)"
+XXXXXXXXX,10-18-22,Literature and Disability,"Family Trip (LS, MS, US)"
+XXXXXXXXX,10-18-22,Marine Biology,"Family Trip (LS, MS, US)"
+XXXXXXXXX,9-23-22,Postcolonial Voices,School Trip - Full Day
+XXXXXXXXX,10-17-22,Spanish: Advanced Studies,"Family Trip (LS, MS, US)"
+XXXXXXXXXX,10-28-22,Chemistry,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,11-18-22,Chemistry,"Medical Appt. - All Day (MS, US)"
+XXXXXXXXXX,10-27-22,English 10,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-31-22,English 10,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-27-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-31-22,Marxism and Its Legacy,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-27-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-31-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,10-28-22,Spanish III,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,11-18-22,Spanish III,"Medical Appt. - All Day (MS, US)"
+XXXXXXXXXX,10-28-22,Wilderness First Aid,"Illness - All Day (LS, MS, US)"
+XXXXXXXXXX,11-18-22,Wilderness First Aid,"Medical Appt. - All Day (MS, US)"
+XXXXXXXXXXX,9-23-22,Advanced Calculus,College Visit-Off Campus (US)
+XXXXXXXXXXX,9-22-22,Data Science I,College Visit-Off Campus (US)
+XXXXXXXXXXX,9-22-22,Japanese History and Culture,College Visit-Off Campus (US)
+XXXXXXXXXXX,10-06-22,Japanese History and Culture,"Other (LS, MS, US)"
+XXXXXXXXXXX,9-23-22,Physics,College Visit-Off Campus (US)
+XXXXXXXXXXX,9-15-22,Postcolonial Voices,"Other (LS, MS, US)"
+XXXXXXXXXXX,9-23-22,Postcolonial Voices,College Visit-Off Campus (US)
+XXXXXXXXXXX,10-17-22,Postcolonial Voices,"Other (LS, MS, US)"
+Y,10-27-22,Advanced Algebra,"Illness - Left Early (MS, US)"
+Y,10-26-22,Chemistry,"Illness - All Day (LS, MS, US)"
+Y,10-26-22,English 10,"Illness - All Day (LS, MS, US)"
+Y,11-15-22,French II,School Trip - Full Day
+Y,10-26-22,Health,"Illness - All Day (LS, MS, US)"
+YY,9-19-22,English 10,"Illness - Left Early (MS, US)"
+YY,9-15-22,Mandarin II,"Medical Appt. - PM (MS, US)"
+YY,10-05-22,Mandarin II,"Medical Appt. - AM (MS, US)"
+YY,9-19-22,Musical Theatre Ensemble,"Illness - Left Early (MS, US)"
+YYY,9-09-22,Biology,School Trip - Full Day
+YYY,9-09-22,Fire Arts,Sports  Dismissal- Half Class Period
+YYY,9-09-22,Historical Inquiry,School Trip - Full Day
+YYY,10-17-22,Historical Inquiry,Sports  Dismissal- Half Class Period
+YYYY,9-16-22,Data Science I,College Visit-Off Campus (US)
+YYYY,9-15-22,Engineer Your World,College Visit-Off Campus (US)
+YYYY,10-07-22,Engineer Your World,"Illness - All Day (LS, MS, US)"
+YYYY,9-16-22,Introductory Calculus,College Visit-Off Campus (US)
+YYYY,10-11-22,Introductory Calculus,"Other (LS, MS, US)"
+YYYY,9-16-22,Literature and Disability,College Visit-Off Campus (US)
+YYYY,9-15-22,Physics,College Visit-Off Campus (US)
+YYYY,10-07-22,Physics,"Illness - All Day (LS, MS, US)"
+YYYYY,9-27-22,Creative Writing: Poetry,"Other (LS, MS, US)"
+YYYYYY,9-20-22,Advanced Algebra,"Medical Appt. - AM (MS, US)"
+YYYYYY,10-03-22,Health,"Illness - Left Early (MS, US)"
+YYYYYY,10-24-22,Spanish II,Sports  Dismissal- Half Class Period
+YYYYYY,9-12-22,The Middle East,Sports  Dismissal- Half Class Period
+YYYYYYY,9-13-22,English 9,Sports Dismissal- Full Class Period
+YYYYYYY,10-24-22,English 9,"Illness - All Day (LS, MS, US)"
+YYYYYYY,11-01-22,English 9,Sports  Dismissal- Half Class Period
+YYYYYYY,10-24-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+YYYYYYY,9-20-22,Silkscreen,Sports Dismissal- Full Class Period
+YYYYYYY,9-28-22,Silkscreen,Sports  Dismissal- Half Class Period
+YYYYYYY,10-06-22,Silkscreen,Sports  Dismissal- Half Class Period
+YYYYYYY,9-19-22,Spanish III,Sports  Dismissal- Half Class Period
+YYYYYYY,10-24-22,Spanish III,"Illness - All Day (LS, MS, US)"
+YYYYYYY,10-28-22,Spanish III,Sports  Dismissal- Half Class Period
+YYYYYYYY,9-16-22,Backpacking,School Trip - Full Day
+YYYYYYYY,9-15-22,Biology,School Trip - Full Day
+YYYYYYYY,9-27-22,Biology,"Other (LS, MS, US)"
+YYYYYYYY,10-07-22,Biology,School Trip - Full Day
+YYYYYYYY,9-16-22,English 9,School Trip - Full Day
+YYYYYYYY,9-15-22,Geometry,School Trip - Full Day
+YYYYYYYY,9-27-22,Geometry,Commons Duty (US)
+YYYYYYYY,10-07-22,Geometry,School Trip - Full Day
+YYYYYYYY,9-15-22,Historical Inquiry,School Trip - Full Day
+YYYYYYYY,10-07-22,Historical Inquiry,School Trip - Full Day
+YYYYYYYY,9-16-22,Spanish I,School Trip - Full Day
+YYYYYYYYY,10-12-22,Chemistry,"Illness - Left Early (MS, US)"
+YYYYYYYYY,11-07-22,Chemistry,"Medical Appt. - AM (MS, US)"
+YYYYYYYYY,11-14-22,Chemistry,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,11-18-22,Chemistry,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,11-07-22,English 10,"Other (LS, MS, US)"
+YYYYYYYYY,11-14-22,English 10,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,11-18-22,English 10,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,9-14-22,French III,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,10-13-22,French III,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,10-26-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+YYYYYYYYY,11-14-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,11-18-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,9-14-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,10-13-22,The American War in Vietnam,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,9-14-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+YYYYYYYYY,10-13-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+YYYYYYYYYYY,11-15-22,Advanced Statistics,School Trip - HalfDay
+Z,9-27-22,Advanced Biology,"Illness - All Day (LS, MS, US)"
+Z,9-29-22,Advanced Biology,"Other (LS, MS, US)"
+Z,9-22-22,Advanced Statistics,"Other (LS, MS, US)"
+Z,9-26-22,Advanced Statistics,"Other (LS, MS, US)"
+Z,9-28-22,Advanced Statistics,"Other (LS, MS, US)"
+Z,9-30-22,Advanced Statistics,"Other (LS, MS, US)"
+Z,9-27-22,Introduction to Psychology,"Other (LS, MS, US)"
+Z,9-29-22,Introduction to Psychology,"Other (LS, MS, US)"
+Z,9-26-22,Queer Voices,"Other (LS, MS, US)"
+Z,9-28-22,Queer Voices,"Other (LS, MS, US)"
+Z,9-30-22,Queer Voices,"Other (LS, MS, US)"
+Z,9-26-22,Understanding the Brain,"Other (LS, MS, US)"
+Z,9-28-22,Understanding the Brain,"Other (LS, MS, US)"
+Z,9-30-22,Understanding the Brain,"Other (LS, MS, US)"
+Z,10-13-22,Understanding the Brain,"Late Arrival (LS, MS, US)"
+Z,11-08-22,Understanding the Brain,Absent
+ZZ,9-14-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+ZZ,9-16-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+ZZ,9-20-22,Environmental Science,"Other (LS, MS, US)"
+ZZ,9-22-22,Environmental Science,"Illness - All Day (LS, MS, US)"
+ZZ,11-04-22,Environmental Science,College Visit-Off Campus (US)
+ZZ,11-17-22,Environmental Science,"Family Trip (LS, MS, US)"
+ZZ,9-14-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZ,9-16-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZ,9-20-22,Math Analysis,"Other (LS, MS, US)"
+ZZ,9-22-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZ,11-04-22,Math Analysis,College Visit-Off Campus (US)
+ZZ,11-17-22,Math Analysis,"Family Trip (LS, MS, US)"
+ZZ,9-15-22,Spanish III,"Illness - All Day (LS, MS, US)"
+ZZ,9-19-22,Spanish III,"Illness - All Day (LS, MS, US)"
+ZZ,9-21-22,Spanish III,"Other (LS, MS, US)"
+ZZ,9-23-22,Spanish III,"Other (LS, MS, US)"
+ZZ,10-12-22,Spanish III,"Other (LS, MS, US)"
+ZZ,11-03-22,Spanish III,College Visit-Off Campus (US)
+ZZ,11-18-22,Spanish III,"Family Trip (LS, MS, US)"
+ZZ,9-15-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+ZZ,9-19-22,Travel Literature,"Illness - All Day (LS, MS, US)"
+ZZ,9-21-22,Travel Literature,"Other (LS, MS, US)"
+ZZ,9-23-22,Travel Literature,"Other (LS, MS, US)"
+ZZ,10-12-22,Travel Literature,"Other (LS, MS, US)"
+ZZ,10-24-22,Travel Literature,Commons Duty (US)
+ZZ,11-03-22,Travel Literature,College Visit-Off Campus (US)
+ZZ,11-18-22,Travel Literature,"Family Trip (LS, MS, US)"
+ZZ,9-14-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+ZZ,9-16-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+ZZ,9-20-22,Tykoe Yearbook,"Other (LS, MS, US)"
+ZZ,9-22-22,Tykoe Yearbook,"Illness - All Day (LS, MS, US)"
+ZZ,11-04-22,Tykoe Yearbook,College Visit-Off Campus (US)
+ZZ,11-17-22,Tykoe Yearbook,"Family Trip (LS, MS, US)"
+ZZ,9-15-22,US History,"Illness - All Day (LS, MS, US)"
+ZZ,9-19-22,US History,"Illness - All Day (LS, MS, US)"
+ZZ,9-21-22,US History,"Other (LS, MS, US)"
+ZZ,9-23-22,US History,"Other (LS, MS, US)"
+ZZ,10-12-22,US History,"Other (LS, MS, US)"
+ZZ,11-03-22,US History,College Visit-Off Campus (US)
+ZZ,11-18-22,US History,"Family Trip (LS, MS, US)"
+ZZZ,10-03-22,Additive Multimedia Sculpture,"Illness - All Day (LS, MS, US)"
+ZZZ,11-14-22,Additive Multimedia Sculpture,"Medical Appt. - AM (MS, US)"
+ZZZ,11-16-22,Additive Multimedia Sculpture,"Medical Appt. - AM (MS, US)"
+ZZZ,10-06-22,Advanced Statistics,"Illness - All Day (LS, MS, US)"
+ZZZ,10-06-22,Chemistry,"Medical Appt. - AM (MS, US)"
+ZZZ,10-03-22,English 10,"Illness - All Day (LS, MS, US)"
+ZZZ,10-06-22,Japanese History and Culture,"Illness - All Day (LS, MS, US)"
+ZZZ,9-19-22,Spanish II,Commons Duty (US)
+ZZZ,10-03-22,Spanish II,"Illness - All Day (LS, MS, US)"
+ZZZ,11-16-22,Spanish II,"Medical Appt. - AM (MS, US)"
+ZZZZ,9-22-22,Chemistry,"Illness - Left Early (MS, US)"
+ZZZZ,10-25-22,Chemistry,"Illness - Left Early (MS, US)"
+ZZZZ,10-27-22,Chemistry,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-04-22,Chemistry,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-08-22,Chemistry,"Other (LS, MS, US)"
+ZZZZ,11-10-22,Chemistry,"Extended Absence (MS, US)"
+ZZZZ,11-15-22,Chemistry,"Extended Absence (MS, US)"
+ZZZZ,10-25-22,Digital Filmmaking,"Illness - Left Early (MS, US)"
+ZZZZ,10-27-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-04-22,Digital Filmmaking,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-08-22,Digital Filmmaking,"Other (LS, MS, US)"
+ZZZZ,11-10-22,Digital Filmmaking,"Extended Absence (MS, US)"
+ZZZZ,11-15-22,Digital Filmmaking,"Extended Absence (MS, US)"
+ZZZZ,9-13-22,English 10,"Illness - All Day (LS, MS, US)"
+ZZZZ,10-12-22,English 10,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-03-22,English 10,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-07-22,English 10,"Other (LS, MS, US)"
+ZZZZ,11-09-22,English 10,"Other (LS, MS, US)"
+ZZZZ,11-14-22,English 10,"Extended Absence (MS, US)"
+ZZZZ,11-16-22,English 10,"Extended Absence (MS, US)"
+ZZZZ,9-13-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+ZZZZ,10-12-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+ZZZZ,10-26-22,Historical Inquiry,"Illness - Left Early (MS, US)"
+ZZZZ,11-03-22,Historical Inquiry,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-07-22,Historical Inquiry,"Other (LS, MS, US)"
+ZZZZ,11-09-22,Historical Inquiry,"Other (LS, MS, US)"
+ZZZZ,11-14-22,Historical Inquiry,"Extended Absence (MS, US)"
+ZZZZ,9-13-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZZZ,9-15-22,Math Analysis,"Medical Appt. - PM (MS, US)"
+ZZZZ,10-12-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZZZ,10-26-22,Math Analysis,"Illness - Left Early (MS, US)"
+ZZZZ,11-03-22,Math Analysis,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-07-22,Math Analysis,"Other (LS, MS, US)"
+ZZZZ,11-09-22,Math Analysis,"Other (LS, MS, US)"
+ZZZZ,11-14-22,Math Analysis,"Extended Absence (MS, US)"
+ZZZZ,11-16-22,Math Analysis,"Extended Absence (MS, US)"
+ZZZZ,10-25-22,Spanish II,"Illness - Left Early (MS, US)"
+ZZZZ,10-27-22,Spanish II,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-04-22,Spanish II,"Illness - All Day (LS, MS, US)"
+ZZZZ,11-08-22,Spanish II,"Other (LS, MS, US)"
+ZZZZ,11-10-22,Spanish II,"Extended Absence (MS, US)"
+ZZZZ,11-15-22,Spanish II,"Extended Absence (MS, US)"
+ZZZZZ,10-07-22,Dramatic Literature,"Medical Appt. - AM (MS, US)"
+ZZZZZ,11-18-22,Dramatic Literature,"Family Trip (LS, MS, US)"
+ZZZZZ,10-07-22,Fire Arts,"Medical Appt. - AM (MS, US)"
+ZZZZZ,10-12-22,Fire Arts,"Medical Appt. - PM (MS, US)"
+ZZZZZ,11-18-22,Fire Arts,"Family Trip (LS, MS, US)"
+ZZZZZ,9-28-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+ZZZZZ,11-08-22,Math Analysis,"Medical Appt. - AM (MS, US)"
+ZZZZZ,11-17-22,Math Analysis,"Family Trip (LS, MS, US)"
+ZZZZZ,10-07-22,Spanish III,"Medical Appt. - AM (MS, US)"
+ZZZZZ,11-14-22,Spanish III,"Other (LS, MS, US)"
+ZZZZZ,11-18-22,Spanish III,"Family Trip (LS, MS, US)"
+ZZZZZ,10-13-22,US History,School Trip - HalfDay
+ZZZZZ,11-17-22,US History,"Family Trip (LS, MS, US)"
+ZZZZZ,9-28-22,"Vertebrates: Origins, Designs & Threats","Medical Appt. - AM (MS, US)"
+ZZZZZ,11-17-22,"Vertebrates: Origins, Designs & Threats","Family Trip (LS, MS, US)"
+ZZZZZZ,9-22-22,Advanced Algebra,Sports  Dismissal- Half Class Period
+ZZZZZZ,9-12-22,Let's Play!,Sports  Dismissal- Half Class Period
+ZZZZZZZ,10-04-22,Advanced Biology,"Other (LS, MS, US)"
+ZZZZZZZ,10-27-22,Advanced Biology,"Other (LS, MS, US)"
+ZZZZZZZ,11-14-22,Introductory Calculus,"Late Arrival (LS, MS, US)"
+ZZZZZZZ,9-27-22,Postcolonial Voices,"Late Arrival (LS, MS, US)"
+ZZZZZZZ,11-14-22,The Graphic Novel,"Late Arrival (LS, MS, US)"
+ZZZZZZZ,9-12-22,The Middle East,Sports  Dismissal- Half Class Period
+ZZZZZZZZ,9-16-22,Backpacking,School Trip - Full Day
+ZZZZZZZZ,9-16-22,Biology,School Trip - Full Day
+ZZZZZZZZ,9-15-22,English 9,School Trip - Full Day
+ZZZZZZZZ,11-18-22,English 9,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZ,9-15-22,Geometry,School Trip - Full Day
+ZZZZZZZZ,11-18-22,Geometry,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZ,9-16-22,Historical Inquiry,School Trip - Full Day
+ZZZZZZZZ,9-15-22,Mandarin I,School Trip - Full Day
+ZZZZZZZZ,11-18-22,Mandarin I,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZ,9-22-22,Advanced Algebra,Sports Dismissal- Full Class Period
+ZZZZZZZZZ,10-28-22,Chemistry,"Medical Appt. - PM (MS, US)"
+ZZZZZZZZZ,11-14-22,Chemistry,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZ,9-15-22,Cultural Ethics,Sports Dismissal- Full Class Period
+ZZZZZZZZZ,11-14-22,Cultural Ethics,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZ,9-08-22,English 10,Sports Dismissal- Full Class Period
+ZZZZZZZZZ,11-14-22,Health,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZ,10-13-22,Spanish II,School Trip - HalfDay
+ZZZZZZZZZZZ,9-13-22,Astronomy,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZZ,9-23-22,Astronomy,School Trip - Full Day
+ZZZZZZZZZZZ,9-12-22,Data Science I,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZZ,11-04-22,Data Science I,School Trip - Full Day
+ZZZZZZZZZZZ,9-13-22,Dramatic Literature,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZZ,9-23-22,Dramatic Literature,School Trip - Full Day
+ZZZZZZZZZZZ,9-13-22,Introductory Calculus,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZZ,9-23-22,Introductory Calculus,School Trip - Full Day
+ZZZZZZZZZZZ,10-17-22,Introductory Calculus,Commons Duty (US)
+ZZZZZZZZZZZ,9-12-22,Mandarin IV,"Illness - All Day (LS, MS, US)"
+ZZZZZZZZZZZ,10-13-22,Mandarin IV,School Trip - HalfDay
+ZZZZZZZZZZZ,11-04-22,Mandarin IV,School Trip - Full Day
+,,,
